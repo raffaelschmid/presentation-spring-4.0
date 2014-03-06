@@ -1,0 +1,3607 @@
+Country,City,AccentCity,Region,Population,Latitude,Longitude
+ch,aadorf,Aadorf,19,7100,47.492721,8.898326
+ch,aarau,Aarau,01,15007,47.389616,8.052354
+ch,aaray,Aaray,01,,47.389616,8.052354
+ch,aarberg,Aarberg,05,,47.043835,7.27357
+ch,aarburg,Aarburg,01,6484,47.319634,7.901413
+ch,aarwangen,Aarwangen,01,,47.238533,7.770042
+ch,aathal,Aathal,25,,47.335081,8.770014
+ch,ablandschen,Ablandschen,06,,46.57296,7.289358
+ch,abtwil,Abtwil,15,,47.423126,9.320997
+ch,abtwyl,Abtwyl,15,,47.423126,9.320997
+ch,acheberg,Acheberg,01,,47.586096,8.274264
+ch,ackersand,Ackersand,22,,46.240211,7.874226
+ch,acla,Acla,21,,46.635935,8.845674
+ch,aclas dafora,Aclas Dafora,09,,46.694877,9.639743
+ch,acquacalda,Acquacalda,20,,46.537328,8.83265
+ch,acquarossa,Acquarossa,20,,46.451762,8.939989
+ch,adannes,Adannes,06,,46.531238,7.245699
+ch,adelboden,Adelboden,05,,46.491829,7.559315
+ch,adligenswil,Adligenswil,11,,47.065212,8.361242
+ch,adliswil,Adliswil,25,16144,47.311896,8.528684
+ch,aecherli,Aecherli,14,,46.833333,8.183333
+ch,aeckenmatt,Aeckenmatt,05,,46.858322,7.364219
+ch,aedermannsdorf,Aedermannsdorf,18,,47.304966,7.609438
+ch,aelgau,Aelgau,05,,46.774806,7.967236
+ch,aelgauli,Aelgauli,05,,46.774806,7.967236
+ch,aelggi alm,Aelggi Alm,14,,46.796864,8.237504
+ch,aelggi alp,Aelggi Alp,14,,46.796864,8.237504
+ch,aernen,Aernen,01,,46.398696,8.145833
+ch,aesch,Aesch,01,,47.257843,8.24134
+ch,aesch,Aesch,04,10396,47.469456,7.595763
+ch,aesch,Aesch,21,,46.883333,8.8
+ch,aeschau,Aeschau,05,,46.909547,7.76181
+ch,aescher,Aescher,10,,47.283279,9.41425
+ch,aeschi,Aeschi,05,,46.658473,7.69611
+ch,aeschlen,Aeschlen,05,,46.720027,7.699279
+ch,aeschlenberg,Aeschlenberg,06,,46.786634,7.261203
+ch,aettenschwil,Aettenschwil,01,,47.18356,8.371846
+ch,aeugst,Aeugst,01,,47.270413,8.483312
+ch,affeltrangen,Affeltrangen,19,,47.527012,9.032068
+ch,affoltern,Affoltern,01,10415,47.281224,8.45346
+ch,affoltern am albis,Affoltern am Albis,01,,47.281224,8.45346
+ch,agarn,Agarn,22,,46.297726,7.666323
+ch,ageri,Ageri,24,,47.136445,8.585305
+ch,agettes,Agettes,22,,46.211204,7.373692
+ch,agiez,Agiez,23,,46.72067,6.508084
+ch,agno,Agno,20,,45.983333,8.85
+ch,agra,Agra,20,,45.96671,8.912233
+ch,aigle,Aigle,23,7897,46.318103,6.964567
+ch,aino,Aino,09,,46.333333,10.033333
+ch,aion,Aion,09,,46.333333,10.033333
+ch,airlonia,Airlonia,14,,46.528471,8.608806
+ch,airola,Airola,14,,46.528471,8.608806
+ch,airolo,Airolo,14,,46.528471,8.608806
+ch,alberswil,Alberswil,01,,47.149981,8.003132
+ch,albeuve,Albeuve,23,,46.517315,7.056675
+ch,albinen,Albinen,22,,46.34123,7.633791
+ch,albligen,Albligen,05,,46.852286,7.31814
+ch,alchenstorf,Alchenstorf,18,,47.125372,7.637852
+ch,all'acqua,All'Acqua,14,,46.486528,8.475151
+ch,all'acqua ospizio,All'Acqua Ospizio,14,,46.486528,8.475151
+ch,allaman,Allaman,07,,46.470796,6.395529
+ch,alle,Alle,26,,47.426175,7.129112
+ch,allmendingen,Allmendingen,05,,46.742526,7.594716
+ch,allschwil,Allschwil,04,18745,47.550744,7.535994
+ch,almagell,Almagell,22,,46.095042,7.957507
+ch,alpe braita,Alpe Braita,09,,46.292613,10.044832
+ch,alpe cava,Alpe Cava,20,,46.361294,9.036113
+ch,alpe de la barma,Alpe de la Barma,22,,46.061453,7.386043
+ch,alpe della costa,Alpe della Costa,20,,46.366667,8.833333
+ch,alpe de noveli,Alpe de Noveli,22,,46.134304,7.316892
+ch,alpe de peryeire,Alpe de Peryeire,22,,46.066674,7.282552
+ch,alpe de tortin,Alpe de Tortin,22,,46.113569,7.303861
+ch,alpe di boggio,Alpe di Boggio,20,,46.35,9.183333
+ch,alpe di cava,Alpe di Cava,20,,46.361294,9.036113
+ch,alpe di cortas,Alpe di Cortas,20,,46.4,9.216667
+ch,alpe di crastera,Alpe di Crastera,20,,46.349926,9.248917
+ch,alpe dil chant,Alpe dil Chant,09,,46.645588,9.82781
+ch,alpe di naccio,Alpe di Naccio,20,,46.15,8.683333
+ch,alpe di quarnajo,Alpe di Quarnajo,20,,46.483333,9.016667
+ch,alpe di scieru,Alpe di Scieru,20,,46.45,9.033333
+ch,alpe di trescolmen,Alpe di Trescolmen,20,,46.4,9.166667
+ch,alpe hannig,Alpe Hannig,22,,46.207038,7.866805
+ch,alpe porcarescio,Alpe Porcarescio,20,,46.25,8.5
+ch,alpe pulgabio,Alpe Pulgabio,20,,46.405315,9.050562
+ch,alpe quarnaro,Alpe Quarnaro,20,,46.483333,9.016667
+ch,alpe ritom,Alpe Ritom,14,,46.55,8.683333
+ch,alpe schmorras,Alpe Schmorras,09,,46.55,9.516667
+ch,alpe sfille,Alpe Sfille,20,,46.25,8.5
+ch,alpe silvretta,Alpe Silvretta,09,,46.866667,10.033333
+ch,alpe trescolmine,Alpe Trescolmine,20,,46.4,9.166667
+ch,alp grum,Alp Grum,09,,46.375014,10.033754
+ch,al piano,Al Piano,20,,46.416667,8.6
+ch,alpi di trescolmine,Alpi di Trescolmine,20,,46.4,9.166667
+ch,alpiglen,Alpiglen,05,,46.600119,8.004002
+ch,alp laret-dadaint,Alp Laret-Dadaint,09,,46.8,10.216667
+ch,alpnach,Alpnach,14,5139,46.940195,8.274263
+ch,alpnachstad,Alpnachstad,14,,46.952383,8.275968
+ch,alp schmorras,Alp Schmorras,09,,46.55,9.516667
+ch,alp spinas,Alp Spinas,09,,46.55,9.833333
+ch,alptal,Alptal,17,,47.069698,8.714575
+ch,alpthal,Alpthal,17,,47.069698,8.714575
+ch,alp vallatsch,Alp Vallatsch,09,,46.616667,9.2
+ch,alp valtnov,Alp Valtnov,09,,46.966667,9.316667
+ch,al sasso,Al Sasso,20,,46.15,8.95
+ch,altanca,Altanca,20,,46.524605,8.680793
+ch,altdorf,Altdorf,21,8833,46.880422,8.644409
+ch,alten,Alten,16,,47.598501,8.647005
+ch,altendorf,Altendorf,17,,47.191368,8.829445
+ch,altenrhein,Altenrhein,15,,47.490366,9.552161
+ch,alterswil,Alterswil,06,,46.795867,7.258774
+ch,alterswilen,Alterswilen,15,,47.610058,9.153448
+ch,alt-felsberg,Alt-Felsberg,09,,46.845343,9.469952
+ch,alt guraletsch,Alt Guraletsch,09,,46.583333,9.133333
+ch,altishofen,Altishofen,01,,47.199161,7.969636
+ch,altmatt,Altmatt,17,,47.133333,8.7
+ch,altnau,Altnau,15,,47.611622,9.259048
+ch,alton,Alton,16,,47.598501,8.647005
+ch,alt sankt johann,Alt Sankt Johann,10,,47.19401,9.286565
+ch,altstatten,Altstatten,15,10585,47.379433,9.548989
+ch,alt toggenburg,Alt Toggenburg,25,,47.383333,8.966667
+ch,alt-wiedikon,Alt-Wiedikon,25,,47.366667,8.516667
+ch,alvaneu,Alvaneu,09,,46.67892,9.64378
+ch,alvaneubad,Alvaneubad,09,,46.67892,9.64378
+ch,alvaneu dorf,Alvaneu Dorf,09,,46.67892,9.64378
+ch,alvaschein,Alvaschein,09,,46.674884,9.55051
+ch,am bach,Am Bach,09,,46.458679,9.537212
+ch,ambri,Ambri,20,,46.5,8.683333
+ch,amden,Amden,08,,47.148879,9.142332
+ch,amriswil,Amriswil,15,11543,47.546992,9.298365
+ch,amsoldingen,Amsoldingen,05,,46.727544,7.582471
+ch,amsteg,Amsteg,21,,46.771317,8.669632
+ch,andeer,Andeer,09,,46.603867,9.426647
+ch,andelfingen,Andelfingen,16,,47.594829,8.679678
+ch,andermatt,Andermatt,14,,46.635441,8.592644
+ch,andest,Andest,09,,46.784541,9.113726
+ch,andwil,Andwil,02,,47.438553,9.276365
+ch,angeli custodi,Angeli Custodi,09,,46.359105,10.075162
+ch,angone,Angone,20,,46.444278,8.863508
+ch,anieres,Anieres,07,,46.276223,6.223024
+ch,anveuda,Anveuda,20,,46.540922,8.900976
+ch,anzonico,Anzonico,20,,46.430189,8.866034
+ch,appenzell,Appenzell,10,5541,47.328914,9.410547
+ch,apples,Apples,23,,46.552405,6.429052
+ch,apro,Apro,22,,46.20668,7.313524
+ch,aproz,Aproz,22,,46.20668,7.313524
+ch,aquila,Aquila,20,,46.503874,8.949169
+ch,aquino,Aquino,20,,46.263911,8.825898
+ch,arbas,Arbas,22,,46.273625,7.383997
+ch,arbaz,Arbaz,22,,46.273625,7.383997
+ch,arbedo,Arbedo,20,,46.215788,9.047344
+ch,arbon,Arbon,15,13125,47.515392,9.434779
+ch,arcegno,Arcegno,20,,46.162208,8.741895
+ch,arch,Arch,18,,47.166249,7.429376
+ch,arconciel,Arconciel,06,,46.746348,7.124687
+ch,ardet,Ardet,20,,46.48466,8.906359
+ch,ardez,Ardez,09,,46.77506,10.202284
+ch,ardon,Ardon,22,,46.210635,7.257758
+ch,argseeli,Argseeli,08,,46.900244,8.927914
+ch,arisdorf,Arisdorf,01,,47.510104,7.764598
+ch,aristau,Aristau,01,,47.286915,8.363562
+ch,arlesheim,Arlesheim,04,9737,47.495875,7.619839
+ch,arnex,Arnex,23,,46.693983,6.518862
+ch,arni alm,Arni Alm,14,,46.816667,8.25
+ch,arni alp,Arni Alp,14,,46.800379,8.090093
+ch,arni,Arni,05,,46.935186,7.664734
+ch,arogno,Arogno,20,,45.958976,8.986486
+ch,arolla,Arolla,22,,46.024603,7.482451
+ch,arosa,Arosa,09,2162,46.777926,9.676206
+ch,arosa bahnhof,Arosa Bahnhof,09,,46.777926,9.676206
+ch,arosio,Arosio,20,,46.047774,8.905971
+ch,artaschiew,Artaschiew,09,,46.916667,9.516667
+ch,arth,Arth,17,10100,47.06337,8.523485
+ch,arveyes,Arveyes,23,,46.290027,7.060604
+ch,arvigo,Arvigo,20,,46.302106,9.112998
+ch,arzier,Arzier,07,,46.459561,6.208546
+ch,arzo,Arzo,20,,45.875924,8.940859
+ch,ascharina,Ascharina,09,,46.95162,9.80539
+ch,aschlenberg,Aschlenberg,06,,46.786634,7.261203
+ch,ascona,Ascona,20,5236,46.156255,8.778395
+ch,assens,Assens,23,,46.612594,6.622221
+ch,astano,Astano,20,,46.012491,8.816535
+ch,asuel,Asuel,26,,47.403564,7.210779
+ch,attalens,Attalens,23,,46.509958,6.848353
+ch,attinghausen,Attinghausen,21,,46.862554,8.630363
+ch,attiswil,Attiswil,18,,47.248852,7.613538
+ch,au,Au,04,,47.55,7.65
+ch,au,Au,15,6864,47.432211,9.633869
+ch,au,Au,24,,47.233333,8.633333
+ch,au,Au,25,,47.383333,8.95
+ch,aubonne,Aubonne,07,,46.495992,6.391542
+ch,auenstein,Auenstein,01,,47.415578,8.134546
+ch,auf dem stock,Auf dem Stock,14,,46.716667,8.233333
+ch,auf der hohe,Auf der Hohe,09,,46.916667,9.4
+ch,augio,Augio,20,,46.364501,9.126973
+ch,augst,Augst,01,,47.536818,7.717205
+ch,aumont,Aumont,23,,46.79958,6.851329
+ch,auressio,Auressio,20,,46.20111,8.683962
+ch,aurigeno,Aurigeno,20,,46.231986,8.712219
+ch,ausserbinn,Ausserbinn,01,,46.381967,8.14817
+ch,ausserdinhard,Ausserdinhard,25,,47.555989,8.769482
+ch,aussere altmatt,Aussere Altmatt,17,,47.133333,8.7
+ch,ausserferrera,Ausserferrera,09,,46.557064,9.440275
+ch,ausserglas,Ausserglas,09,,46.678045,9.345985
+ch,ausserholligen,Ausserholligen,22,,46.083333,7.4
+ch,ausser latterbach,Ausser Latterbach,05,,46.668387,7.597505
+ch,aussersihl,Aussersihl,25,,47.366667,8.55
+ch,autigny,Autigny,06,,46.737296,7.022172
+ch,auvernier,Auvernier,12,,46.977212,6.87636
+ch,auw,Auw,01,,47.211626,8.365392
+ch,aux acacias,Aux Acacias,07,,46.183333,6.133333
+ch,avegno,Avegno,20,,46.206655,8.74321
+ch,avenches,Avenches,06,,46.880888,7.041042
+ch,avry,Avry,06,,46.788153,7.070063
+ch,avry-sur-matran,Avry-sur-Matran,06,,46.788153,7.070063
+ch,axenstein,Axenstein,17,,46.983333,8.616667
+ch,ayent,Ayent,22,,46.276857,7.406755
+ch,ayer,Ayer,22,,46.179018,7.602836
+ch,baar,Baar,24,20752,47.196254,8.529544
+ch,bach,Bach,17,,47.20159,8.726433
+ch,bachenbulach,Bachenbulach,01,,47.503787,8.547274
+ch,bachlen,Bachlen,05,,46.644555,7.576512
+ch,bachs,Bachs,01,,47.52572,8.440596
+ch,bachtolen,Bachtolen,22,,46.284315,7.800866
+ch,baden,Baden,01,16659,47.478029,8.302764
+ch,bad ragaz,Bad Ragaz,09,4786,47.005367,9.501217
+ch,bad schinznach,Bad Schinznach,01,,47.449855,8.170209
+ch,bad-schwarzsee,Bad-Schwarzsee,06,,46.671079,7.290183
+ch,bagnes,Bagnes,22,7114,46.083333,7.216667
+ch,baillaigues,Baillaigues,23,,46.730553,6.41556
+ch,bains de lavey,Bains de Lavey,22,,46.204288,7.017592
+ch,bale,Bale,04,,47.558395,7.573271
+ch,balen,Balen,09,,46.984393,9.482755
+ch,balerna,Balerna,20,,45.848821,9.014163
+ch,balgach,Balgach,15,,47.405438,9.609503
+ch,ballaigues,Ballaigues,23,,46.730553,6.41556
+ch,ballaluna,Ballaluna,09,,46.653661,9.713863
+ch,ballens,Ballens,23,,46.55496,6.374269
+ch,ballwil,Ballwil,11,,47.154869,8.32138
+ch,balm,Balm,14,,46.75,8.083333
+ch,balm bei messen,Balm bei Messen,05,,47.103635,7.430713
+ch,balmenegg,Balmenegg,21,,46.782717,8.766132
+ch,balstal,Balstal,01,,47.31591,7.693047
+ch,balsthal,Balsthal,01,5576,47.31591,7.693047
+ch,baltenswil,Baltenswil,25,,47.428922,8.642412
+ch,baltschieder,Baltschieder,22,,46.308022,7.863808
+ch,banco,Banco,20,,46.009859,8.84413
+ch,bangerten,Bangerten,05,,47.055639,7.449139
+ch,bannwil,Bannwil,01,,47.234045,7.731013
+ch,barau,Barau,05,,46.930064,7.811431
+ch,barbereche,Barbereche,06,,46.857347,7.15982
+ch,barberine,Barberine,07,,46.050366,6.94138
+ch,baretswil,Baretswil,25,,47.337623,8.854823
+ch,bariswil,Bariswil,05,,47.020249,7.526286
+ch,barma,Barma,22,,46.123912,7.635106
+ch,barmaz,Barmaz,07,,46.148442,6.831665
+ch,barme,Barme,07,,46.148442,6.831665
+ch,barschwil,Barschwil,26,,47.382299,7.472575
+ch,barschwil-dorf,Barschwil-Dorf,26,,47.382299,7.472575
+ch,basadingen,Basadingen,16,,47.669018,8.74613
+ch,baselaugst,Baselaugst,01,,47.536818,7.717205
+ch,basel,Basel,04,164474,47.558395,7.573271
+ch,basenheid,Basenheid,02,,47.413479,9.068375
+ch,basilea,Basilea,04,,47.558395,7.573271
+ch,basle,Basle,04,,47.558395,7.573271
+ch,bassecourt,Bassecourt,26,,47.338293,7.244943
+ch,basse-nendaz,Basse-Nendaz,22,,46.191142,7.311152
+ch,bassersdorf,Bassersdorf,25,9860,47.443184,8.625859
+ch,batanja,Batanja,09,,46.89581,9.510646
+ch,batterkinden,Batterkinden,18,,47.133633,7.541035
+ch,bauen,Bauen,21,,46.935591,8.578363
+ch,baulmes,Baulmes,23,,46.790264,6.521749
+ch,bauma,Bauma,25,,47.367687,8.876859
+ch,bauried,Bauried,15,,47.466667,9.583333
+ch,bauriet,Bauriet,15,,47.466667,9.583333
+ch,bavois,Bavois,23,,46.684032,6.5671
+ch,bavugls,Bavugls,09,,46.604352,9.462258
+ch,bazenheid,Bazenheid,02,,47.413479,9.068375
+ch,beatenbeig,Beatenbeig,05,,46.693086,7.785226
+ch,beatenberg,Beatenberg,05,,46.693086,7.785226
+ch,beckenried,Beckenried,13,,46.964763,8.473935
+ch,bedra,Bedra,09,,46.807563,9.884021
+ch,bedretto,Bedretto,14,,46.505951,8.511625
+ch,beggingen,Beggingen,16,,47.767139,8.535485
+ch,begnins,Begnins,07,,46.440324,6.247989
+ch,bei der sage,Bei der Sage,09,,46.766667,9.833333
+ch,beim hohenhaus,Beim Hohenhaus,09,,46.45,9.466667
+ch,beim thurm,Beim Thurm,09,,46.633333,9.283333
+ch,beinwil,Beinwil,01,,47.260586,8.205056
+ch,belalp,Belalp,22,,46.371251,7.972218
+ch,belfaux,Belfaux,06,,46.821632,7.106936
+ch,bellaluna,Bellaluna,09,,46.653661,9.713863
+ch,bellechasse,Bellechasse,12,,46.974374,7.131631
+ch,bellelay,Bellelay,05,,47.263297,7.166579
+ch,bellerive,Bellerive,12,,46.92371,7.022309
+ch,bellevue,Bellevue,07,,46.254376,6.152976
+ch,bellinzona,Bellinzona,20,17006,46.195201,9.02283
+ch,bellmund,Bellmund,05,,47.108434,7.247597
+ch,bellwald,Bellwald,01,,46.423904,8.159999
+ch,belmont-sur-lausanne,Belmont-sur-Lausanne,23,,46.533333,6.7
+ch,belp,Belp,05,9594,46.890805,7.499042
+ch,belvedere,Belvedere,14,,46.566667,8.383333
+ch,benken,Benken,16,,47.652916,8.653104
+ch,benken,Benken,17,,47.198418,9.004345
+ch,bercher,Bercher,23,,46.692181,6.70833
+ch,berg,Berg,15,,47.579695,9.166353
+ch,bergun,Bergun,09,,46.62906,9.745179
+ch,berikon,Berikon,01,,47.35137,8.372094
+ch,beringen,Beringen,16,,47.696664,8.577906
+ch,berisal,Berisal,22,,46.296258,8.062502
+ch,berna,Berna,05,,46.916667,7.466667
+ch,bern,Bern,05,123018,46.916667,7.466667
+ch,berne,Berne,05,,46.916667,7.466667
+ch,berneck,Berneck,15,,47.425047,9.612991
+ch,bernex,Bernex,07,9266,46.177162,6.074159
+ch,berninahauser,Berninahauser,09,,46.444744,9.969662
+ch,bernina suot,Bernina Suot,09,,46.444744,9.969662
+ch,beromunster,Beromunster,01,,47.206122,8.192648
+ch,berschis,Berschis,08,,47.107193,9.346017
+ch,berzona,Berzona,20,,46.213259,8.860099
+ch,betelried,Betelried,05,,46.533333,7.383333
+ch,betelried blankenburg,Betelried Blankenburg,05,,46.533333,7.383333
+ch,betschwanden,Betschwanden,08,,46.946339,9.02763
+ch,bettelried,Bettelried,05,,46.533333,7.383333
+ch,betten,Betten,01,,46.377699,8.070453
+ch,bettingen,Bettingen,04,,47.6,7.65
+ch,bettlach,Bettlach,18,,47.201438,7.424023
+ch,beuson,Beuson,22,,46.166667,7.3
+ch,bevaix,Bevaix,12,,46.932392,6.816076
+ch,bevers,Bevers,09,,46.550212,9.888526
+ch,bevilard,Bevilard,05,,47.237725,7.284531
+ch,bex,Bex,23,5995,46.252137,7.011408
+ch,beznau,Beznau,01,,47.5,8.25
+ch,biasca,Biasca,20,5937,46.360581,8.969103
+ch,biaschina,Biaschina,20,,46.421424,8.857187
+ch,biasco,Biasco,20,,46.360581,8.969103
+ch,biber,Biber,16,,47.773514,8.677635
+ch,biberbrucke,Biberbrucke,17,,47.155606,8.721659
+ch,biberen,Biberen,05,,46.93864,7.21196
+ch,biberist,Biberist,18,7463,47.185591,7.56005
+ch,bibern,Bibern,16,,47.773514,8.677635
+ch,biborgo,Biborgo,20,,46.376504,9.053432
+ch,bichelsee,Bichelsee,19,,47.449359,8.922739
+ch,bidogno,Bidogno,20,,46.078582,8.999931
+ch,biel,Biel,05,49675,47.141666,7.257589
+ch,biel,Biel,14,,46.455407,8.217301
+ch,bienne,Bienne,05,,47.141666,7.257589
+ch,biere,Biere,07,,46.537379,6.332352
+ch,bigenthal,Bigenthal,05,,46.966129,7.624039
+ch,biglen,Biglen,05,,46.926287,7.625077
+ch,bignasco,Bignasco,20,,46.338564,8.608975
+ch,bigorio,Bigorio,20,,46.070216,8.959042
+ch,bilten,Bilten,17,,47.150992,9.028213
+ch,binn,Binn,01,,46.364351,8.183486
+ch,binningen,Binningen,04,15046,47.533588,7.568512
+ch,bioggio,Bioggio,20,,46.016667,8.883333
+ch,bioley-orjulaz,Bioley-Orjulaz,23,,46.620817,6.599282
+ch,birmensdorf,Birmensdorf,25,5630,47.35465,8.437566
+ch,birmenstorf,Birmenstorf,01,,47.462821,8.246699
+ch,birmenstorf,Birmenstorf,25,,47.35465,8.437566
+ch,bironico,Bironico,20,,46.110383,8.93314
+ch,birr,Birr,01,,47.435868,8.20801
+ch,birr-lufig,Birr-Lufig,01,,47.435868,8.20801
+ch,birrwil,Birrwil,01,,47.288601,8.200039
+ch,birsfelden,Birsfelden,04,10627,47.554953,7.645868
+ch,birtschen,Birtschen,21,,46.833333,8.65
+ch,bissegg,Bissegg,19,,47.56159,9.044926
+ch,bissone,Bissone,20,,45.951092,8.964463
+ch,bitsch,Bitsch,22,,46.35,7.966667
+ch,bivio,Bivio,09,,46.468553,9.650643
+ch,bivio stalla,Bivio Stalla,09,,46.468553,9.650643
+ch,blankenburg,Blankenburg,05,,46.533333,7.383333
+ch,blas,Blas,09,,46.958697,9.487269
+ch,blatten,Blatten,05,,46.420159,7.818871
+ch,blatten,Blatten,11,,47.039703,8.225471
+ch,blatten,Blatten,22,,46.007396,7.736246
+ch,blauen,Blauen,04,,47.450235,7.518477
+ch,blausee,Blausee,05,,46.532085,7.669877
+ch,blitzingen,Blitzingen,14,,46.443599,8.201904
+ch,blonay,Blonay,23,5294,46.465737,6.895053
+ch,blumenstein,Blumenstein,05,,46.7421,7.521361
+ch,boden,Boden,14,,46.668756,8.266648
+ch,boden,Boden,21,,46.866667,8.583333
+ch,bodio,Bodio,20,,46.378389,8.911669
+ch,boegia,Boegia,09,,46.464338,9.684908
+ch,boggia,Boggia,09,,46.464338,9.684908
+ch,bogia,Bogia,09,,46.464338,9.684908
+ch,bogis-bossey,Bogis-Bossey,07,,46.35,6.166667
+ch,bogno,Bogno,20,,46.089716,9.063468
+ch,bolastro,Bolastro,20,,46.303956,8.762858
+ch,bolgen,Bolgen,09,,46.788804,9.821842
+ch,bollaigues,Bollaigues,05,,46.974194,7.495697
+ch,boll,Boll,05,,46.954085,7.548335
+ch,bolligen,Bolligen,05,6291,46.974194,7.495697
+ch,bolligen-dorf,Bolligen-Dorf,05,,46.974194,7.495697
+ch,boltigen,Boltigen,05,,46.628904,7.391109
+ch,bolzbach,Bolzbach,21,,46.898194,8.593593
+ch,bonaduz,Bonaduz,09,,46.811032,9.398214
+ch,boncourt,Boncourt,26,,47.495603,7.014229
+ch,bonfol,Bonfol,26,,47.477352,7.151441
+ch,bonigen,Bonigen,05,,46.687356,7.893496
+ch,boniswil,Boniswil,01,,47.317253,8.189632
+ch,bonmont,Bonmont,07,,45.366667,6.133333
+ch,bonnefontaine,Bonnefontaine,06,,46.741072,7.201311
+ch,bonstetten,Bonstetten,25,,47.315545,8.466652
+ch,bonvillars,Bonvillars,23,,46.839024,6.671044
+ch,borex,Borex,07,,46.379202,6.178218
+ch,borgnone,Borgnone,20,,46.159773,8.615724
+ch,borgonovo,Borgonovo,09,,46.347891,9.60437
+ch,bort,Bort,05,,46.717012,7.847706
+ch,bosco gurin,Bosco Gurin,20,,46.31696,8.491228
+ch,bosingen,Bosingen,06,,46.892288,7.227702
+ch,bossey,Bossey,07,,46.35,6.166667
+ch,bottens,Bottens,23,,46.617106,6.660454
+ch,bottenwil,Bottenwil,01,,47.285412,8.004638
+ch,bottighofen,Bottighofen,15,,47.636413,9.208838
+ch,bottmingen,Bottmingen,04,5956,47.522735,7.569016
+ch,bottstein,Bottstein,01,,47.553986,8.220009
+ch,boudevilliers,Boudevilliers,12,,47.027376,6.889481
+ch,boudry,Boudry,12,5038,46.953019,6.83897
+ch,bourg-saint-pierre,Bourg-Saint-Pierre,22,,45.949168,7.207757
+ch,bourg san pierre,Bourg San Pierre,22,,45.949168,7.207757
+ch,bouveret,Bouveret,23,,46.38459,6.853274
+ch,bovernier,Bovernier,22,,46.080454,7.087378
+ch,bowil,Bowil,05,,46.89304,7.697566
+ch,bozen,Bozen,01,,47.495284,8.083328
+ch,brail,Brail,09,,46.655524,10.035129
+ch,bramis,Bramis,22,,46.232644,7.40341
+ch,bramois,Bramois,22,,46.232644,7.40341
+ch,brand,Brand,09,,46.637163,9.171158
+ch,bratsch,Bratsch,22,,46.321046,7.708891
+ch,braunwald,Braunwald,08,,46.939053,8.993744
+ch,bre,Bre,20,,46.011381,8.997427
+ch,brecholey,Brecholey,22,,46.024583,7.320313
+ch,breibe,Breibe,25,,47.460902,8.660313
+ch,breil,Breil,08,,46.769861,9.06036
+ch,breite,Breite,25,,47.460902,8.660313
+ch,breitenbach,Breitenbach,04,,47.405639,7.54382
+ch,breitenfeld,Breitenfeld,14,,46.784859,8.102228
+ch,bremgarten,Bremgarten,01,6702,47.352604,8.329955
+ch,bremgarten,Bremgarten,05,,46.978032,7.438523
+ch,bremis,Bremis,22,,46.232644,7.40341
+ch,brenles,Brenles,23,,46.670557,6.853265
+ch,breno,Breno,20,,46.032325,8.869836
+ch,brenzikofen,Brenzikofen,05,,46.818119,7.61713
+ch,bre sopra lugano,Bre sopra Lugano,20,,46.011381,8.997427
+ch,bretzwil,Bretzwil,01,,47.397834,7.652216
+ch,brienz,Brienz,09,,46.668331,9.595099
+ch,brienz,Brienz,14,,46.766667,8.033333
+ch,brienzwiler,Brienzwiler,14,,46.750845,8.101389
+ch,brienzwiler-dorf,Brienzwiler-Dorf,14,,46.750845,8.101389
+ch,brig,Brig,22,,46.317751,7.988058
+ch,brigels,Brigels,08,,46.769861,9.06036
+ch,brigerbad,Brigerbad,22,,46.299705,7.918587
+ch,brignon,Brignon,22,,46.189799,7.325767
+ch,brigue,Brigue,22,,46.317751,7.988058
+ch,brione,Brione,20,,46.298481,8.792143
+ch,brislach,Brislach,04,,47.417699,7.542032
+ch,brissago,Brissago,20,,46.120565,8.710794
+ch,bristen,Bristen,21,,46.769105,8.690263
+ch,brittnau,Brittnau,01,,47.260999,7.946586
+ch,broc,Broc,06,,46.605135,7.098908
+ch,broch,Broch,14,,46.678785,8.141171
+ch,broglio,Broglio,20,,46.377284,8.661091
+ch,bronschhofen,Bronschhofen,19,,47.478084,9.035684
+ch,brontallo,Brontallo,20,,46.355367,8.627485
+ch,brot-dessous,Brot-Dessous,12,,46.955845,6.748156
+ch,brot-plamboz,Brot-Plamboz,12,,46.980265,6.73774
+ch,brucke,Brucke,00,,49.866667,9.883333
+ch,brugg,Brugg,01,9159,47.481527,8.203014
+ch,brugg,Brugg,05,,47.123408,7.275955
+ch,bruggen,Bruggen,15,,47.410247,9.335704
+ch,brunigen,Brunigen,14,,46.751422,8.136785
+ch,brunnadern,Brunnadern,02,,47.335446,9.131195
+ch,brunnen,Brunnen,17,,46.997725,8.60432
+ch,brunnenthal,Brunnenthal,05,,47.086674,7.468571
+ch,brusino arsizio,Brusino Arsizio,20,,45.928513,8.938628
+ch,brusio,Brusio,09,,46.257668,10.126045
+ch,bruson,Bruson,22,,46.066497,7.218158
+ch,bruttelen,Bruttelen,14,,47.022691,7.147928
+ch,brutten,Brutten,25,,47.472637,8.676044
+ch,bruttisellen,Bruttisellen,25,,47.42273,8.628655
+ch,bubendorf,Bubendorf,03,,47.44586,7.737586
+ch,bubikon,Bubikon,17,6160,47.267748,8.818391
+ch,buchberg,Buchberg,01,,47.572502,8.558703
+ch,buch,Buch,25,,47.55,8.633333
+ch,buchen,Buchen,05,,46.583333,7.9
+ch,buchen,Buchen,09,,46.933333,9.716667
+ch,buchen,Buchen,15,,47.477479,9.541531
+ch,buchholterberg,Buchholterberg,05,,46.813513,7.674629
+ch,buchler,Buchler,15,,47.416667,9.5
+ch,buchrain,Buchrain,11,5802,47.086016,8.346213
+ch,buchs,Buchs,01,6397,47.387774,8.073525
+ch,buchs,Buchs,10,10361,47.169856,9.47544
+ch,buchthalen,Buchthalen,16,,47.697363,8.649922
+ch,buhlen,Buhlen,14,,46.716774,8.098475
+ch,buhler,Buhler,15,,47.373478,9.425456
+ch,buhlruti,Buhlruti,21,,46.883333,8.516667
+ch,buholz,Buholz,11,,47.080695,8.083989
+ch,buix,Buix,26,,47.481098,7.030544
+ch,bulach,Bulach,01,14776,47.518898,8.536967
+ch,bulle,Bulle,06,12460,46.619499,7.056743
+ch,bullet,Bullet,23,,46.830273,6.5545
+ch,bumbach,Bumbach,05,,46.8,7.9
+ch,bumpliz,Bumpliz,05,,46.941085,7.391481
+ch,bundtels,Bundtels,06,,46.867845,7.211233
+ch,buochs,Buochs,13,5272,46.973976,8.422788
+ch,buonas,Buonas,24,,47.142294,8.454103
+ch,burchen,Burchen,22,,46.280843,7.815847
+ch,bure,Bure,26,,47.441653,7.007485
+ch,buren an der aare,Buren an der Aare,05,,47.139756,7.372197
+ch,buren,Buren,02,,47.464748,9.20468
+ch,buren,Buren,05,,47.139756,7.372197
+ch,buren,Buren,13,,46.936835,8.390234
+ch,buren nid dem bach,Buren nid dem Bach,13,,46.936835,8.390234
+ch,burg,Burg,04,,47.459567,7.438077
+ch,burgdorf,Burgdorf,05,14943,47.058495,7.622139
+ch,burgias,Burgias,09,,46.606173,9.402817
+ch,burgistein,Burgistein,05,,46.784641,7.499882
+ch,burglen,Burglen,14,,46.810273,8.162639
+ch,burglen,Burglen,15,,47.550359,9.152352
+ch,burglen,Burglen,21,,46.875651,8.665392
+ch,buron,Buron,01,,47.212061,8.094207
+ch,bursinel,Bursinel,07,,46.438716,6.305357
+ch,bursins,Bursins,07,,46.452343,6.291464
+ch,burstera,Burstera,06,,46.676308,7.29047
+ch,burtgas,Burtgas,09,,46.606173,9.402817
+ch,burtigny,Burtigny,07,,46.467197,6.257678
+ch,busen,Busen,20,,46.273805,9.107349
+ch,buseno,Buseno,20,,46.273805,9.107349
+ch,busserach,Busserach,04,,47.394637,7.541158
+ch,busserein,Busserein,09,,46.985605,9.707972
+ch,bussigny,Bussigny,23,7317,46.551102,6.555973
+ch,busskirch,Busskirch,17,,47.221075,8.832095
+ch,busswil bei buren an der aare,Busswil bei Buren an der Aare,05,,47.099475,7.322758
+ch,busswil,Busswil,05,,47.099475,7.322758
+ch,butschwil,Butschwil,02,,47.361603,9.072067
+ch,buttes,Buttes,23,,46.88833,6.552731
+ch,buttisholz,Buttisholz,11,,47.114416,8.094253
+ch,buttwil,Buttwil,01,,47.26782,8.310193
+ch,butzberg,Butzberg,01,,47.214093,7.743086
+ch,buus,Buus,01,,47.505422,7.864757
+ch,buzberg,Buzberg,01,,47.214093,7.743086
+ch,cabbiola,Cabbiola,20,,46.327145,9.204046
+ch,cabbiolo,Cabbiolo,20,,46.327145,9.204046
+ch,cadempino,Cadempino,20,,46.038698,8.925716
+ch,cadenazzo,Cadenazzo,20,,46.15108,8.941993
+ch,cadro,Cadro,20,,46.046015,8.986012
+ch,cagiallo,Cagiallo,20,,46.062897,8.971153
+ch,cagnago,Cagnago,20,,46.383333,8.883333
+ch,cala,Cala,20,,46.417472,8.807896
+ch,calortsch,Calortsch,09,,46.777345,9.327366
+ch,calpiogna,Calpiogna,20,,46.487208,8.804582
+ch,cama,Cama,20,,46.273004,9.169567
+ch,camana,Camana,09,,46.65,9.283333
+ch,camorino,Camorino,20,,46.164349,9.003639
+ch,campascio,Campascio,09,,46.245055,10.13061
+ch,campfer,Campfer,09,,46.477293,9.811141
+ch,campliun,Campliun,21,,46.739808,8.972687
+ch,campo blenio,Campo Blenio,20,,46.556944,8.935812
+ch,campo,Campo,20,,46.288546,8.495767
+ch,campocologno,Campocologno,09,,46.233387,10.142142
+ch,campo valmaggia,Campo Valmaggia,20,,46.288546,8.495767
+ch,campovasto,Campovasto,09,,46.566667,9.933333
+ch,campsut,Campsut,09,,46.486614,9.477773
+ch,canobbio,Canobbio,20,,46.034259,8.965663
+ch,cantine-de-proz,Cantine-de-Proz,22,,45.9,7.2
+ch,capolago,Capolago,20,,45.904137,8.97781
+ch,carena,Carena,20,,46.16869,9.086178
+ch,carouge,Carouge,07,19688,46.186153,6.13463
+ch,carrera,Carrera,09,,46.788533,9.296083
+ch,cartigny,Cartigny,07,,46.174549,6.020024
+ch,cartygny,Cartygny,07,,46.174549,6.020024
+ch,casaccia,Casaccia,09,,46.390629,9.665447
+ch,casima,Casima,20,,45.890359,9.036941
+ch,caslano,Caslano,20,,45.97153,8.882612
+ch,cassina,Cassina,20,,46.466667,8.883333
+ch,cassino,Cassino,20,,46.466667,8.883333
+ch,castagnola,Castagnola,20,,46.002206,8.977284
+ch,castasegna,Castasegna,20,,46.334572,9.518649
+ch,castello san pietro,Castello San Pietro,20,,45.860613,9.009325
+ch,castel san pietro,Castel San Pietro,20,,45.860613,9.009325
+ch,castels,Castels,09,,46.966667,9.816667
+ch,castiel,Castiel,09,,46.839385,9.603614
+ch,castione,Castione,20,,46.226345,9.04947
+ch,castro,Castro,20,,46.471316,8.927285
+ch,cauco,Cauco,20,,46.335409,9.121294
+ch,caux,Caux,23,,46.433137,6.937124
+ch,caux sur montreux,Caux sur Montreux,23,,46.433137,6.937124
+ch,cavergno,Cavergno,20,,46.345208,8.606196
+ch,caviano,Caviano,20,,46.108225,8.767541
+ch,cazis,Cazis,09,,46.723084,9.428812
+ch,celerina,Celerina,09,,46.514515,9.858305
+ch,celigny,Celigny,07,,46.350525,6.195283
+ch,cerentino,Cerentino,20,,46.305275,8.553923
+ch,cern,Cern,07,,46.232352,6.050169
+ch,cerniat,Cerniat,06,,46.634156,7.158835
+ch,cernier,Cernier,12,,47.057356,6.894757
+ch,certara,Certara,20,,46.084576,9.059503
+ch,cevio,Cevio,20,,46.316083,8.601306
+ch,chabrey,Chabrey,12,,46.926437,6.980689
+ch,chalais,Chalais,22,,46.267025,7.509577
+ch,chalet a gobet,Chalet a Gobet,23,,46.564826,6.692633
+ch,chambesy,Chambesy,07,,46.242432,6.143504
+ch,cham,Cham,24,13431,47.182126,8.463576
+ch,chamoson,Chamoson,22,,46.20104,7.223408
+ch,champagne,Champagne,23,,46.830478,6.657832
+ch,champery,Champery,07,,46.178768,6.870345
+ch,champex,Champex,22,,46.030343,7.117226
+ch,champfer,Champfer,09,,46.477293,9.811141
+ch,champsec,Champsec,22,,46.05806,7.242957
+ch,champvent,Champvent,23,,46.782332,6.570665
+ch,chancy,Chancy,07,,46.15003,5.971529
+ch,chandolin,Chandolin,22,,46.251268,7.593183
+ch,changins,Changins,07,,46.398078,6.232118
+ch,chants,Chants,09,,46.645588,9.82781
+ch,chapelle,Chapelle,23,,46.669611,6.735747
+ch,chardonne,Chardonne,23,,46.476985,6.826648
+ch,charmey,Charmey,06,,46.616223,7.168141
+ch,charmilles,Charmilles,07,,46.2,6.116667
+ch,charmoille,Charmoille,26,,47.423752,7.207571
+ch,charrat,Charrat,22,,46.122024,7.134559
+ch,charrat-les-chenes,Charrat-les-Chenes,22,,46.122024,7.134559
+ch,chateau de bonmont,Chateau de Bonmont,07,,45.366667,6.133333
+ch,chateau-d'oex,Chateau-d'Oex,23,,46.47501,7.133601
+ch,chateauneuf,Chateauneuf,22,,46.223176,7.33137
+ch,chatelaine,Chatelaine,07,,46.2,6.116667
+ch,chatelaine-geneve,Chatelaine-Geneve,07,,46.2,6.116667
+ch,chatelard,Chatelard,23,,46.44527,6.89908
+ch,chatel-saint-denis,Chatel-Saint-Denis,23,,46.526672,6.89975
+ch,chatonnaye,Chatonnaye,06,,46.754519,6.937992
+ch,chaumont,Chaumont,12,,47.016667,6.95
+ch,chaumont-de-pury,Chaumont-de-Pury,12,,47.016667,6.95
+ch,chavannes,Chavannes,23,5740,46.528825,6.592058
+ch,chavannes-le-chene,Chavannes-le-Chene,23,,46.777442,6.778358
+ch,chavannes-sous-orsonnens,Chavannes-sous-Orsonnens,06,,46.72807,6.992277
+ch,chavornay,Chavornay,23,,46.705656,6.56988
+ch,cheiry,Cheiry,23,,46.750254,6.835162
+ch,chemin,Chemin,22,,46.088532,7.100158
+ch,chene-bougeries,Chene-Bougeries,07,9821,46.197545,6.162082
+ch,chene-bourg,Chene-Bourg,07,8038,46.193049,6.196567
+ch,chene-paquier,Chene-Paquier,23,,46.77143,6.769133
+ch,chermignon,Chermignon,22,,46.281903,7.482023
+ch,chermignon-d'en bas,Chermignon-d'en Bas,22,,46.281903,7.482023
+ch,chermignon-d'en haut,Chermignon-d'en Haut,22,,46.288443,7.474873
+ch,cheseaux,Cheseaux,23,,46.586689,6.606391
+ch,chesieres,Chesieres,23,,46.302726,7.050687
+ch,chevenez,Chevenez,26,,47.391715,6.999952
+ch,chevroux,Chevroux,12,,46.890182,6.903753
+ch,chexbres,Chexbres,23,,46.481844,6.77634
+ch,chex le bart,Chex le Bart,12,,46.899137,6.782958
+ch,cheyres,Cheyres,23,,46.815311,6.787684
+ch,chezard-saint-martin,Chezard-Saint-Martin,12,,47.064361,6.921489
+ch,chez-le-bart,Chez-le-Bart,12,,46.899137,6.782958
+ch,chiasso,Chiasso,20,8232,45.83491,9.02054
+ch,chiavasco,Chiavasco,20,,46.433333,9.016667
+ch,chiesaz,Chiesaz,23,,46.472861,6.885335
+ch,chiggiogna,Chiggiogna,20,,46.467191,8.821553
+ch,chippis,Chippis,22,,46.281029,7.542885
+ch,chironico,Chironico,20,,46.422923,8.843795
+ch,choindez,Choindez,26,,47.321217,7.379964
+ch,chur,Chur,09,32874,46.856753,9.526918
+ch,churwalden,Churwalden,09,,46.778768,9.544234
+ch,ciavasco,Ciavasco,20,,46.433333,9.016667
+ch,cierfs,Cierfs,09,,46.633333,10.333333
+ch,cierfs-orasom,Cierfs-Orasom,09,,46.633333,10.333333
+ch,ciernes-picat,Ciernes-Picat,23,,46.505292,7.170311
+ch,cimadera,Cimadera,20,,46.078795,9.046073
+ch,cimalmotto,Cimalmotto,20,,46.283176,8.489212
+ch,cinuskel,Cinuskel,09,,46.633333,10.016667
+ch,claro,Claro,20,,46.255379,9.023468
+ch,clavadel,Clavadel,09,,46.768774,9.815194
+ch,clugin,Clugin,09,,46.61667,9.425894
+ch,coeuve,Coeuve,26,,47.452886,7.09794
+ch,cointrin,Cointrin,07,,46.216667,6.116667
+ch,coire,Coire,09,,46.856753,9.526918
+ch,col des roches,Col des Roches,12,,47.03018,6.850514
+ch,collombey,Collombey,23,,46.270077,6.948351
+ch,collonges,Collonges,22,,46.171347,7.035179
+ch,colombier,Colombier,12,5133,46.967085,6.856604
+ch,colombier,Colombier,23,,46.55619,6.472818
+ch,colovrex,Colovrex,07,,46.253483,6.137104
+ch,coltura,Coltura,20,,46.344387,9.583945
+ch,comano,Comano,20,,46.03593,8.95573
+ch,combremont,Combremont,23,,46.74889,6.808699
+ch,combremont-le-petit,Combremont-le-Petit,23,,46.74889,6.808699
+ch,comologno,Comologno,20,,46.203537,8.576054
+ch,compadials,Compadials,21,,46.722694,8.92057
+ch,compatsch,Compatsch,09,,46.959634,10.400155
+ch,compesieres,Compesieres,07,,46.152242,6.120313
+ch,comprovasco,Comprovasco,20,,46.454161,8.938901
+ch,concise,Concise,23,,46.850636,6.7207
+ch,confignon,Confignon,07,,46.175048,6.079768
+ch,conters,Conters,09,,46.607286,9.59359
+ch,conthey,Conthey,22,6747,46.225283,7.303715
+ch,contone,Contone,20,,46.149031,8.926549
+ch,contra,Contra,20,,46.18899,8.83988
+ch,coppet,Coppet,07,,46.316943,6.191651
+ch,coppet,Coppet,22,,46.286223,7.32576
+ch,corbeyrier,Corbeyrier,23,,46.348931,6.960353
+ch,corcapolo,Corcapolo,20,,46.169189,8.675393
+ch,corcelles,Corcelles,06,,46.83322,6.962308
+ch,corcelles,Corcelles,18,,47.285,7.455281
+ch,cordast,Cordast,06,,46.874371,7.152773
+ch,cordona,Cordona,22,,46.331594,7.555298
+ch,cordonaz,Cordonaz,22,,46.331594,7.555298
+ch,corgemont,Corgemont,05,,47.19387,7.138359
+ch,corippo,Corippo,20,,46.23567,8.840424
+ch,corminboeuf,Corminboeuf,06,,46.81237,7.104918
+ch,cornaux,Cornaux,12,,47.083333,7.016667
+ch,cornol,Cornol,26,,47.407518,7.162472
+ch,corsier,Corsier,07,,46.263679,6.223812
+ch,corsier port,Corsier Port,07,,46.262878,6.21243
+ch,cortaillod,Cortaillod,12,,46.943326,6.844906
+ch,cortascio,Cortascio,20,,46.116667,8.666667
+ch,corte,Corte,20,,46.466667,8.633333
+ch,corte grande,Corte Grande,20,,46.35,8.5
+ch,cortuillod,Cortuillod,12,,46.943326,6.844906
+ch,cossonay,Cossonay,23,,46.614163,6.506653
+ch,cossonay-ville,Cossonay-Ville,23,,46.614163,6.506653
+ch,cote aux fees,Cote aux Fees,23,,46.866647,6.488475
+ch,cottens,Cottens,06,,46.751556,7.032611
+ch,coulouvreniere,Coulouvreniere,07,,46.2,6.133333
+ch,courfaivre,Courfaivre,26,,47.335045,7.282003
+ch,courgenay,Courgenay,26,,47.403648,7.124156
+ch,courgevaux,Courgevaux,06,,46.907814,7.110772
+ch,courlevon,Courlevon,06,,46.889289,7.110575
+ch,courrendlin,Courrendlin,26,,47.337584,7.372369
+ch,courroux,Courroux,26,,47.361557,7.375036
+ch,court,Court,05,,47.23955,7.338886
+ch,courtedoux,Courtedoux,26,,47.408195,7.042814
+ch,courtelary,Courtelary,14,,47.179369,7.072954
+ch,courtemaiche,Courtemaiche,26,,47.457244,7.04825
+ch,courtepin,Courtepin,06,,46.85,7.2
+ch,courtetelle,Courtetelle,26,,47.341145,7.31855
+ch,courtion,Courtion,06,,46.857371,7.06917
+ch,couta,Couta,22,,46.12978,7.388015
+ch,couvet,Couvet,23,,46.926127,6.634148
+ch,cra digl lai,Cra digl Lai,09,,46.608432,9.535123
+ch,crana,Crana,20,,46.203842,8.610791
+ch,crans,Crans,07,,46.359124,6.205814
+ch,crans,Crans,22,,46.305688,7.468053
+ch,crans-sur-sierre,Crans-sur-Sierre,22,,46.305688,7.468053
+ch,crassier,Crassier,07,,46.374802,6.165459
+ch,crasta,Crasta,09,,46.413895,9.763984
+ch,cre digl lai,Cre digl Lai,09,,46.608432,9.535123
+ch,cremines,Cremines,18,,47.283286,7.440323
+ch,cresciano,Cresciano,20,,46.266667,9
+ch,cressier,Cressier,06,,46.898995,7.140376
+ch,cressier,Cressier,12,,47.051539,7.03731
+ch,cresta,Cresta,09,,46.473005,9.512428
+ch,creta,Creta,22,,46.16631,7.428534
+ch,crich,Crich,20,,46.439155,8.921753
+ch,crico,Crico,20,,46.439155,8.921753
+ch,crissier,Crissier,23,6915,46.55165,6.571253
+ch,croce,Croce,20,,46.492838,8.818171
+ch,crusch,Crusch,09,,46.820281,10.359605
+ch,cudrefin,Cudrefin,12,,46.957582,7.020424
+ch,cugnasco,Cugnasco,20,,46.17444,8.917897
+ch,cugy,Cugy,23,,46.584051,6.639605
+ch,cully,Cully,23,,46.488301,6.730109
+ch,cumbels,Cumbels,09,,46.725753,9.192599
+ch,cunter,Cunter,09,,46.607286,9.59359
+ch,curaglia,Curaglia,21,,46.673195,8.858063
+ch,curtina,Curtina,20,,46.081914,9.023531
+ch,dachsen,Dachsen,16,,47.664408,8.61815
+ch,dagmersellen,Dagmersellen,01,,47.213658,7.984664
+ch,daillens,Daillens,23,,46.620868,6.54838
+ch,daillet,Daillet,22,,46.240788,7.464841
+ch,dailley,Dailley,22,,46.240788,7.464841
+ch,dailly,Dailly,22,,46.2,7.033333
+ch,dallenwil,Dallenwil,13,,46.924197,8.387852
+ch,dalpe,Dalpe,20,,46.472917,8.774936
+ch,damvant,Damvant,12,,47.372456,6.897326
+ch,dandrio,Dandrio,20,,46.439819,9.053455
+ch,daniken,Daniken,01,,47.353213,7.98737
+ch,danis,Danis,09,,46.754865,9.055681
+ch,dardagny,Dardagny,07,,46.193913,5.994958
+ch,darligen,Darligen,05,,46.661753,7.808079
+ch,darstetten,Darstetten,05,,46.659479,7.491114
+ch,dattwil,Dattwil,01,,47.455057,8.284745
+ch,davos dorf,Davos Dorf,09,,46.804011,9.83532
+ch,davos platz,Davos Platz,09,,46.792843,9.820283
+ch,degersheim,Degersheim,02,,47.372922,9.196825
+ch,deisswil,Deisswil,05,,46.954708,7.518332
+ch,deitingen,Deitingen,18,,47.215789,7.619877
+ch,dele,Dele,22,,46.30174,7.424183
+ch,delemont,Delemont,26,11567,47.366429,7.329005
+ch,delsberg,Delsberg,26,,47.366429,7.329005
+ch,densburen,Densburen,01,,47.452596,8.053301
+ch,derendingen,Derendingen,18,5916,47.198505,7.588438
+ch,devant,Devant,23,,46.433333,7.116667
+ch,diablerets,Diablerets,22,,46.350414,7.157739
+ch,diechtersmatt,Diechtersmatt,14,,46.83886,8.189332
+ch,diegten,Diegten,01,,47.416018,7.809422
+ch,dielsdorf,Dielsdorf,01,,47.480247,8.45628
+ch,diemtigen,Diemtigen,05,,46.649282,7.564771
+ch,diepoldsau,Diepoldsau,15,5351,47.384835,9.655969
+ch,diesbach,Diesbach,08,,46.916667,9.05
+ch,diessbach,Diessbach,05,,47.107803,7.361217
+ch,diesse,Diesse,14,,47.113136,7.116775
+ch,diessenhofen,Diessenhofen,16,,47.689211,8.751067
+ch,dietikon,Dietikon,25,22443,47.404446,8.394984
+ch,dietlikon,Dietlikon,25,7121,47.425084,8.618775
+ch,dietwil,Dietwil,11,,47.147698,8.390818
+ch,digg,Digg,09,,46.82403,9.355375
+ch,dinhard,Dinhard,25,,47.556513,8.76621
+ch,dino,Dino,20,,46.052494,8.98379
+ch,disentis,Disentis,21,,46.703971,8.853018
+ch,disla,Disla,21,,46.711625,8.87576
+ch,distel alp,Distel Alp,22,,46.020182,7.962901
+ch,distel,Distel,22,,46.020182,7.962901
+ch,dizy,Dizy,23,,46.635107,6.496087
+ch,dogern,Dogern,01,,47.602353,8.157966
+ch,domat,Domat,09,6818,46.834827,9.450752
+ch,domat ems,Domat Ems,09,,46.834827,9.450752
+ch,dombresson,Dombresson,12,,47.071971,6.958751
+ch,domdidier,Domdidier,06,,46.866766,7.013274
+ch,dompierre,Dompierre,06,,46.852198,6.991005
+ch,dompierre,Dompierre,23,,46.708499,6.883417
+ch,donatyre,Donatyre,06,,46.876439,7.058538
+ch,dongio,Dongio,20,,46.438705,8.953621
+ch,donneloye,Donneloye,23,,46.745011,6.715582
+ch,doppleschwand,Doppleschwand,11,,47.01831,8.05501
+ch,dorenaz,Dorenaz,22,,46.150326,7.043129
+ch,dorfji,Dorfji,09,,46.81793,9.752684
+ch,dorfli,Dorfli,09,,46.81793,9.752684
+ch,dornach,Dornach,04,5940,47.478042,7.616417
+ch,dornhalden,Dornhalden,05,,46.8,7.6
+ch,dornhaus,Dornhaus,08,,46.949401,9.029305
+ch,dottikon,Dottikon,01,,47.38437,8.239807
+ch,dottingen,Dottingen,01,,47.568488,8.260461
+ch,dranse,Dranse,22,,45.98957,7.180659
+ch,dreiligass,Dreiligass,05,,46.773309,7.676782
+ch,dreischubel,Dreischubel,05,,46.766667,7.833333
+ch,dubendorf,Dubendorf,25,23051,47.395395,8.618366
+ch,dudingen,Dudingen,06,7088,46.849152,7.188475
+ch,duno,Duno,20,,46.257089,9.023919
+ch,duranna,Duranna,09,,46.866498,9.797106
+ch,durnten,Durnten,17,6225,47.277691,8.842176
+ch,durrboden,Durrboden,09,,46.720771,9.921835
+ch,durrenasch,Durrenasch,01,,47.318121,8.158496
+ch,durrenboden,Durrenboden,21,,46.933333,8.833333
+ch,durrenroth,Durrenroth,01,,47.088159,7.791301
+ch,dutgien,Dutgien,09,,46.766667,9.266667
+ch,dutjen,Dutjen,09,,46.766667,9.266667
+ch,duvin,Duvin,09,,46.714661,9.212367
+ch,eaux-vives,Eaux-Vives,07,,46.2,6.15
+ch,ebikon,Ebikon,11,11473,47.079366,8.340411
+ch,ebligen,Ebligen,05,,46.75,7.966667
+ch,ebnat,Ebnat,02,,47.261951,9.124726
+ch,ebnat-kappel,Ebnat-Kappel,02,4740,47.261951,9.124726
+ch,echallens,Echallens,23,,46.642498,6.637324
+ch,echarlens,Echarlens,06,,46.647784,7.074202
+ch,econe,Econe,22,,46.156356,7.207187
+ch,ecublens,Ecublens,23,10655,46.60915,6.808706
+ch,ecuvillens,Ecuvillens,06,,46.757881,7.084461
+ch,effingen,Effingen,01,,47.488682,8.102863
+ch,effretikon,Effretikon,25,,47.429214,8.68693
+ch,egerkingen,Egerkingen,01,,47.322014,7.793132
+ch,egga,Egga,09,,46.800017,9.531722
+ch,egg,Egg,25,8585,47.300555,8.687429
+ch,eggenschwand,Eggenschwand,05,,46.47625,7.663561
+ch,eggenwil,Eggenwil,01,,47.37026,8.339389
+ch,eggerberg,Eggerberg,22,,46.306347,7.885147
+ch,eggersriet,Eggersriet,15,,47.441409,9.471024
+ch,eggiwil,Eggiwil,05,,46.87575,7.795669
+ch,eglisau,Eglisau,01,,47.576886,8.526155
+ch,egliswil,Egliswil,01,,47.349542,8.188018
+ch,egnach,Egnach,15,,47.542639,9.379999
+ch,ehrendingen,Ehrendingen,01,,47.502272,8.350141
+ch,eichberg,Eichberg,10,,47.34304,9.529898
+ch,eich,Eich,11,,47.151165,8.166955
+ch,eigenthal,Eigenthal,11,,47.010701,8.212609
+ch,eiken,Eiken,01,,47.533943,7.988826
+ch,einigen,Einigen,05,,46.708013,7.648295
+ch,einsiedeln,Einsiedeln,17,13188,47.126727,8.745245
+ch,eischol,Eischol,22,,46.293755,7.77937
+ch,eischoll,Eischoll,22,,46.293755,7.77937
+ch,eison,Eison,22,,46.152671,7.462567
+ch,eisten,Eisten,22,,46.196649,7.896649
+ch,elgg,Elgg,19,,47.490949,8.866588
+ch,ellikon am rhein,Ellikon am Rhein,16,,47.605234,8.59881
+ch,ellikon an der thur,Ellikon an der Thur,19,,47.562925,8.82401
+ch,ellikon,Ellikon,16,,47.605234,8.59881
+ch,ellikon,Ellikon,19,,47.562925,8.82401
+ch,elm,Elm,08,,46.919017,9.172416
+ch,elsau,Elsau,25,,47.505188,8.801447
+ch,elsigbach,Elsigbach,05,,46.528784,7.60649
+ch,embd,Embd,22,,46.216299,7.832029
+ch,embrach,Embrach,25,8517,47.507063,8.595681
+ch,emmenbrucke,Emmenbrucke,11,,47.072828,8.288961
+ch,emmen,Emmen,11,27290,47.081101,8.30477
+ch,emmenmatt,Emmenmatt,05,,46.946444,7.738459
+ch,emmetten,Emmetten,13,,46.95658,8.514666
+ch,emmeuen,Emmeuen,13,,46.95658,8.514666
+ch,emmishofen,Emmishofen,15,,47.647821,9.16787
+ch,emosson,Emosson,07,,46.066667,6.916667
+ch,ems,Ems,09,,46.834827,9.450752
+ch,endingen,Endingen,01,,47.536355,8.293385
+ch,engehalde,Engehalde,05,,46.95,7.433333
+ch,engelberg,Engelberg,14,,46.821069,8.401333
+ch,engi,Engi,08,,46.982391,9.153114
+ch,en la gottaz,En la Gottaz,06,,46.7,7.1
+ch,ennenda,Ennenda,08,,47.034647,9.077248
+ch,ennetburgen,Ennetburgen,13,,46.983333,8.333333
+ch,ennetegg,Ennetegg,11,,46.983333,8.016667
+ch,enney,Enney,23,,46.566252,7.084179
+ch,ensex,Ensex,22,,46.323523,7.1087
+ch,entenmoos,Entenmoos,06,,46.763016,7.253302
+ch,entfelden,Entfelden,01,,47.360291,8.039193
+ch,entlebuch,Entlebuch,11,,46.991789,8.064517
+ch,en vennes,En Vennes,23,,46.539852,6.653755
+ch,epalinges,Epalinges,23,7521,46.551775,6.668288
+ch,epautheyres,Epautheyres,23,,46.738764,6.642363
+ch,ependes,Ependes,06,,46.756249,7.150908
+ch,ependes,Ependes,23,,46.743037,6.608567
+ch,epinassey,Epinassey,22,,46.192433,7.008866
+ch,eptingen,Eptingen,01,,47.384744,7.81898
+ch,erde,Erde,22,,46.25,7.3
+ch,eriswil,Eriswil,01,,47.078158,7.851489
+ch,eriz,Eriz,05,,46.787733,7.771025
+ch,erlach,Erlach,14,,47.042973,7.099604
+ch,erlenbach,Erlenbach,25,,47.302317,8.592748
+ch,erlenbach im simmental,Erlenbach im Simmental,05,,46.660208,7.554453
+ch,erlen,Erlen,15,,47.548321,9.233661
+ch,erlinsbach,Erlinsbach,01,,47.392176,8.005031
+ch,ermatingen,Ermatingen,19,,47.670868,9.084619
+ch,ernen,Ernen,01,,46.398696,8.145833
+ch,erschmatt,Erschmatt,22,,46.321364,7.692276
+ch,erschwil,Erschwil,04,,47.373856,7.541369
+ch,ersigen,Ersigen,18,,47.097368,7.598044
+ch,erstfeld,Erstfeld,21,,46.81885,8.650516
+ch,eschenbach,Eschenbach,11,,47.132313,8.31964
+ch,eschenbach,Eschenbach,17,5167,47.239806,8.921562
+ch,eschenz,Eschenz,19,,47.650697,8.865641
+ch,escher,Escher,10,,47.283279,9.41425
+ch,esch,Esch,22,,46.266667,7.866667
+ch,eschikofen,Eschikofen,19,,47.57984,9.005184
+ch,eschlikon-dorf,Eschlikon-Dorf,19,,47.464344,8.966705
+ch,eschlikon,Eschlikon,19,,47.464344,8.966705
+ch,escholzmatt,Escholzmatt,11,,46.912587,7.934176
+ch,essertines-sur-rolle,Essertines-sur-Rolle,07,,46.492935,6.318227
+ch,estavannens-dessous,Estavannens-Dessous,23,,46.560442,7.102517
+ch,estavannens-dessus,Estavannens-Dessus,23,,46.56561,7.102004
+ch,estavannens,Estavannens,23,,46.56561,7.102004
+ch,estavayer,Estavayer,23,,46.849125,6.845805
+ch,estavayer-le-lac,Estavayer-le-Lac,23,,46.849125,6.845805
+ch,etit-savagnier,etit-Savagnier,12,,47.055192,6.951664
+ch,ettingen,Ettingen,04,4917,47.482675,7.549821
+ch,ettiswil,Ettiswil,01,,47.150309,8.017589
+ch,etzel,Etzel,17,,47.15,8.8
+ch,etzel-kulm,Etzel-Kulm,17,,47.15,8.8
+ch,etzgen,Etzgen,01,,47.574757,8.106198
+ch,etzwilen,Etzwilen,16,,47.658445,8.818075
+ch,euseigne,Euseigne,22,,46.172014,7.421875
+ch,eutal,Eutal,17,,47.097634,8.812238
+ch,euthal,Euthal,17,,47.097634,8.812238
+ch,evilard,Evilard,05,,47.14969,7.237549
+ch,evionnaz,Evionnaz,22,,46.016667,7.016667
+ch,evolene,Evolene,22,,46.113462,7.494361
+ch,exergillod,Exergillod,23,,46.33694,7.037265
+ch,eyholz,Eyholz,22,,46.295193,7.908832
+ch,eysins,Eysins,07,,46.380325,6.20419
+ch,faedo,Faedo,20,,46.388531,8.542385
+ch,fafleralp,Fafleralp,05,,46.43484,7.854411
+ch,fahrni,Fahrni,05,,46.796708,7.66971
+ch,fahrwangen,Fahrwangen,01,,47.295521,8.242857
+ch,fahy,Fahy,26,,47.418213,6.950012
+ch,faido-borgo,Faido-Borgo,20,,46.480067,8.793614
+ch,faido,Faido,20,,46.480067,8.793614
+ch,faldum alp,Faldum Alp,22,,46.377904,7.73915
+ch,falera,Falera,09,,46.801504,9.230199
+ch,fallanden,Fallanden,25,6987,47.370719,8.639834
+ch,fanas,Fanas,09,,46.985929,9.66302
+ch,fang,Fang,22,,46.241473,7.576076
+ch,fankhaus,Fankhaus,01,,46.970634,7.917406
+ch,faoug,Faoug,06,,46.908174,7.077085
+ch,fardun,Fardun,09,,46.632738,9.424105
+ch,farnigen,Farnigen,14,,46.73466,8.522623
+ch,farvagny-le-grand,Farvagny-le-Grand,06,,46.721296,7.065402
+ch,farvagny-le-petit,Farvagny-le-Petit,06,,46.728653,7.072386
+ch,faulensee,Faulensee,05,,46.674153,7.702303
+ch,fehraltorf,Fehraltorf,25,,47.387966,8.752184
+ch,felben,Felben,19,,47.579444,8.942304
+ch,feldbach,Feldbach,17,,47.239198,8.786888
+ch,feldbach,Feldbach,19,,47.666008,8.982749
+ch,feldbrunnen,Feldbrunnen,18,,47.215485,7.54678
+ch,feldbrunner,Feldbrunner,18,,47.215485,7.54678
+ch,feld,Feld,01,,46.370188,8.21305
+ch,feldis,Feldis,09,,46.794216,9.432029
+ch,feldmeilen,Feldmeilen,25,,47.276884,8.619308
+ch,feldmoos,Feldmoos,14,,46.733333,8.4
+ch,feldmoos,Feldmoos,15,,47.470718,9.579431
+ch,feldmos,Feldmos,14,,46.733333,8.4
+ch,fellers,Fellers,09,,46.801504,9.230199
+ch,felsberg,Felsberg,09,,46.844243,9.476842
+ch,felsenau,Felsenau,05,,46.972347,7.441482
+ch,ferden,Ferden,22,,46.393908,7.759184
+ch,ferenbalm,Ferenbalm,05,,46.948935,7.214236
+ch,fermelberg,Fermelberg,05,,46.513181,7.49013
+ch,fermellager,Fermellager,05,,46.513181,7.49013
+ch,fernigen,Fernigen,14,,46.73466,8.522623
+ch,ferret,Ferret,22,,45.915471,7.105082
+ch,ferrex,Ferrex,22,,45.915471,7.105082
+ch,feschel,Feschel,22,,46.32962,7.679477
+ch,fetan,Fetan,09,,46.8,10.233333
+ch,fetan grand,Fetan Grand,09,,46.8,10.233333
+ch,feuerthalen,Feuerthalen,16,,47.690331,8.646488
+ch,feusisberg,Feusisberg,17,,47.187067,8.747244
+ch,feutersoey,Feutersoey,22,,46.41804,7.270833
+ch,fex-crasta,Fex-Crasta,09,,46.413895,9.763984
+ch,feydey,Feydey,23,,46.343126,7.010564
+ch,fidaz,Fidaz,09,,46.840742,9.309809
+ch,fideris dorf,Fideris Dorf,09,,46.915181,9.742702
+ch,fideriser alp duranna,Fideriser Alp Duranna,09,,46.866498,9.797106
+ch,fideriseralp,Fideriseralp,09,,46.866498,9.797106
+ch,fideris,Fideris,09,,46.915181,9.742702
+ch,fiescherthal,Fiescherthal,01,,46.421824,8.143358
+ch,fiesch,Fiesch,01,,46.400394,8.131099
+ch,fiesso,Fiesso,20,,46.492496,8.735047
+ch,fiez,Fiez,23,,46.827156,6.62333
+ch,filderich,Filderich,05,,46.545204,7.50242
+ch,filisur,Filisur,09,,46.672147,9.688013
+ch,filzbach,Filzbach,08,,47.120208,9.128688
+ch,findelen,Findelen,22,,46.2,7.916667
+ch,findeln bei staldenreid,Findeln bei Staldenreid,22,,46.2,7.916667
+ch,findeln,Findeln,22,,46.2,7.916667
+ch,finhaut,Finhaut,22,,46.083614,6.976715
+ch,finstermunz,Finstermunz,09,,46.930289,10.490108
+ch,fionnay,Fionnay,22,,46.033233,7.308616
+ch,fischental,Fischental,17,,47.3312,8.921202
+ch,fischenthal,Fischenthal,17,,47.3312,8.921202
+ch,fischingen,Fischingen,25,,47.41428,8.96914
+ch,flaach,Flaach,16,,47.576346,8.602687
+ch,flamatt,Flamatt,05,,46.889575,7.318285
+ch,flasch,Flasch,09,,47.026261,9.513652
+ch,flawil,Flawil,02,9878,47.414611,9.182838
+ch,flerden,Flerden,09,,46.703032,9.408211
+ch,fleurier,Fleurier,23,,46.903265,6.582135
+ch,flims dorf,Flims Dorf,09,,46.837052,9.284577
+ch,flims,Flims,09,,46.837052,9.284577
+ch,flims waldhaus,Flims Waldhaus,09,,46.828977,9.289291
+ch,flond,Flond,09,,46.767022,9.165199
+ch,flueli,Flueli,14,,46.870973,8.267338
+ch,flueln,Flueln,21,,46.903019,8.625495
+ch,fluhalp,Fluhalp,22,,46.399044,7.669726
+ch,fluhli,Fluhli,14,,46.870973,8.267338
+ch,fluhli ranft,Fluhli Ranft,14,,46.870973,8.267338
+ch,flums,Flums,08,4936,47.092512,9.342604
+ch,flurlingen,Flurlingen,16,,47.685442,8.630654
+ch,fontaine,Fontaine,22,,46.253125,7.294756
+ch,fontainemelon,Fontainemelon,12,,47.056266,6.890505
+ch,fontana,Fontana,09,,46.775592,10.258571
+ch,fontana,Fontana,14,,46.518754,8.560545
+ch,fontenais,Fontenais,26,,47.404778,7.081908
+ch,forel,Forel,23,,46.55,6.816667
+ch,forna,Forna,20,,46.3,8.866667
+ch,fornasette,Fornasette,20,,45.966667,8.783333
+ch,foroglio,Foroglio,20,,46.373876,8.547271
+ch,founex,Founex,07,,46.332712,6.191727
+ch,fraschels,Fraschels,05,,46.998212,7.208473
+ch,frasco,Frasco,20,,46.339174,8.803714
+ch,fraubrunnen,Fraubrunnen,18,,47.085668,7.527405
+ch,frauenfeld,Frauenfeld,19,22639,47.558159,8.898544
+ch,frauenkappelen,Frauenkappelen,05,,46.952696,7.336938
+ch,frauenkirch,Frauenkirch,09,,46.76963,9.786416
+ch,freiburg,Freiburg,06,,46.79572,7.154748
+ch,freiche,Freiche,20,,46.377115,8.252637
+ch,freidorf,Freidorf,04,,47.533333,7.633333
+ch,freienbach,Freienbach,17,14900,47.204077,8.756933
+ch,frenieres,Frenieres,22,,46.261981,7.070766
+ch,frenkendorf,Frenkendorf,03,5984,47.506858,7.716483
+ch,fribourg,Fribourg,06,33806,46.79572,7.154748
+ch,friburgo,Friburgo,06,,46.79572,7.154748
+ch,frick,Frick,01,,47.51169,8.024713
+ch,friedau,Friedau,01,,47.330161,7.798664
+ch,frieswil,Frieswil,05,,46.995136,7.285583
+ch,froda,Froda,20,,46.348576,8.772706
+ch,froideville,Froideville,23,,46.600146,6.68457
+ch,fruence,Fruence,23,,46.521561,6.909148
+ch,frunt,Frunt,09,,46.582785,9.118994
+ch,frutigen,Frutigen,05,6668,46.58782,7.64751
+ch,frutt,Frutt,14,,46.774152,8.270517
+ch,fuhre,Fuhre,05,,46.483333,7.566667
+ch,fuldera,Fuldera,09,,46.60875,10.370637
+ch,fulenbach,Fulenbach,01,,47.274958,7.833435
+ch,full,Full,01,,47.583333,8.2
+ch,fullinsdorf,Fullinsdorf,03,,47.505507,7.732537
+ch,fully,Fully,22,5965,46.138485,7.114872
+ch,fuorn,Fuorn,09,,46.664516,10.210168
+ch,furkels,Furkels,09,,46.979251,9.511301
+ch,furna-dorf,Furna-Dorf,09,,46.936107,9.675606
+ch,furna,Furna,09,,46.936107,9.675606
+ch,furstenaubruck,Furstenaubruck,09,,46.711859,9.453263
+ch,furth,Furth,09,,46.702023,9.183429
+ch,fusio,Fusio,20,,46.44485,8.663886
+ch,gachlingen,Gachlingen,16,,47.703094,8.501863
+ch,gachnang,Gachnang,19,,47.538932,8.852453
+ch,gadmen,Gadmen,09,,46.752551,9.900554
+ch,gadmen,Gadmen,14,,46.737326,8.352235
+ch,gafarra,Gafarra,09,,46.983333,9.366667
+ch,gafien,Gafien,09,,46.966667,9.85
+ch,gais,Gais,10,,47.361608,9.451705
+ch,galgern,Galgern,22,,46.186231,7.893465
+ch,galm,Galm,22,,46.358406,7.682
+ch,galmis,Galmis,06,,46.948751,7.158037
+ch,galmiz,Galmiz,06,,46.948751,7.158037
+ch,gals,Gals,12,,47.02841,7.051833
+ch,gampelen,Gampelen,12,,47.014986,7.059945
+ch,gampel,Gampel,22,,46.31551,7.744735
+ch,gamsen,Gamsen,22,,46.306228,7.952705
+ch,gams,Gams,10,,47.204164,9.442874
+ch,gandria,Gandria,20,,46.00521,9.002221
+ch,gansbrunnen,Gansbrunnen,18,,47.262847,7.467509
+ch,ganterschwil,Ganterschwil,02,,47.380293,9.091087
+ch,ganterswil,Ganterswil,02,,47.380293,9.091087
+ch,gebenstorf,Gebenstorf,01,,47.47932,8.241285
+ch,gelfingen,Gelfingen,11,,47.166667,8.25
+ch,gelterkinden,Gelterkinden,01,5541,47.464968,7.85174
+ch,gemmipass,Gemmipass,22,,46.397565,7.614047
+ch,gemmi passhohe,Gemmi Passhohe,22,,46.397565,7.614047
+ch,gempen,Gempen,03,,47.475854,7.660277
+ch,genestrerio,Genestrerio,20,,45.854134,8.960266
+ch,geneva,Geneva,07,181492,46.195602,6.148113
+ch,geneve,Geneve,07,,46.195602,6.148113
+ch,genf,Genf,07,,46.195602,6.148113
+ch,genolier,Genolier,07,,46.43158,6.222605
+ch,gentalhutten,Gentalhutten,14,,46.735996,8.282681
+ch,genthalalp,Genthalalp,14,,46.735996,8.282681
+ch,genthalhutten,Genthalhutten,14,,46.735996,8.282681
+ch,geretsried,Geretsried,05,,46.882352,7.331276
+ch,geristein,Geristein,05,,46.993949,7.525114
+ch,gerlafingen,Gerlafingen,18,5032,47.169782,7.575051
+ch,gerlikon,Gerlikon,19,,47.537178,8.877351
+ch,gerliswil,Gerliswil,11,,47.078849,8.266074
+ch,gerra,Gerra,20,,46.121503,8.787888
+ch,gerra-verzasca,Gerra-Verzasca,20,,46.321169,8.802059
+ch,gersau,Gersau,17,,46.994189,8.524996
+ch,gerschnialp,Gerschnialp,14,,46.816667,8.416667
+ch,gerzensee,Gerzensee,05,,46.839213,7.545461
+ch,geschinen,Geschinen,14,,46.495319,8.280071
+ch,gettnau,Gettnau,01,,47.140188,7.970379
+ch,geuensee,Geuensee,01,,47.199703,8.106895
+ch,gheiba,Gheiba,20,,46.428607,8.597692
+ch,gibswil,Gibswil,17,,47.312488,8.91547
+ch,gidisdorf,Gidisdorf,14,,46.7,8.033333
+ch,giebel,Giebel,22,,46.494335,7.441874
+ch,giessbach,Giessbach,14,,46.735122,8.023329
+ch,giffers,Giffers,06,,46.762298,7.208451
+ch,gilly,Gilly,07,,46.457949,6.296717
+ch,gimel,Gimel,07,,46.509451,6.307361
+ch,gimmelwald,Gimmelwald,05,,46.545999,7.891492
+ch,ginevra,Ginevra,07,,46.195602,6.148113
+ch,gingins,Gingins,07,,46.408721,6.178142
+ch,giornico,Giornico,20,,46.401656,8.876576
+ch,giova,Giova,20,,46.252006,9.11316
+ch,gipf-oberfrick,Gipf-Oberfrick,01,,47.498751,8.004975
+ch,girenbad,Girenbad,17,,47.310059,8.872785
+ch,girenbad,Girenbad,25,,47.452431,8.847497
+ch,girenbad-matten,Girenbad-matten,25,,47.452431,8.847497
+ch,girenbad seelmatten,Girenbad Seelmatten,25,,47.452431,8.847497
+ch,giswil,Giswil,14,,46.833327,8.180646
+ch,giubiasco,Giubiasco,20,7926,46.176481,9.008847
+ch,giumaglio,Giumaglio,20,,46.274317,8.682139
+ch,givrins,Givrins,07,,46.429415,6.201408
+ch,gland,Gland,07,11194,46.421233,6.266986
+ch,glaris,Glaris,09,,46.745244,9.775961
+ch,glarus,Glarus,08,5889,47.04057,9.068036
+ch,glattbrugg,Glattbrugg,25,,47.435332,8.565233
+ch,glattburg,Glattburg,02,,47.429725,9.185404
+ch,glattburg,Glattburg,25,,47.435332,8.565233
+ch,glattenberg,Glattenberg,09,,46.583283,9.365534
+ch,glattfelden,Glattfelden,01,,47.556653,8.505548
+ch,gletsch,Gletsch,14,,46.562544,8.361701
+ch,glion,Glion,23,,46.43301,6.924604
+ch,glis,Glis,22,,46.309729,7.982775
+ch,glovelier,Glovelier,26,,47.334657,7.205445
+ch,gmeinalp,Gmeinalp,22,,46.115979,8.081449
+ch,gnosca,Gnosca,20,,46.232022,9.022313
+ch,goldach,Goldach,15,,47.475111,9.468463
+ch,goldau,Goldau,17,,47.048909,8.549463
+ch,goldingen,Goldingen,17,,47.262767,8.966268
+ch,goldiwil,Goldiwil,05,,46.764039,7.670573
+ch,goldswil,Goldswil,05,,46.696663,7.878065
+ch,gollion,Gollion,23,,46.584741,6.507436
+ch,gommiswald,Gommiswald,17,,47.231432,9.023488
+ch,gondiswil,Gondiswil,01,,47.14485,7.873271
+ch,gondo,Gondo,20,,46.195651,8.140094
+ch,gonten,Gonten,10,,47.327354,9.346083
+ch,gontenschwil,Gontenschwil,01,,47.274548,8.145432
+ch,goppenstein,Goppenstein,22,,46.366428,7.75588
+ch,goppisberg,Goppisberg,01,,46.371668,8.050069
+ch,gordevio,Gordevio,20,,46.226367,8.744993
+ch,gordola,Gordola,20,,46.182102,8.862053
+ch,gorduno,Gorduno,20,,46.222444,9.031944
+ch,gorgier,Gorgier,12,,46.903151,6.779904
+ch,goschenenalp,Goschenenalp,14,,46.65,8.483333
+ch,goschenen,Goschenen,14,,46.66816,8.587094
+ch,gosgen,Gosgen,01,,47.372171,7.991218
+ch,gosheneralp,Gosheneralp,14,,46.65,8.483333
+ch,goslikon,Goslikon,01,,47.370681,8.30805
+ch,gossau,Gossau,02,17268,47.41694,9.251252
+ch,gossau,Gossau,25,9028,47.306992,8.757972
+ch,gottefrey,Gottefrey,22,,46.150518,7.17172
+ch,gottlieben,Gottlieben,19,,47.664176,9.132452
+ch,goumoens-la-ville,Goumoens-la-Ville,23,,46.658301,6.603922
+ch,graben,Graben,05,,46.795292,7.402455
+ch,grabs,Grabs,10,6244,47.182061,9.443083
+ch,grachen,Grachen,22,,46.196365,7.839503
+ch,gracher,Gracher,22,,46.196365,7.839503
+ch,grafenort,Grafenort,14,,46.870169,8.374398
+ch,grancy,Grancy,23,,46.592374,6.466097
+ch,grandcour,Grandcour,12,,46.872029,6.928791
+ch,grandfontaine,Grandfontaine,26,,47.391703,6.939525
+ch,grand-saconnex,Grand-Saconnex,07,,46.226419,6.123303
+ch,grand-savagnier,Grand-Savagnier,12,,47.051773,6.955338
+ch,grandsivaz,Grandsivaz,06,,46.78556,6.98036
+ch,grandson,Grandson,23,,46.809389,6.645521
+ch,grandval,Grandval,18,,47.282291,7.425542
+ch,grandvillard,Grandvillard,23,,46.540294,7.086054
+ch,granges,Granges,22,,46.259023,7.463308
+ch,granges,Granges,23,,46.763256,6.887641
+ch,granges-pres-sion,Granges-pres-Sion,22,,46.259023,7.463308
+ch,granichen,Granichen,01,6444,47.359297,8.10243
+ch,gravelon,Gravelon,22,,46.144743,7.443604
+ch,gravesano,Gravesano,20,,46.042019,8.918973
+ch,greifensee,Greifensee,25,5080,47.367869,8.680017
+ch,grellingen,Grellingen,04,,47.442403,7.590084
+ch,grenchen,Grenchen,18,16135,47.19354,7.396577
+ch,grengiols,Grengiols,01,,46.372778,8.093002
+ch,greppen,Greppen,11,,47.055136,8.430341
+ch,gresso,Gresso,20,,46.224578,8.616303
+ch,gribbio,Gribbio,20,,46.454165,8.807888
+ch,griesalp,Griesalp,05,,46.547379,7.761189
+ch,grimentz,Grimentz,22,,46.17942,7.575732
+ch,grimisuat,Grimisuat,22,,46.261698,7.384889
+ch,grimmialp,Grimmialp,05,,46.566667,7.483333
+ch,grindelfeld,Grindelfeld,14,,46.7,8.133333
+ch,grindelwald,Grindelwald,14,,46.625435,8.033231
+ch,griosch,Griosch,09,,46.879849,10.331536
+ch,grodei,Grodei,22,,46.508361,7.395435
+ch,grodoey,Grodoey,22,,46.508361,7.395435
+ch,grolley,Grolley,06,,46.834009,7.073733
+ch,grone,Grone,22,,46.25237,7.453651
+ch,grono,Grono,20,,46.246788,9.149258
+ch,grossaffoltern,Grossaffoltern,05,,47.065946,7.362316
+ch,grossalpen,Grossalpen,09,,46.716667,9.85
+ch,grossandelfingen,Grossandelfingen,16,,47.594829,8.679678
+ch,grossbosingen,Grossbosingen,06,,46.892288,7.227702
+ch,gross-fetan,Gross-Fetan,09,,46.8,10.233333
+ch,gross gurmels,Gross Gurmels,06,,46.892694,7.171601
+ch,gross hochstetten,Gross Hochstetten,05,,46.904904,7.637278
+ch,grosswangen,Grosswangen,01,,47.132819,8.04781
+ch,gruben,Gruben,22,,46.21127,7.705486
+ch,grundbach,Grundbach,05,,46.769604,7.488242
+ch,grund,Grund,14,,46.702946,8.228887
+ch,grund,Grund,22,,46.45,7.266667
+ch,grun,Grun,22,,46.25237,7.453651
+ch,gruningen,Gruningen,25,,47.281809,8.759469
+ch,grusch,Grusch,09,,46.979647,9.646393
+ch,gruyeres,Gruyeres,06,,46.583649,7.082529
+ch,gryon,Gryon,22,,46.266667,7.1
+ch,gstaad,Gstaad,22,,46.472956,7.287059
+ch,gsteig,Gsteig,05,,46.665088,7.872988
+ch,gsteig,Gsteig,22,,46.385851,7.267507
+ch,guarda,Guarda,09,,46.776169,10.154369
+ch,gubel,Gubel,24,,47.162043,8.574332
+ch,guevaux,Guevaux,12,,46.938325,7.05642
+ch,guggisberg,Guggisberg,06,,46.767565,7.329463
+ch,gumegna,Gumegna,20,,46.366667,9.25
+ch,gumligen,Gumligen,05,,46.933147,7.509008
+ch,gummeli,Gummeli,22,,46.41631,7.394137
+ch,gummenen,Gummenen,05,,46.944911,7.244258
+ch,gunten,Gunten,05,,46.713349,7.701854
+ch,gunt,Gunt,20,,46.195651,8.140094
+ch,gunzgen,Gunzgen,01,,47.315376,7.829298
+ch,gunz,Gunz,20,,46.195651,8.140094
+ch,gunzwil,Gunzwil,01,,47.210725,8.179316
+ch,guraletsch,Guraletsch,09,,46.583333,9.133333
+ch,gurnigelbad,Gurnigelbad,05,,46.762114,7.444666
+ch,gurnigel,Gurnigel,05,,46.762114,7.444666
+ch,gurtnellen,Gurtnellen,21,,46.740074,8.624676
+ch,gutsch,Gutsch,22,,46.469062,7.449209
+ch,guttannen,Guttannen,14,,46.655108,8.289509
+ch,guttingen,Guttingen,15,,47.603862,9.286906
+ch,gwatt,Gwatt,05,,46.720439,7.622265
+ch,gydisdorf,Gydisdorf,14,,46.7,8.033333
+ch,gyrenbad,Gyrenbad,17,,47.310059,8.872785
+ch,gyrenbad,Gyrenbad,25,,47.452431,8.847497
+ch,habkern,Habkern,05,,46.728042,7.863582
+ch,habsburg,Habsburg,01,,47.462441,8.185123
+ch,hagenbuch,Hagenbuch,19,,47.520575,8.887692
+ch,hagendorf,Hagendorf,01,,47.334361,7.841916
+ch,haggenschwil,Haggenschwil,15,,47.494217,9.342473
+ch,hagglingen,Hagglingen,01,,47.388495,8.253229
+ch,hagneck,Hagneck,14,,47.057551,7.187787
+ch,haldenstein,Haldenstein,09,,46.879051,9.526843
+ch,halen,Halen,05,,46.916667,7.466667
+ch,hallau,Hallau,16,,47.699817,8.457967
+ch,hallwil,Hallwil,01,,47.326353,8.178347
+ch,halten,Halten,18,,46.9,8.166667
+ch,hamikon,Hamikon,01,,47.238569,8.275917
+ch,handeck,Handeck,14,,46.61205,8.307851
+ch,handegg,Handegg,14,,46.61205,8.307851
+ch,hannigalp,Hannigalp,22,,46.207038,7.866805
+ch,hasle,Hasle,05,,47.014363,7.651124
+ch,hasle,Hasle,11,,46.977865,8.053255
+ch,haslen,Haslen,15,,47.369308,9.367519
+ch,hasle-ruegsau,Hasle-Ruegsau,05,,47.014363,7.651124
+ch,hasli,Hasli,05,,46.670983,7.65166
+ch,hatzingen,Hatzingen,08,,46.961082,9.036962
+ch,hauderes,Hauderes,22,,46.083979,7.508151
+ch,hauenstein,Hauenstein,01,,47.377923,7.872087
+ch,hauptwil,Hauptwil,19,,47.466667,9.283333
+ch,hausen,Hausen,14,,46.735485,8.168463
+ch,hausen,Hausen,24,,47.242282,8.531675
+ch,hauterive,Hauterive,06,,46.764351,7.117518
+ch,hauterize,Hauterize,06,,46.764351,7.117518
+ch,hauteville,Hauteville,06,,46.670216,7.107736
+ch,heerbrugge,Heerbrugge,15,,47.41368,9.625437
+ch,heerbrugg,Heerbrugg,15,,47.41368,9.625437
+ch,hegi,Hegi,25,,47.506285,8.771949
+ch,heidbuhl,Heidbuhl,05,,46.87247,7.801045
+ch,heiden,Heiden,15,,47.442549,9.532934
+ch,heiligenschwendi,Heiligenschwendi,05,,46.747344,7.669056
+ch,heimberg,Heimberg,05,5586,46.794824,7.604332
+ch,heimenschwand,Heimenschwand,05,,46.828683,7.694743
+ch,heimiswil,Heimiswil,05,,47.062331,7.653137
+ch,heitenried,Heitenried,06,,46.827619,7.299437
+ch,heitmannsegg,Heitmannsegg,21,,46.875276,8.801168
+ch,hellbuhl,Hellbuhl,11,,47.070754,8.19909
+ch,hemberg,Hemberg,02,,47.300618,9.175175
+ch,hemishofen,Hemishofen,16,,47.676652,8.83144
+ch,hemmental,Hemmental,16,,47.733493,8.584738
+ch,hemmenthal,Hemmenthal,16,,47.733493,8.584738
+ch,hemmiken,Hemmiken,03,,47.466667,7.866667
+ch,henau,Henau,02,,47.453048,9.11839
+ch,hendschiken,Hendschiken,01,,47.386479,8.217819
+ch,hendschikon,Hendschikon,01,,47.386479,8.217819
+ch,henggart,Henggart,25,,47.563359,8.683633
+ch,herbetswil,Herbetswil,18,,47.296011,7.591952
+ch,herblingen,Herblingen,16,,47.724213,8.659103
+ch,herbrigen,Herbrigen,22,,46.136927,7.79285
+ch,herbriggen,Herbriggen,22,,46.136927,7.79285
+ch,herbrug,Herbrug,15,,47.41368,9.625437
+ch,herdern,Herdern,19,,47.604898,8.909511
+ch,heremence,Heremence,22,,46.181526,7.404917
+ch,hergersboden,Hergersboden,21,,46.88702,8.899066
+ch,hergiswil,Hergiswil,01,,47.084975,7.957989
+ch,hergiswil,Hergiswil,11,5477,46.984209,8.310356
+ch,herisan,Herisan,02,,47.386276,9.280779
+ch,herisau,Herisau,02,15444,47.386276,9.280779
+ch,hermance,Hermance,07,,46.302113,6.243776
+ch,hermetschwil,Hermetschwil,01,,47.334156,8.344327
+ch,hermiswil,Hermiswil,05,,46.831252,7.477746
+ch,herrenhof,Herrenhof,15,,47.597245,9.245471
+ch,herrliberg,Herrliberg,25,5922,47.288144,8.612224
+ch,hertenstein,Hertenstein,01,,47.487454,8.31261
+ch,hertenstein,Hertenstein,11,,47.033333,8.4
+ch,herzberg,Herzberg,01,,47.433333,8.033333
+ch,herzogenbuchsee,Herzogenbuchsee,01,5734,47.187406,7.707457
+ch,hessigkofen,Hessigkofen,18,,47.14134,7.466703
+ch,hettlingen,Hettlingen,25,,47.54678,8.709812
+ch,hildisrieden,Hildisrieden,11,,47.150677,8.225819
+ch,hilterfingen,Hilterfingen,05,,46.73689,7.660964
+ch,himmelried,Himmelried,04,,47.421111,7.596594
+ch,hindelbank,Hindelbank,05,,47.041963,7.541673
+ch,hinterdorf,Hinterdorf,08,,46.974987,9.159817
+ch,hintere-windspillen,Hintere-Windspillen,22,,46.4,7.3
+ch,hinter horbis,Hinter Horbis,14,,46.832078,8.432593
+ch,hinterkappelen,Hinterkappelen,05,,46.967781,7.379561
+ch,hinterlochen,Hinterlochen,15,,47.461779,9.551664
+ch,hinter netschbuhl,Hinter Netschbuhl,05,,46.883333,7.766667
+ch,hinterrhein,Hinterrhein,09,,46.531063,9.198837
+ch,hinter wallegg,Hinter Wallegg,22,,46.401127,7.236039
+ch,hint schweig,Hint Schweig,14,,46.583333,8.5
+ch,hinwil,Hinwil,17,10533,47.300822,8.842076
+ch,hirschhorn,Hirschhorn,05,,46.775643,7.383751
+ch,hirzel,Hirzel,25,,47.216667,8.6
+ch,hittnau,Hittnau,25,,47.367975,8.825642
+ch,hitzkirch,Hitzkirch,01,,47.223892,8.265021
+ch,hochdorf,Hochdorf,11,7793,47.168408,8.291788
+ch,hochfinstermunz,Hochfinstermunz,09,,46.930289,10.490108
+ch,hochwald,Hochwald,03,,47.458299,7.641803
+ch,hofen,Hofen,16,,47.782136,8.67697
+ch,hof,Hof,15,,47.468735,9.514729
+ch,hofstetten,Hofstetten,04,,47.47537,7.515725
+ch,hofstetten,Hofstetten,25,,47.472653,8.853846
+ch,hohenhaus,Hohenhaus,09,,46.45,9.466667
+ch,hohenrain,Hohenrain,01,,47.180826,8.318018
+ch,hohfluh,Hohfluh,14,,46.752608,8.170495
+ch,holderbank,Holderbank,01,,47.332477,7.749698
+ch,hollerbiel,Hollerbiel,22,,46.15414,7.929111
+ch,hollerbuhl,Hollerbuhl,22,,46.15414,7.929111
+ch,holstein,Holstein,03,,47.425122,7.771361
+ch,holzhostatt,Holzhostatt,14,,46.8,8.433333
+ch,hombrechtikon,Hombrechtikon,17,7795,47.25208,8.77437
+ch,homburg,Homburg,19,,47.634665,9.0079
+ch,hondrich,Hondrich,05,,46.674722,7.686076
+ch,hongg,Hongg,25,,47.402642,8.497932
+ch,horgen,Horgen,25,18055,47.255924,8.598672
+ch,horhausen,Horhausen,19,,47.632098,8.971528
+ch,horn,Horn,15,,47.494253,9.462459
+ch,hornkessel,Hornkessel,22,,46.483333,7.316667
+ch,hornussen,Hornussen,01,,47.50025,8.061255
+ch,horw,Horw,11,12110,47.016917,8.309556
+ch,hospental,Hospental,14,,46.619218,8.568484
+ch,hospenthal,Hospenthal,14,,46.619218,8.568484
+ch,huemoz,Huemoz,23,,46.291117,7.024778
+ch,hulftegg,Hulftegg,25,,47.363308,8.967198
+ch,hundwald,Hundwald,21,,46.883333,8.533333
+ch,hundwil,Hundwil,02,,47.364853,9.318664
+ch,hunenberg,Hunenberg,24,8060,47.178931,8.423515
+ch,hunibach,Hunibach,05,,46.746163,7.650349
+ch,huntwangen,Huntwangen,01,,47.595499,8.491741
+ch,hunzigenbrugg,Hunzigenbrugg,05,,46.883333,7.533333
+ch,hunzikenbrucke,Hunzikenbrucke,05,,46.883333,7.533333
+ch,hurden,Hurden,17,,47.213783,8.804027
+ch,husen,Husen,14,,46.718414,8.573111
+ch,huttenberg,Huttenberg,23,,46.933333,6.533333
+ch,hutten,Hutten,09,,46.696309,9.302852
+ch,huttlingen,Huttlingen,19,,47.578338,8.981201
+ch,huttwilen,Huttwilen,19,,47.607222,8.871395
+ch,huttwil,Huttwil,01,4480,47.11502,7.862087
+ch,ibach,Ibach,17,,47.011914,8.643769
+ch,iffigenalp,Iffigenalp,22,,46.400093,7.440693
+ch,iffigen,Iffigen,22,,46.400093,7.440693
+ch,igis,Igis,09,7078,46.945308,9.57218
+ch,igl plang,Igl Plang,09,,46.503837,9.580294
+ch,ilanz,Ilanz,09,,46.773071,9.204486
+ch,il fuorn,Il Fuorn,09,,46.664516,10.210168
+ch,illgau,Illgau,17,,46.987637,8.725091
+ch,illiswil,Illiswil,05,,46.973631,7.340614
+ch,illnau,Illnau,25,,47.406931,8.722109
+ch,im esch,Im Esch,22,,46.266667,7.866667
+ch,im fang,Im Fang,06,,46.601857,7.239711
+ch,imfeld,Imfeld,01,,46.370188,8.21305
+ch,im kloster,Im Kloster,06,,46.724476,7.295701
+ch,im loch,Im Loch,14,,46.504137,8.317898
+ch,immensee,Immensee,24,,47.096456,8.463569
+ch,indemini,Indemini,20,,46.094248,8.825752
+ch,inden,Inden,22,,46.344433,7.617629
+ch,in der schweig,In der Schweig,14,,46.583333,8.5
+ch,ingenbohl,Ingenbohl,17,7964,47.004642,8.614768
+ch,innercamana,Innercamana,09,,46.658555,9.282543
+ch,innerferrera calantgil,Innerferrera Calantgil,09,,46.520613,9.443354
+ch,innerferrera,Innerferrera,09,,46.520613,9.443354
+ch,inner hof,Inner Hof,09,,46.76414,9.364397
+ch,inner praden,Inner Praden,09,,46.824626,9.586343
+ch,innertal,Innertal,17,,47.106068,8.919374
+ch,innerthal,Innerthal,17,,47.106068,8.919374
+ch,innertkirchen,Innertkirchen,14,,46.707219,8.217508
+ch,ins,Ins,12,,47.004993,7.106403
+ch,interlaken,Interlaken,05,5057,46.683872,7.866376
+ch,intragna,Intragna,20,,46.177088,8.700576
+ch,intsche,Intsche,21,,46.760391,8.648963
+ch,intschi,Intschi,21,,46.760391,8.648963
+ch,inwil,Inwil,11,,47.125304,8.348849
+ch,iragna,Iragna,20,,46.32878,8.96758
+ch,irgenhausen,Irgenhausen,25,,47.361472,8.79328
+ch,irgenhusen,Irgenhusen,25,,47.361472,8.79328
+ch,iseltwald,Iseltwald,05,,46.710758,7.964152
+ch,isenfluh,Isenfluh,05,,46.620583,7.895542
+ch,isental,Isental,21,,46.910792,8.561208
+ch,isenthal,Isenthal,21,,46.910792,8.561208
+ch,iseo,Iseo,20,,46.004677,8.881984
+ch,iserables,Iserables,22,,46.162279,7.244743
+ch,isleten,Isleten,21,,46.920379,8.592813
+ch,islikon,Islikon,19,,47.545764,8.841783
+ch,isola,Isola,09,,46.412919,9.739698
+ch,isone,Isone,20,,46.129151,8.985728
+ch,issert,Issert,22,,46.003049,7.1258
+ch,itravers,Itravers,22,,46.249215,7.489647
+ch,ittental,Ittental,01,,47.518341,8.059637
+ch,ittenthal,Ittenthal,01,,47.518341,8.059637
+ch,ittingen,Ittingen,19,,47.6,8.883333
+ch,jaggisbachau,Jaggisbachau,05,,46.96396,7.314665
+ch,jaun,Jaun,06,,46.611215,7.276374
+ch,javernaz,Javernaz,22,,46.236725,7.062341
+ch,javerne,Javerne,22,,46.236725,7.062341
+ch,jegenstorf,Jegenstorf,05,,47.052379,7.50931
+ch,jeli,Jeli,09,,46.933108,9.512405
+ch,jenaz,Jenaz,09,,46.92892,9.712754
+ch,jenins,Jenins,09,,47.001486,9.556574
+ch,jerisberghof,Jerisberghof,05,,46.958743,7.213669
+ch,jerisberg,Jerisberg,05,,46.958743,7.213669
+ch,jeuss,Jeuss,06,,46.904053,7.162724
+ch,jona,Jona,17,17806,47.230265,8.841838
+ch,jonen,Jonen,01,,47.297401,8.393372
+ch,jonschwil,Jonschwil,02,,47.42343,9.087178
+ch,juf,Juf,09,,46.445853,9.578963
+ch,jussy,Jussy,07,,46.237164,6.269694
+ch,kaiseraugst,Kaiseraugst,01,,47.541076,7.741085
+ch,kaiserstuhl,Kaiserstuhl,01,,47.56839,8.418003
+ch,kaiserstuhl,Kaiserstuhl,14,,46.813809,8.17205
+ch,kaisten,Kaisten,01,,47.540268,8.044463
+ch,kalberhoni,Kalberhoni,22,,46.461042,7.245306
+ch,kalchrain,Kalchrain,19,,47.611844,8.889205
+ch,kalchstatten,Kalchstatten,06,,46.773774,7.31424
+ch,kallnach,Kallnach,14,,47.020319,7.235453
+ch,kaltbad,Kaltbad,11,,47.044152,8.465235
+ch,kaltbrunn,Kaltbrunn,17,,47.213669,9.0259
+ch,kandergrund,Kandergrund,05,,46.54955,7.660363
+ch,kandersteg,Kandersteg,05,,46.496068,7.674825
+ch,kappel am albis,Kappel am Albis,24,,47.227037,8.524847
+ch,kappelen,Kappelen,05,,47.06015,7.268603
+ch,kappeli,Kappeli,05,,46.984385,7.235157
+ch,kappel,Kappel,02,,47.268915,9.11622
+ch,kappel,Kappel,24,,47.227037,8.524847
+ch,kasern,Kasern,08,,46.997061,8.937469
+ch,kaserstatt,Kaserstatt,01,,46.407866,8.171034
+ch,kastanienbaum,Kastanienbaum,11,,47.006827,8.340582
+ch,kastris,Kastris,09,,46.783333,9.216667
+ch,kefikon,Kefikon,19,,47.54909,8.833475
+ch,kehrsatz,Kehrsatz,05,,46.910322,7.472037
+ch,kehrsiten,Kehrsiten,13,,46.99798,8.364918
+ch,kemmeribodenbad,Kemmeribodenbad,05,,46.801945,7.935518
+ch,kemmeriboden,Kemmeriboden,05,,46.801945,7.935518
+ch,kempttal,Kempttal,25,,47.449711,8.703918
+ch,kemptthal,Kemptthal,25,,47.449711,8.703918
+ch,kendergrund,Kendergrund,05,,46.54955,7.660363
+ch,kernenried,Kernenried,05,,47.069684,7.54679
+ch,kerns,Kerns,14,5375,46.900882,8.276516
+ch,kerzers,Kerzers,05,,46.975232,7.198898
+ch,kesswil,Kesswil,15,,47.593364,9.318086
+ch,kienholz,Kienholz,14,,46.751575,8.048392
+ch,kien,Kien,05,,46.615436,7.687655
+ch,kiental,Kiental,05,,46.587959,7.723944
+ch,kienthal,Kienthal,05,,46.587959,7.723944
+ch,kiesen,Kiesen,05,,46.819108,7.58242
+ch,kiessen,Kiessen,05,,46.819108,7.58242
+ch,kilchberg,Kilchberg,25,6918,47.318309,8.551172
+ch,killwangen,Killwangen,01,,47.43182,8.348054
+ch,kinzeralp,Kinzeralp,21,,46.916667,8.733333
+ch,kippel,Kippel,22,,46.399085,7.771738
+ch,kirchberg,Kirchberg,02,8073,47.411412,9.039848
+ch,kirchberg,Kirchberg,18,5279,47.086574,7.588896
+ch,kirchdinhard,Kirchdinhard,25,,47.554897,8.77586
+ch,kirchdorf,Kirchdorf,05,,46.819999,7.548998
+ch,kirchlindach,Kirchlindach,05,,46.999653,7.41735
+ch,klein-basel,Klein-Basel,04,,47.566359,7.614439
+ch,kleindietwil,Kleindietwil,01,,47.145214,7.790689
+ch,kleinhochstetten,Kleinhochstetten,05,,46.902813,7.531851
+ch,kleinhuningen,Kleinhuningen,04,,47.58428,7.592262
+ch,kleinlutzel,Kleinlutzel,26,,47.425368,7.422936
+ch,klingnau,Klingnau,01,,47.57998,8.250484
+ch,kloster,Kloster,06,,46.724476,7.295701
+ch,klosters brucke,Klosters Brucke,00,,49.866667,9.883333
+ch,klosters dorf,Klosters Dorf,09,,46.882688,9.876093
+ch,klosters dorfli,Klosters Dorfli,09,,46.882688,9.876093
+ch,klosters,Klosters,09,,46.868814,9.881514
+ch,klosters platz,Klosters Platz,09,,46.868814,9.881514
+ch,klosters serneus,Klosters Serneus,09,,46.889527,9.837754
+ch,kloten,Kloten,25,18141,47.449817,8.594777
+ch,klusi,Klusi,05,,46.666667,7.533333
+ch,knonau,Knonau,24,,47.221016,8.465117
+ch,knutwil,Knutwil,01,,47.199529,8.07315
+ch,koblenz,Koblenz,01,,47.606571,8.241987
+ch,kollbrunn,Kollbrunn,25,,47.457265,8.77391
+ch,kolliken,Kolliken,01,,47.338824,8.026438
+ch,koniz,Koniz,05,35961,46.923391,7.408688
+ch,konolfingen dorf,Konolfingen Dorf,05,,46.889503,7.630365
+ch,konolfingen,Konolfingen,05,4509,46.879674,7.622618
+ch,koppigen,Koppigen,18,,47.133848,7.598749
+ch,kradolf,Kradolf,15,,47.525234,9.20253
+ch,krattigen,Krattigen,05,,46.661394,7.72777
+ch,krauchtal,Krauchtal,05,,47.008889,7.567194
+ch,krauchthal,Krauchthal,05,,47.008889,7.567194
+ch,krautmettli,Krautmettli,14,,46.717455,8.052154
+ch,kreuzbrucke,Kreuzbrucke,05,,46.95,7.8
+ch,kreuzlingen,Kreuzlingen,15,17233,47.648212,9.180338
+ch,kriechenwil,Kriechenwil,06,,46.909685,7.219569
+ch,kriegmatte,Kriegmatte,09,,46.783333,9.883333
+ch,kriegsmatte,Kriegsmatte,09,,46.783333,9.883333
+ch,kriegstetten,Kriegstetten,18,,47.174156,7.585083
+ch,kriegstten,Kriegstten,18,,47.174156,7.585083
+ch,kriens,Kriens,11,26117,47.035366,8.276307
+ch,krienz,Krienz,11,,47.035366,8.276307
+ch,krinau,Krinau,02,,47.317564,9.050027
+ch,kronbuhl bei sankt gallen,Kronbuhl bei Sankt Gallen,15,,47.45849,9.392829
+ch,kronbuhl,Kronbuhl,15,,47.45849,9.392829
+ch,kroschenbrunnen,Kroschenbrunnen,05,,46.910252,7.878306
+ch,krummenau,Krummenau,02,,47.247552,9.170537
+ch,kublis,Kublis,09,,46.913683,9.771985
+ch,kuenz,Kuenz,24,,47.183333,8.566667
+ch,kulm,Kulm,01,,47.30998,8.11371
+ch,kulm,Kulm,11,,47.055892,8.484092
+ch,kulm,Kulm,21,,46.833333,8.6
+ch,kumma,Kumma,09,,46.75,9.783333
+ch,kunten,Kunten,01,,47.388896,8.331049
+ch,kuoni,Kuoni,24,,47.183333,8.566667
+ch,kuonz,Kuonz,24,,47.183333,8.566667
+ch,kurhaus grimmialp,Kurhaus Grimmialp,05,,46.566667,7.483333
+ch,kurhaus,Kurhaus,05,,46.566667,7.483333
+ch,kurheim-grimmialp,Kurheim-Grimmialp,05,,46.566667,7.483333
+ch,kusnacht,Kusnacht,25,13000,47.31776,8.581943
+ch,kussnacht am rigi,Kussnacht am Rigi,11,,47.085571,8.442057
+ch,kussnacht,Kussnacht,11,11771,47.085571,8.442057
+ch,kuttigen,Kuttigen,01,5092,47.415658,8.047673
+ch,kuttigkofen,Kuttigkofen,18,,47.151175,7.51557
+ch,kyburg,Kyburg,25,,47.456724,8.74388
+ch,laax bei ilanz,Laax bei Ilanz,09,,46.805516,9.256501
+ch,laax,Laax,09,,46.805516,9.256501
+ch,la balmaz,La Balmaz,22,,46.1577,7.029031
+ch,la barma,La Barma,22,,46.061453,7.386043
+ch,la barmaz,La Barmaz,07,,46.148442,6.831665
+ch,la barmaz,La Barmaz,22,,46.123912,7.635106
+ch,l'abbaye,L'Abbaye,23,,46.649663,6.319066
+ch,la brevine,La Brevine,12,,46.98039,6.606904
+ch,la chaux de fonda,La Chaux de Fonda,12,,47.104417,6.828892
+ch,la chaux-de-fonds,La Chaux-de-Fonds,12,36971,47.104417,6.828892
+ch,la chaux-des-breuleux,La Chaux-des-Breuleux,12,,47.222097,7.028287
+ch,la chaux,La Chaux,12,,47.222097,7.028287
+ch,la chaux-sur-breuleux,La Chaux-sur-Breuleux,12,,47.222097,7.028287
+ch,lachen,Lachen,17,6879,47.191524,8.856195
+ch,la chiesaz,La Chiesaz,23,,46.472861,6.885335
+ch,la comballaz,La Comballaz,23,,46.378009,7.081684
+ch,la cote-aux-fees,La Cote-aux-Fees,23,,46.866647,6.488475
+ch,la cote,La Cote,23,,46.866647,6.488475
+ch,la coulouvreniere,La Coulouvreniere,07,,46.2,6.133333
+ch,la creta,La Creta,22,,46.16631,7.428534
+ch,la cure,La Cure,07,,46.464659,6.07307
+ch,la dernier,La Dernier,23,,46.7,6.383333
+ch,ladholz,Ladholz,05,,46.533333,7.6
+ch,ladils,Ladils,09,,46.929525,9.43853
+ch,ladir,Ladir,09,,46.790508,9.202718
+ch,laeufelfingen,Laeufelfingen,01,,47.397028,7.854867
+ch,la ferriere,La Ferriere,12,,47.142812,6.892835
+ch,la fontaine,La Fontaine,22,,46.253125,7.294756
+ch,la forclaz,La Forclaz,23,,46.350664,7.068926
+ch,la fouly,La Fouly,22,,45.9348,7.098427
+ch,la giete dele,La Giete Dele,22,,46.30174,7.424183
+ch,la gottaz,La Gottaz,06,,46.7,7.1
+ch,la gouille,La Gouille,22,,46.053794,7.489618
+ch,la heutte,La Heutte,05,,47.189918,7.225707
+ch,lai,Lai,09,,46.75,9.55
+ch,lajoux,Lajoux,26,,47.278931,7.137256
+ch,lalden,Lalden,22,,46.29963,7.901641
+ch,la lecherette,La Lecherette,23,,46.42037,7.105187
+ch,lamboing,Lamboing,14,,47.117405,7.136359
+ch,la mereune,La Mereune,22,,46.162483,7.066138
+ch,la monta,La Monta,22,,46.031711,7.485986
+ch,lana,Lana,22,,46.133333,7.483333
+ch,landarenca,Landarenca,20,,46.3175,9.111043
+ch,landbrugg,Landbrugg,11,,46.944825,8.007241
+ch,landiswil,Landiswil,05,,46.958152,7.680271
+ch,landquart fabriken,Landquart Fabriken,09,,46.955728,9.560259
+ch,landquart,Landquart,09,,46.963157,9.557922
+ch,laneron-combes,Laneron-Combes,14,,47.056195,7.071841
+ch,laneron,Laneron,14,,47.056195,7.071841
+ch,la neuveville,La Neuveville,14,,47.068397,7.099546
+ch,langenbruck,Langenbruck,01,,47.348549,7.768837
+ch,langenschachen,Langenschachen,05,,46.72607,7.680356
+ch,langental,Langental,01,,47.21526,7.796072
+ch,langenthal,Langenthal,01,14533,47.21526,7.796072
+ch,langnau,Langnau,01,,47.230016,7.96308
+ch,langnau,Langnau,05,8731,46.93936,7.78738
+ch,langnau,Langnau,25,6721,47.285027,8.534167
+ch,langrickenbach,Langrickenbach,15,,47.594088,9.247381
+ch,langwies,Langwies,09,,46.819247,9.709382
+ch,lanna,Lanna,22,,46.133333,7.483333
+ch,lannaz,Lannaz,22,,46.133333,7.483333
+ch,lansch,Lansch,09,,46.684126,9.562699
+ch,lantsch,Lantsch,09,,46.684126,9.562699
+ch,la pecherette,La Pecherette,23,,46.42037,7.105187
+ch,la perreyre,La Perreyre,22,,46.066674,7.282552
+ch,la plaine,La Plaine,07,,46.177221,6.002423
+ch,la pleine,La Pleine,07,,46.177221,6.002423
+ch,la praille,La Praille,07,,46.179631,6.130327
+ch,la praz,La Praz,23,,46.667497,6.426987
+ch,la punt,La Punt,09,,46.578874,9.920149
+ch,la redoute,La Redoute,07,,46.383333,6.233333
+ch,laret,Laret,09,,46.85,9.85
+ch,laret,Laret,20,,46.316667,9.6
+ch,la reuchenette,La Reuchenette,05,,47.189035,7.250974
+ch,la roche,La Roche,06,,46.697232,7.139304
+ch,la rosa,La Rosa,09,,46.402153,10.067088
+ch,larsi,Larsi,22,,46.366667,7.6
+ch,l'arzo,l'Arzo,20,,46.444174,8.503955
+ch,la sagne,La Sagne,12,,47.044783,6.807559
+ch,la sarraz,La Sarraz,23,,46.659108,6.514676
+ch,la scheulte,La Scheulte,18,,47.333464,7.545748
+ch,la tine,La Tine,23,,46.470783,7.052458
+ch,la tour-de-peilz,La Tour-de-Peilz,23,10835,46.453552,6.858596
+ch,la tour-de-treme,La Tour-de-Treme,06,,46.610614,7.064959
+ch,la tour,La Tour,22,,46.097961,7.50573
+ch,latsch,Latsch,09,,46.634241,9.752107
+ch,lauenen,Lauenen,22,,46.42433,7.321369
+ch,lauerz,Lauerz,17,,47.035279,8.58118
+ch,laufelfingen,Laufelfingen,01,,47.397028,7.854867
+ch,laufenburg,Laufenburg,01,,47.562351,8.048511
+ch,laufen,Laufen,04,5223,47.420878,7.507521
+ch,laufen,Laufen,16,,47.672186,8.613771
+ch,laupen,Laupen,06,,46.900357,7.229162
+ch,laupersdorf,Laupersdorf,01,,47.31426,7.650532
+ch,lauperswil,Lauperswil,05,,46.965443,7.741967
+ch,laura,Laura,20,,46.212638,9.100493
+ch,lausanne,Lausanne,23,118015,46.533333,6.666667
+ch,lausen,Lausen,03,5043,47.475823,7.765687
+ch,lauterbrunnen,Lauterbrunnen,05,,46.595676,7.907654
+ch,lavertezzo,Lavertezzo,20,,46.257767,8.843287
+ch,lavey,Lavey,22,,46.219527,7.017898
+ch,lavey-les-bains,Lavey-les-Bains,22,,46.204288,7.017592
+ch,lavey-village,Lavey-Village,22,,46.219527,7.017898
+ch,lavin,Lavin,09,,46.767354,10.110669
+ch,lavorgo,Lavorgo,20,,46.441293,8.840947
+ch,lax,Lax,01,,46.388634,8.118934
+ch,le bouveret,Le Bouveret,23,,46.38459,6.853274
+ch,le brassus,Le Brassus,07,,46.583768,6.211859
+ch,le bry,Le Bry,06,,46.703454,7.083301
+ch,le chable,Le Chable,22,,46.079662,7.210597
+ch,le chalet-a-gobet,Le Chalet-a-Gobet,23,,46.564826,6.692633
+ch,le chatelard,Le Chatelard,23,,46.44527,6.89908
+ch,le chatelard-montreux,Le Chatelard-Montreux,23,,46.44527,6.89908
+ch,lechelles,Lechelles,06,,46.829478,7.017497
+ch,le chenit,Le Chenit,07,,46.6,6.233333
+ch,lecherette,Lecherette,23,,46.42037,7.105187
+ch,le col-des-roches,Le Col-des-Roches,12,,47.03018,6.850514
+ch,le contour,Le Contour,23,,46.423117,7.146104
+ch,le cret,Le Cret,23,,46.609396,6.910201
+ch,le cret-pres-semsales,Le Cret-pres-Semsales,23,,46.609396,6.910201
+ch,le fays,Le Fays,22,,46.074375,7.031151
+ch,le feydey,Le Feydey,23,,46.343126,7.010564
+ch,leggia,Leggia,20,,46.262015,9.166592
+ch,le grand-saconnex,Le Grand-Saconnex,07,8457,46.226419,6.123303
+ch,leibstadt,Leibstadt,01,,47.587904,8.176108
+ch,leimbach,Leimbach,15,,47.560645,9.188148
+ch,leis,Leis,09,,46.609867,9.165016
+ch,leissigen,Leissigen,05,,46.654595,7.775479
+ch,le landeron,Le Landeron,14,,47.056195,7.071841
+ch,lelgio,Lelgio,20,,46.084748,8.971397
+ch,lelin,Lelin,11,,46.933333,7.966667
+ch,le locle,Le Locle,12,9933,47.059533,6.752278
+ch,le mont,Le Mont,23,,46.557743,6.634562
+ch,le mont-sur-lausanne,Le Mont-sur-Lausanne,23,5139,46.557743,6.634562
+ch,lengnau,Lengnau,05,4302,47.183824,7.373714
+ch,lenk,Lenk,22,,46.458063,7.441356
+ch,le noirmont,Le Noirmont,12,,47.225674,6.957303
+ch,lens,Lens,22,,46.279647,7.445959
+ch,lenzburg,Lenzburg,01,7616,47.384048,8.181798
+ch,lenzerheide,Lenzerheide,09,,46.75,9.55
+ch,lenz,Lenz,09,,46.684126,9.562699
+ch,le paquier,Le Paquier,12,,47.098502,6.986822
+ch,le peuchapatte,Le Peuchapatte,12,,47.197467,6.964926
+ch,le pont,Le Pont,23,,46.667969,6.327838
+ch,le prese,Le Prese,09,,46.29248,10.078437
+ch,les acacias,Les Acacias,07,,46.183333,6.133333
+ch,les adanes,Les Adanes,06,,46.531238,7.245699
+ch,les avants,Les Avants,23,,46.453143,6.944385
+ch,les bayards,Les Bayards,23,,46.915582,6.510002
+ch,les bois,Les Bois,12,,47.177149,6.904977
+ch,les brenets,Les Brenets,12,,47.067084,6.707271
+ch,les breuleux,Les Breuleux,12,,47.210993,7.007918
+ch,les charbonnieres,Les Charbonnieres,23,,46.66748,6.313369
+ch,les charmilles,Les Charmilles,07,,46.2,6.116667
+ch,les coeudres,Les Coeudres,12,,47.02593,6.785051
+ch,les devens,Les Devens,23,,46.269211,7.009666
+ch,les diablerets,Les Diablerets,22,,46.350414,7.157739
+ch,les eaux-vives,Les Eaux-Vives,07,,46.2,6.15
+ch,le sentier,Le Sentier,07,,46.606811,6.232712
+ch,le sepey,Le Sepey,23,,46.36183,7.051906
+ch,les garettes,Les Garettes,22,,46.159077,7.11073
+ch,les geneveys-sur-coffrane,Les Geneveys-sur-Coffrane,12,,47.014005,6.852528
+ch,les genevez,Les Genevez,05,,47.255515,7.129607
+ch,les hauderes,Les Hauderes,22,,46.083979,7.508151
+ch,les hauts-geneveys,Les Hauts-Geneveys,12,,47.04871,6.876614
+ch,les hauts-genveys,Les Hauts-Genveys,12,,47.04871,6.876614
+ch,les marecottes,Les Marecottes,22,,46.111814,7.006792
+ch,les mosses,Les Mosses,23,,46.4,7.116667
+ch,les moulins,Les Moulins,23,,46.462521,7.104639
+ch,les paquis,Les Paquis,07,,46.2,6.166667
+ch,les plans,Les Plans,22,,46.257337,7.094193
+ch,les plans-sur-bex,Les Plans-sur-Bex,22,,46.257337,7.094193
+ch,les pleiades,Les Pleiades,23,,46.483333,6.883333
+ch,les pommerats,Les Pommerats,12,,47.271633,6.984871
+ch,les ponts-de-martel,Les Ponts-de-Martel,12,,46.999251,6.733558
+ch,les ponts-martel,Les Ponts-Martel,12,,46.999251,6.733558
+ch,les rappes,Les Rappes,22,,46.081783,7.049817
+ch,les siernes-picats,Les Siernes-Picats,23,,46.505292,7.170311
+ch,lessoc,Lessoc,23,,46.505596,7.061362
+ch,les thioleyres,Les Thioleyres,23,,46.538481,6.812308
+ch,les valettes,Les Valettes,22,,46.076895,7.07527
+ch,les verrieres,Les Verrieres,23,,46.90698,6.469888
+ch,letten,Letten,25,,47.4,8.533333
+ch,leuggelbach,Leuggelbach,08,,46.976326,9.045892
+ch,leukerbad,Leukerbad,22,,46.379842,7.62803
+ch,leuk,Leuk,22,,46.317364,7.63412
+ch,leuk stadt,Leuk Stadt,22,,46.317364,7.63412
+ch,leutmerken,Leutmerken,19,,47.565432,9.034712
+ch,leutwil,Leutwil,01,,47.308262,8.174078
+ch,leuzigen,Leuzigen,18,,47.174583,7.457755
+ch,le vaud,Le Vaud,07,,46.477913,6.234632
+ch,le vichiesso,Le Vichiesso,22,,46.104799,7.634312
+ch,leysin,Leysin,23,,46.342549,7.011708
+ch,leytron,Leytron,22,,46.186269,7.208399
+ch,lichtensteig,Lichtensteig,02,,47.337551,9.084078
+ch,liddes,Liddes,22,,45.991984,7.185852
+ch,liebefeld,Liebefeld,05,,46.925806,7.414541
+ch,liebistorf,Liebistorf,06,,46.908811,7.196359
+ch,lieli,Lieli,01,,47.207295,8.298231
+ch,lienz,Lienz,10,,47.277175,9.516274
+ch,liesberg,Liesberg,26,,47.403722,7.432263
+ch,liestal,Liestal,03,12491,47.482779,7.742975
+ch,ligers,Ligers,14,,47.085184,7.137331
+ch,ligerz,Ligerz,14,,47.085184,7.137331
+ch,lignieres,Lignieres,14,,47.083311,7.065922
+ch,ligornetto,Ligornetto,20,,45.861475,8.954462
+ch,lindau,Lindau,25,,47.442153,8.672859
+ch,linden bei oberdiessbach,Linden bei Oberdiessbach,05,,46.848717,7.674913
+ch,lindenhof,Lindenhof,12,,46.987261,7.059996
+ch,linden,Linden,05,,46.848717,7.674913
+ch,lindenthal,Lindenthal,05,,46.981956,7.556312
+ch,linthal,Linthal,08,,46.921271,8.997992
+ch,linththal,Linththal,08,,46.921271,8.997992
+ch,liplisbuhl,Liplisbuhl,21,,46.933333,8.75
+ch,lipplisbuhl,Lipplisbuhl,21,,46.933333,8.75
+ch,l'isle,L'Isle,23,,46.61909,6.411528
+ch,littau,Littau,11,16403,47.050004,8.262739
+ch,littewil,Littewil,05,,46.962535,7.585075
+ch,lobbia,Lobbia,09,,46.376148,9.660956
+ch,locarno,Locarno,20,13998,46.16497,8.799253
+ch,loch,Loch,14,,46.504137,8.317898
+ch,loco,Loco,20,,46.202441,8.673811
+ch,lodano,Lodano,20,,46.258372,8.685225
+ch,lodrino,Lodrino,20,,46.301295,8.980032
+ch,lohalp,Lohalp,14,,46.85,8.083333
+ch,lohn,Lohn,09,,46.651386,9.427305
+ch,lohn,Lohn,16,,47.755406,8.670203
+ch,lommis,Lommis,19,,47.517003,8.995544
+ch,longirod,Longirod,07,,46.494664,6.258278
+ch,los,Los,22,,46.366667,7.6
+ch,losone,Losone,20,6060,46.133333,8.75
+ch,lostallo,Lostallo,20,,46.313036,9.19673
+ch,lostorf,Lostorf,01,,47.384446,7.948488
+ch,lottigna,Lottigna,20,,46.468582,8.943048
+ch,lotzwil,Lotzwil,01,,47.190562,7.787109
+ch,lourtier,Lourtier,22,,46.051361,7.264342
+ch,lovald,Lovald,20,,46.366667,8.75
+ch,lowerz,Lowerz,17,,47.035279,8.58118
+ch,lucens,Lucens,23,,46.708465,6.8396
+ch,lucerna,Lucerna,11,,47.083333,8.266667
+ch,lucerne,Lucerne,11,,47.083333,8.266667
+ch,luchsingen,Luchsingen,08,,46.966404,9.037147
+ch,ludiano,Ludiano,20,,46.418852,8.971489
+ch,lugano,Lugano,20,26327,46.006182,8.951142
+ch,lully,Lully,23,,46.834961,6.846167
+ch,lu,Lu,09,,46.623017,10.369351
+ch,lumbreineralp,Lumbreineralp,09,,46.68283,9.106773
+ch,lumbrein,Lumbrein,09,,46.683434,9.136177
+ch,lumino,Lumino,20,,46.230722,9.066338
+ch,lungern,Lungern,14,,46.784245,8.160481
+ch,lunschania,Lunschania,09,,46.661756,9.189953
+ch,lurtigen,Lurtigen,06,,46.928442,7.173289
+ch,lustenau,Lustenau,17,,46.976194,8.738153
+ch,luterbach,Luterbach,11,,47.088574,8.448965
+ch,luterbach,Luterbach,18,,47.214261,7.584632
+ch,luthern,Luthern,01,,47.057532,7.91692
+ch,lutisburg-dorf,Lutisburg-Dorf,02,,47.394707,9.082
+ch,lutisburg,Lutisburg,02,,47.394707,9.082
+ch,lutmerken,Lutmerken,19,,47.565432,9.034712
+ch,lutry,Lutry,23,8625,46.504873,6.685161
+ch,lutschental,Lutschental,05,,46.637818,7.94704
+ch,lutschental,Lutschental,14,,46.698897,8.036894
+ch,lutschenthal,Lutschenthal,05,,46.637818,7.94704
+ch,lutzelfluh,Lutzelfluh,05,,47.007569,7.691653
+ch,luven,Luven,09,,46.761115,9.198531
+ch,luvis,Luvis,09,,46.761115,9.198531
+ch,luzein,Luzein,09,,46.919574,9.760802
+ch,luzern,Luzern,11,57269,47.083333,8.266667
+ch,luziensteig,Luziensteig,09,,47.033333,9.516667
+ch,lyssach,Lyssach,05,,47.066431,7.578159
+ch,lyss,Lyss,05,10892,47.077573,7.31162
+ch,macolin,Macolin,05,,47.140612,7.215794
+ch,madiswil,Madiswil,01,,47.164632,7.798186
+ch,madra,Madra,20,,46.431463,9.051263
+ch,madrigen,Madrigen,09,,46.804147,9.739832
+ch,madulein,Madulein,09,,46.588544,9.940764
+ch,magadino,Magadino,20,,46.148553,8.856285
+ch,magdenau,Magdenau,02,,47.40182,9.170619
+ch,magden,Magden,01,,47.528986,7.812253
+ch,maggia,Maggia,20,,46.246512,8.708143
+ch,magglingen,Magglingen,05,,47.140612,7.215794
+ch,magliasina chiesa,Magliasina Chiesa,20,,45.97647,8.877544
+ch,magliasina,Magliasina,20,,45.97647,8.877544
+ch,magnot,Magnot,22,,46.218807,7.271025
+ch,maienfeld,Maienfeld,09,,47.007032,9.530441
+ch,maisprach,Maisprach,01,,47.524575,7.847049
+ch,maladers,Maladers,09,,46.835785,9.559971
+ch,malans,Malans,09,,46.981087,9.574573
+ch,malix,Malix,09,,46.812484,9.531958
+ch,malleray,Malleray,05,,47.239077,7.271186
+ch,malmigiuer,Malmigiuer,09,,46.580737,9.568064
+ch,malmigiur,Malmigiur,09,,46.580737,9.568064
+ch,malmiguier,Malmiguier,09,,46.580737,9.568064
+ch,maloggia,Maloggia,09,,46.403484,9.695941
+ch,maloja,Maloja,09,,46.403484,9.695941
+ch,malters,Malters,11,6303,47.03628,8.181928
+ch,malvaglia,Malvaglia,20,,46.412817,8.979211
+ch,mammern,Mammern,19,,47.645926,8.9164
+ch,manas,Manas,09,,46.85,10.366667
+ch,mannedorf,Mannedorf,25,10164,47.252851,8.690581
+ch,mannens,Mannens,06,,46.794527,6.968051
+ch,manno,Manno,20,,46.035999,8.918556
+ch,mannried,Mannried,05,,46.566684,7.38783
+ch,maracon,Maracon,23,,46.549999,6.870967
+ch,marbach,Marbach,05,,46.854412,7.899664
+ch,marchissy,Marchissy,07,,46.488773,6.245759
+ch,maria,Maria,09,,46.428859,9.763635
+ch,mariastein,Mariastein,04,,47.466667,7.516667
+ch,marin,Marin,12,,47.016667,7
+ch,marly-le-grand,Marly-le-Grand,06,,46.775951,7.161575
+ch,marmels,Marmels,09,,46.49782,9.643272
+ch,marmorera,Marmorera,09,,46.49782,9.643272
+ch,maroggia,Maroggia,20,,45.93463,8.970099
+ch,marsens,Marsens,06,,46.656493,7.061671
+ch,marstetten-dorf,Marstetten-Dorf,19,,47.590828,9.069161
+ch,marstetten,Marstetten,19,,47.590828,9.069161
+ch,marthalen,Marthalen,16,,47.625852,8.649349
+ch,martigny-bourg,Martigny-Bourg,22,,46.083333,7.083333
+ch,martigny-combe,Martigny-Combe,22,,46.085493,7.051447
+ch,martigny-croix,Martigny-Croix,22,,46.083333,7.1
+ch,martigny,Martigny,22,14413,46.104593,7.076771
+ch,martigny-ville,Martigny-Ville,22,,46.104593,7.076771
+ch,martina,Martina,09,,46.884164,10.462687
+ch,martinsbruck,Martinsbruck,09,,46.884164,10.462687
+ch,marwil,Marwil,19,,47.532849,9.071845
+ch,marzili,Marzili,05,,46.95,7.433333
+ch,masans,Masans,09,,46.863647,9.532511
+ch,maschenboden,Maschenboden,09,,46.688665,9.785705
+ch,maschwanden,Maschwanden,01,,47.234977,8.425942
+ch,mase,Mase,22,,46.194469,7.434112
+ch,massagno,Massagno,20,5918,46.015621,8.945343
+ch,mastrils,Mastrils,09,,46.966635,9.556356
+ch,matelon,Matelon,22,,46.279106,7.102815
+ch,mathon,Mathon,09,,46.636027,9.413805
+ch,matteli,Matteli,14,,46.591645,8.561483
+ch,matte,Matte,05,,46.95,7.45
+ch,matten bei interlaken,Matten bei Interlaken,05,,46.678334,7.868889
+ch,mattenhof-leist,Mattenhof-Leist,05,,46.916667,7.433333
+ch,mattenhof,Mattenhof,05,,46.916667,7.433333
+ch,matten,Matten,05,,46.678334,7.868889
+ch,matten,Matten,22,,46.495898,7.424487
+ch,matt,Matt,08,,46.959488,9.171199
+ch,matzendorf,Matzendorf,01,,47.303655,7.629824
+ch,matzenried,Matzenried,05,,46.931819,7.339574
+ch,matzingen,Matzingen,19,,47.52026,8.93194
+ch,mauborget,Mauborget,23,,46.8559,6.616321
+ch,mauensee,Mauensee,01,,47.168468,8.066174
+ch,mauren,Mauren,05,,46.703798,7.809989
+ch,maur,Maur,25,9577,47.339262,8.671352
+ch,mauvoisin,Mauvoisin,22,,46.002793,7.341145
+ch,mayens de pralong,Mayens de Pralong,22,,46.112579,7.3972
+ch,mayoux,Mayoux,22,,46.211028,7.582502
+ch,medeglia,Medeglia,20,,46.116667,8.933333
+ch,medels im rheinwald,Medels im Rheinwald,09,,46.548095,9.294594
+ch,medels,Medels,21,,46.666667,8.85
+ch,medels rheinwald,Medels Rheinwald,09,,46.548095,9.294594
+ch,medergen,Medergen,09,,46.804147,9.739832
+ch,meggen,Meggen,11,6593,47.04722,8.369489
+ch,meierhof,Meierhof,09,,46.748305,9.100226
+ch,meierskappel,Meierskappel,24,,47.124238,8.444363
+ch,meilen,Meilen,25,11723,47.270429,8.643675
+ch,meinier,Meinier,07,,46.246721,6.233544
+ch,meinisberg,Meinisberg,05,,47.161494,7.353683
+ch,meiringen,Meiringen,14,4708,46.726776,8.183961
+ch,meisterschwanden,Meisterschwanden,01,,47.295476,8.229675
+ch,melano,Melano,20,,45.922096,8.985435
+ch,melchnau,Melchnau,01,,47.181071,7.852776
+ch,melchtal,Melchtal,14,,46.834355,8.289857
+ch,melchthal,Melchthal,14,,46.834355,8.289857
+ch,melera,Melera,20,,46.171481,9.076928
+ch,melide,Melide,20,,45.954716,8.948354
+ch,mellingen,Mellingen,01,,47.417707,8.270511
+ch,mels,Mels,09,,47.046742,9.421702
+ch,mendrisio,Mendrisio,20,6192,45.86741,8.982097
+ch,menziken,Menziken,01,5645,47.242487,8.19047
+ch,menzingen,Menzingen,24,,47.177637,8.59215
+ch,menznau,Menznau,11,,47.08364,8.039713
+ch,merdassonnet,Merdassonnet,22,,46.25,7.466667
+ch,merdessonnet,Merdessonnet,22,,46.25,7.466667
+ch,merenschwand,Merenschwand,01,,47.258699,8.375323
+ch,mergoscia,Mergoscia,20,,46.210076,8.844571
+ch,meride,Meride,20,,45.890123,8.953109
+ch,merishausen,Merishausen,16,,47.760278,8.608707
+ch,merligen,Merligen,05,,46.697516,7.738688
+ch,mervelier,Mervelier,26,,47.343488,7.499691
+ch,meschino,Meschino,09,,46.272487,10.100333
+ch,mesocco,Mesocco,20,,46.390367,9.233229
+ch,messen,Messen,05,,47.091278,7.44957
+ch,metsch,Metsch,05,,46.503746,7.624677
+ch,mettendorf,Mettendorf,19,,47.576512,8.969978
+ch,mettlen,Mettlen,15,,47.531422,9.121984
+ch,mettmenstetten,Mettmenstetten,01,,47.244008,8.464401
+ch,metzerlen,Metzerlen,04,,47.466337,7.465739
+ch,mex,Mex,22,,46.185401,6.999805
+ch,meyrin,Meyrin,07,19691,46.228245,6.064189
+ch,mezieres,Mezieres,06,,46.678991,6.926499
+ch,mezzovico,Mezzovico,20,,46.09018,8.917152
+ch,miecourt,Miecourt,26,,47.427436,7.175945
+ch,miege,Miege,22,,46.311326,7.547135
+ch,mieville,Mieville,22,,46.149404,7.028067
+ch,miglieglia,Miglieglia,20,,46.023803,8.857618
+ch,miliut,Miliut,22,,46.351865,7.611105
+ch,minusio,Minusio,20,6772,46.175242,8.820102
+ch,miralago,Miralago,09,,46.272487,10.100333
+ch,misox,Misox,20,,46.390367,9.233229
+ch,mitholz,Mitholz,05,,46.52727,7.674139
+ch,mittal,Mittal,22,,46.346732,7.755078
+ch,mittel arni,Mittel Arni,14,,46.800379,8.090093
+ch,mittel-muhen,Mittel-Muhen,01,,47.336706,8.054083
+ch,mittelsass,Mittelsass,09,,47,9.833333
+ch,mitthal,Mitthal,22,,46.346732,7.755078
+ch,mittholz,Mittholz,05,,46.52727,7.674139
+ch,mittlersass,Mittlersass,09,,47,9.833333
+ch,mogelsberg,Mogelsberg,02,,47.362221,9.135408
+ch,moghegno,Moghegno,20,,46.240695,8.706551
+ch,mogno,Mogno,20,,46.43132,8.663932
+ch,mohlin,Mohlin,01,8353,47.556412,7.846873
+ch,mohrlialp,Mohrlialp,14,,46.833333,8.116667
+ch,moleno,Moleno,20,,46.267508,8.994739
+ch,mollens,Mollens,23,,46.577599,6.363205
+ch,mollettes,Mollettes,06,,46.633333,7.016667
+ch,mollis,Mollis,08,,47.094179,9.075424
+ch,mols,Mols,08,,47.112133,9.279723
+ch,mompetavetsch,Mompetavetsch,21,,46.683344,8.825143
+ch,mompe-tujetsch,Mompe-Tujetsch,21,,46.683344,8.825143
+ch,monbiel,Monbiel,09,,46.861456,9.919528
+ch,monchaltorf,Monchaltorf,25,,47.31053,8.721909
+ch,mon,Mon,09,,46.649802,9.564706
+ch,mons,Mons,09,,46.649802,9.564706
+ch,monstein,Monstein,09,,46.711646,9.772456
+ch,montagibert,Montagibert,23,,46.533333,6.633333
+ch,montagnola,Montagnola,20,,45.981668,8.917721
+ch,montagnon,Montagnon,22,,46.189529,7.191887
+ch,montagny-la-ville,Montagny-la-Ville,06,,46.818348,6.999622
+ch,montagny,Montagny,23,,46.793832,6.61288
+ch,montana,Montana,22,,46.312645,7.484082
+ch,montana vermala,Montana Vermala,22,,46.312645,7.484082
+ch,montana-village,Montana-Village,22,,46.298016,7.491103
+ch,montbovon,Montbovon,23,,46.486073,7.043544
+ch,montcherand,Montcherand,23,,46.733021,6.509757
+ch,monte ardet,Monte Ardet,20,,46.48466,8.906359
+ch,monte carasso,Monte Carasso,20,,46.186433,9.000247
+ch,monte carasso-sementina,Monte Carasso-Sementina,20,,46.186433,9.000247
+ch,monte ceneri,Monte Ceneri,20,,46.1388,8.906756
+ch,monte di stabbio,Monte di Stabbio,20,,46.404241,9.248264
+ch,monte gumegna,Monte Gumegna,20,,46.366667,9.25
+ch,monte laura,Monte Laura,20,,46.212638,9.100493
+ch,monte,Monte,14,,46.540124,8.635219
+ch,monte scala,Monte Scala,09,,46.235441,10.131683
+ch,montfaucon,Montfaucon,05,,47.282119,7.05123
+ch,monthey,Monthey,23,16002,46.255457,6.960665
+ch,monti anvedua,Monti Anvedua,20,,46.540922,8.900976
+ch,monti della-tagliada,Monti della-Tagliada,20,,46.206619,9.060244
+ch,monti della trinita,Monti della Trinita,20,,46.173764,8.783173
+ch,monti di co,Monti di Co,20,,46.19895,9.085554
+ch,monti di lanes,Monti di Lanes,20,,46.2091,9.169916
+ch,monti di moneda,Monti di Moneda,20,,46.162898,9.070783
+ch,monti di odro,Monti di Odro,20,,46.233333,8.883333
+ch,monti di pianturino,Monti di Pianturino,20,,46.133333,8.95
+ch,monti di ruscada,Monti di Ruscada,20,,46.166667,9.1
+ch,monti di vif,Monti di Vif,20,,46.218049,9.132366
+ch,montignez,Montignez,26,,47.48706,7.056579
+ch,monti laura,Monti Laura,20,,46.212638,9.100493
+ch,monti moneda,Monti Moneda,20,,46.162898,9.070783
+ch,monti pertiscio,Monti Pertiscio,20,,46.223641,9.153566
+ch,monti ruscada,Monti Ruscada,20,,46.166667,9.1
+ch,monti viff,Monti Viff,20,,46.218049,9.132366
+ch,mont-la-ville,Mont-la-Ville,23,,46.6453,6.408004
+ch,montreux,Montreux,23,23703,46.433715,6.913179
+ch,montricher,Montricher,23,,46.600049,6.376953
+ch,mont-sur-rolle,Mont-sur-Rolle,07,,46.466667,6.333333
+ch,moosleerau,Moosleerau,01,,47.269724,8.0593
+ch,morat,Morat,06,,46.92684,7.110343
+ch,morbio inferiore,Morbio Inferiore,20,,45.853408,9.016442
+ch,morbio,Morbio,20,,45.853408,9.016442
+ch,morbio superiore,Morbio Superiore,20,,45.861182,9.023641
+ch,morcles,Morcles,22,,46.208902,7.036259
+ch,morcote,Morcote,20,,45.922771,8.916098
+ch,morel,Morel,01,,46.354993,8.043317
+ch,morens,Morens,12,,46.844223,6.907277
+ch,morgarten,Morgarten,17,,47.09619,8.655181
+ch,morges,Morges,23,13759,46.511255,6.495693
+ch,morgeten,Morgeten,05,,46.683333,7.433333
+ch,morgins,Morgins,23,,46.238475,6.854042
+ch,morigen,Morigen,14,,47.085099,7.214133
+ch,moriken,Moriken,01,,47.415556,8.18446
+ch,morissen,Morissen,09,,46.729731,9.181099
+ch,morschach,Morschach,17,,46.983071,8.619167
+ch,morschwil,Morschwil,15,,47.468667,9.421782
+ch,morteratsch,Morteratsch,09,,46.450777,9.940409
+ch,moscia,Moscia,20,,46.151387,8.748578
+ch,mosnang,Mosnang,02,,47.362515,9.042956
+ch,mosogno,Mosogno,20,,46.198516,8.639649
+ch,motet,Motet,22,,46.088716,7.404327
+ch,motiers,Motiers,23,,46.910216,6.611434
+ch,motot,Motot,22,,46.088716,7.404327
+ch,motto,Motto,20,,46.427643,8.97229
+ch,moudon,Moudon,23,,46.669475,6.801269
+ch,moutier,Moutier,26,7476,47.277733,7.369712
+ch,movelier,Movelier,26,,47.409544,7.317187
+ch,mugena,Mugena,20,,46.04908,8.889465
+ch,muggio,Muggio,20,,45.903314,9.042334
+ch,muhen,Muhen,01,,47.336706,8.054083
+ch,muhlau,Muhlau,01,,47.230351,8.389648
+ch,muhlebach,Muhlebach,01,,46.407764,8.157157
+ch,muhleberg,Muhleberg,05,,46.95409,7.260816
+ch,muhlehorn,Muhlehorn,08,,47.117465,9.173607
+ch,muhlen,Muhlen,09,,46.524807,9.620726
+ch,muhlethurnen,Muhlethurnen,05,,46.813919,7.512882
+ch,muhlruti,Muhlruti,25,,47.371108,8.98559
+ch,muldain,Muldain,09,,46.692714,9.525031
+ch,mulegns,Mulegns,09,,46.524807,9.620726
+ch,mullheim,Mullheim,19,,47.601948,9.003573
+ch,mumliswil,Mumliswil,01,,47.344106,7.703497
+ch,mumpf,Mumpf,01,,47.545132,7.917911
+ch,munchenbuchsee,Munchenbuchsee,05,10774,47.020946,7.448956
+ch,munchenstein,Munchenstein,04,12059,47.510513,7.617668
+ch,munchwilen,Munchwilen,19,,47.476508,8.997739
+ch,mund,Mund,22,,46.31621,7.940936
+ch,munsingen,Munsingen,05,11326,46.87309,7.568647
+ch,munsterlingen,Munsterlingen,15,,47.630892,9.234947
+ch,munster,Munster,01,,47.206122,8.192648
+ch,munster,Munster,09,,46.626831,10.446244
+ch,munster,Munster,14,,46.486883,8.263557
+ch,munstschemier,Munstschemier,14,,46.995513,7.144783
+ch,munter,Munter,09,,46.63912,9.537515
+ch,muolen,Muolen,15,,47.521024,9.325537
+ch,muotatal,Muotatal,17,,46.976761,8.76499
+ch,muotathal,Muotathal,17,,46.976761,8.76499
+ch,murgental,Murgental,01,,47.270172,7.839468
+ch,murgenthal,Murgenthal,01,,47.270172,7.839468
+ch,murg,Murg,08,,47.114193,9.215171
+ch,muri bei bern,Muri bei Bern,05,,46.931714,7.494164
+ch,muri,Muri,01,6307,47.270428,8.3382
+ch,muri,Muri,05,12280,46.931714,7.494164
+ch,murren,Murren,05,,46.559437,7.892812
+ch,murten,Murten,06,5377,46.92684,7.110343
+ch,mussen,Mussen,14,,46.866667,8.083333
+ch,mustair,Mustair,09,,46.626831,10.446244
+ch,mutten,Mutten,09,,46.678124,9.499956
+ch,muttenz,Muttenz,03,16646,47.525259,7.644511
+ch,mutzlenberg,Mutzlenberg,05,,46.973441,7.716912
+ch,nafels,Nafels,08,,47.099754,9.064109
+ch,nanikon,Nanikon,25,,47.370469,8.693488
+ch,narglesa,Narglesa,09,,46.655062,9.523737
+ch,nargliesa,Nargliesa,09,,46.655062,9.523737
+ch,nascharegnas,Nascharegnas,09,,46.543412,9.621671
+ch,naters,Naters,22,7472,46.32448,7.99137
+ch,nax,Nax,22,,46.22847,7.427983
+ch,naz,Naz,09,,46.591115,9.763778
+ch,nebikon,Nebikon,01,,47.192572,7.978055
+ch,necker,Necker,02,,47.345625,9.1302
+ch,neftenbach,Neftenbach,25,,47.528127,8.668535
+ch,negrentino,Negrentino,20,,46.466667,8.933333
+ch,neker,Neker,02,,47.345625,9.1302
+ch,nendaz,Nendaz,22,5477,46.191142,7.311152
+ch,nessental,Nessental,14,,46.720436,8.296821
+ch,nessenthal,Nessenthal,14,,46.720436,8.296821
+ch,nesslau,Nesslau,02,,47.222798,9.201242
+ch,netstal,Netstal,08,,47.061971,9.055342
+ch,neuchatel,Neuchatel,12,31216,46.993089,6.93005
+ch,neudorf,Neudorf,01,,47.176987,8.209109
+ch,neuenburg,Neuenburg,12,,46.993089,6.93005
+ch,neuenhof,Neuenhof,01,7358,47.452596,8.325772
+ch,neuenkirch,Neuenkirch,11,5683,47.099891,8.204161
+ch,neuewelt,Neuewelt,04,,47.527631,7.618695
+ch,neu-felsberg,Neu-Felsberg,09,,46.847831,9.481188
+ch,neuhausem,Neuhausem,16,,47.685786,8.614737
+ch,neuhausen am rheinfall,Neuhausen am Rheinfall,16,,47.685786,8.614737
+ch,neuhaus,Neuhaus,05,,46.677754,7.819104
+ch,neuheim,Neuheim,24,,47.204612,8.578839
+ch,neukirch bei ilanz,Neukirch bei Ilanz,09,,46.758599,9.14448
+ch,neukirch,Neukirch,09,,46.713589,9.329961
+ch,neukirch,Neukirch,15,,47.531138,9.372825
+ch,neumuhle,Neumuhle,05,,46.966667,7.75
+ch,neunforn,Neunforn,19,,47.600688,8.762137
+ch,neunkirch,Neunkirch,16,,47.686617,8.499452
+ch,neu sankt johann,Neu Sankt Johann,02,,47.228616,9.196003
+ch,neyruz,Neyruz,06,,46.768679,7.068272
+ch,nidau,Nidau,05,6932,47.129167,7.238464
+ch,nidegg,Nidegg,05,,46.556149,7.475543
+ch,nidfurn,Nidfurn,08,,46.986737,9.054676
+ch,niederbipp,Niederbipp,01,,47.266129,7.694612
+ch,niederbuchsiten,Niederbuchsiten,01,,47.295668,7.769061
+ch,niederburen,Niederburen,02,,47.464748,9.20468
+ch,niedererlinsbach,Niedererlinsbach,01,,47.392176,8.005031
+ch,niedergampel,Niedergampel,22,,46.312033,7.714197
+ch,niedergerlafingen,Niedergerlafingen,18,,47.169782,7.575051
+ch,niedergestelen,Niedergestelen,22,,46.312872,7.782184
+ch,niedergesteln,Niedergesteln,22,,46.312872,7.782184
+ch,niedergosgen,Niedergosgen,01,,47.372171,7.991218
+ch,niederhallwil,Niederhallwil,01,,47.326353,8.178347
+ch,niederhelfenschwil,Niederhelfenschwil,02,,47.474467,9.186299
+ch,niederlenz,Niederlenz,01,,47.401176,8.178696
+ch,niedern,Niedern,08,,46.905058,9.191945
+ch,niedern stafel,Niedern Stafel,08,,46.966667,9.083333
+ch,niederrickenbach,Niederrickenbach,13,,46.927308,8.427092
+ch,niederried,Niederried,05,,46.718743,7.932377
+ch,niederrohrdorf,Niederrohrdorf,01,,47.423517,8.306428
+ch,niederscherli,Niederscherli,05,,46.885051,7.393846
+ch,nieder-schongau,Nieder-Schongau,01,,47.276458,8.254922
+ch,niedersommeri,Niedersommeri,15,,47.5675,9.289192
+ch,nieder surenen alm,Nieder Surenen Alm,14,,46.783333,8.483333
+ch,nieder surenen alp,Nieder Surenen Alp,14,,46.783333,8.483333
+ch,niedersurrenen,Niedersurrenen,14,,46.783333,8.483333
+ch,niederurnen,Niederurnen,08,,47.122074,9.059759
+ch,niederuzwil,Niederuzwil,02,,47.445596,9.13905
+ch,niederwald,Niederwald,14,,46.432637,8.18355
+ch,niederweningen,Niederweningen,01,,47.502872,8.374084
+ch,niederwichtrach,Niederwichtrach,05,,46.850829,7.577435
+ch,nieder-zeihen,Nieder-Zeihen,01,,47.475356,8.083131
+ch,nods,Nods,14,,47.113714,7.081049
+ch,nohl,Nohl,16,,47.666197,8.613021
+ch,noiraigue,Noiraigue,12,,46.956463,6.724561
+ch,noirmont,Noirmont,12,,47.225674,6.957303
+ch,nonnenhorn,Nonnenhorn,15,,47.575248,9.610046
+ch,norantola,Norantola,20,,46.281418,9.17621
+ch,noreaz,Noreaz,06,,46.803262,7.026722
+ch,nottwil,Nottwil,11,,47.135692,8.137122
+ch,novaggio,Novaggio,20,,46.009435,8.859077
+ch,novalles,Novalles,23,,46.828371,6.592271
+ch,novazzano,Novazzano,20,,45.840728,8.982358
+ch,noveli,Noveli,22,,46.134304,7.316892
+ch,nufenen,Nufenen,09,,46.539403,9.243526
+ch,nunningen,Nunningen,01,,47.394501,7.621216
+ch,nurensdorf,Nurensdorf,25,,47.447495,8.649755
+ch,nuschlau,Nuschlau,17,,46.976194,8.738153
+ch,nussbaumen,Nussbaumen,19,,47.62521,8.828913
+ch,nydegg,Nydegg,05,,46.556149,7.475543
+ch,nyon,Nyon,07,17071,46.388848,6.239319
+ch,oberaach,Oberaach,15,,47.558165,9.26754
+ch,oberalp,Oberalp,09,,46.708128,9.788678
+ch,ober alp,Ober Alp,09,,46.966667,10.4
+ch,oberbalm,Oberbalm,05,,46.873633,7.402803
+ch,ober-basenheid,Ober-Basenheid,02,,47.408515,9.066401
+ch,ober-bazenheid,Ober-Bazenheid,02,,47.408515,9.066401
+ch,ober-bilten,Ober-Bilten,17,,47.14604,9.022789
+ch,oberbipp,Oberbipp,01,,47.258244,7.655368
+ch,ober-buch,Ober-Buch,25,,47.547487,8.62186
+ch,oberbuchsiten,Oberbuchsiten,01,,47.307272,7.764039
+ch,oberburen,Oberburen,05,,47.13593,7.382116
+ch,oberbure,Oberbure,05,,47.13593,7.382116
+ch,oberburg,Oberburg,05,,47.03774,7.626525
+ch,obercastels,Obercastels,09,,46.683333,9.166667
+ch,oberdiessbach,Oberdiessbach,05,,46.833333,7.95
+ch,oberdorf,Oberdorf,01,,47.393077,7.751224
+ch,oberdorf,Oberdorf,13,,46.96901,8.457914
+ch,oberdorf,Oberdorf,18,,47.230502,7.506366
+ch,obere alp,Obere Alp,09,,46.966667,10.4
+ch,oberegg,Oberegg,15,,47.424015,9.551345
+ch,oberembrach,Oberembrach,25,,47.48804,8.618425
+ch,oberems,Oberems,22,,46.281545,7.695311
+ch,oberendingen,Oberendingen,01,,47.536355,8.293385
+ch,oberengstringen,Oberengstringen,25,6106,47.410151,8.460978
+ch,oberentfelden,Oberentfelden,01,6981,47.360291,8.039193
+ch,obererlinsbach,Obererlinsbach,01,,47.406847,8.002828
+ch,ober-etzel,Ober-Etzel,17,,47.15,8.8
+ch,oberfeld,Oberfeld,14,,46.709294,8.076462
+ch,oberfeld,Oberfeld,21,,46.85,8.7
+ch,obergerlafingen,Obergerlafingen,18,,47.161324,7.583892
+ch,obergestelen,Obergestelen,14,,46.514055,8.325183
+ch,obergesteln,Obergesteln,14,,46.514055,8.325183
+ch,oberglatt,Oberglatt,01,5346,47.475281,8.520368
+ch,obergosgen,Obergosgen,01,,47.364056,7.952755
+ch,ober gurzelen,Ober Gurzelen,05,,46.776437,7.542641
+ch,oberhallau,Oberhallau,16,,47.704987,8.478395
+ch,oberhausen,Oberhausen,25,,47.416667,8.566667
+ch,oberhegi,Oberhegi,15,,47.516376,9.357824
+ch,oberhelfenschwil,Oberhelfenschwil,02,,47.354642,9.113024
+ch,oberhofen bei etzgen,Oberhofen bei Etzgen,01,,47.554125,8.133589
+ch,oberhofen,Oberhofen,01,,47.554125,8.133589
+ch,oberhofen,Oberhofen,05,,46.731482,7.669029
+ch,oberhusen,Oberhusen,25,,47.416667,8.566667
+ch,oberiberg,Oberiberg,17,,47.040743,8.786761
+ch,ober illnau,Ober Illnau,25,,47.41542,8.718662
+ch,oberkirch,Oberkirch,01,,47.156423,8.115673
+ch,ober lager,Ober Lager,05,,46.65511,7.947848
+ch,oberlager,Oberlager,14,,46.664529,8.080807
+ch,ober-laret,Ober-Laret,09,,46.840084,9.856987
+ch,oberlunkhofen,Oberlunkhofen,01,,47.311498,8.391422
+ch,obermatt,Obermatt,14,,46.843986,8.373939
+ch,oberneuforn,Oberneuforn,19,,47.600688,8.762137
+ch,ober oenz,Ober Oenz,01,,47.179363,7.693971
+ch,oberonz,Oberonz,01,,47.179363,7.693971
+ch,ober-plotsch,Ober-Plotsch,05,,46.78845,7.471746
+ch,ober ramis,Ober Ramis,01,,46.986229,7.817655
+ch,oberrickenbach,Oberrickenbach,14,,46.88773,8.417277
+ch,oberrieden,Oberrieden,25,,47.277706,8.579221
+ch,oberried,Oberried,05,,46.736271,7.959324
+ch,oberried,Oberried,10,,47.319883,9.566079
+ch,oberried,Oberried,22,,46.416667,7.466667
+ch,oberriet,Oberriet,10,7717,47.319883,9.566079
+ch,ober rohrmoos,Ober Rohrmoos,06,,46.597279,7.324321
+ch,oberruti,Oberruti,24,,47.16859,8.402605
+ch,obersaxen,Obersaxen,09,,46.75,9.1
+ch,ober-says,Ober-Says,09,,46.907374,9.582379
+ch,ober-schlatt,Ober-Schlatt,16,,47.657272,8.693112
+ch,oberschlatt,Oberschlatt,25,,47.463769,8.847327
+ch,oberschonenbuch,Oberschonenbuch,17,,46.996481,8.646508
+ch,ober-schongau,Ober-Schongau,01,,47.273129,8.276387
+ch,oberschrot,Oberschrot,06,,46.739792,7.268964
+ch,ober siez,Ober Siez,08,,46.985565,9.26411
+ch,ober-siggental,Ober-Siggental,01,,47.489554,8.290437
+ch,obersiggenthal,Obersiggenthal,01,7683,47.489554,8.290437
+ch,ober stafel,Ober Stafel,08,,46.889261,9.101327
+ch,ober stafel,Ober Stafel,14,,46.707049,8.155691
+ch,ober staffel,Ober Staffel,08,,46.952898,8.98009
+ch,ober-stammheim,Ober-Stammheim,19,,47.632885,8.798134
+ch,oberstocken,Oberstocken,05,,46.717463,7.55471
+ch,oberterzen,Oberterzen,08,,47.10246,9.255995
+ch,ober trubsee alm,Ober Trubsee Alm,14,,46.8,8.383333
+ch,ober trubsee alp,Ober Trubsee Alp,14,,46.8,8.383333
+ch,ober tschappina,Ober Tschappina,09,,46.687679,9.37526
+ch,oberulmiz,Oberulmiz,05,,46.896769,7.441414
+ch,ober urdorf,Ober Urdorf,25,,47.382958,8.428597
+ch,oberuzwil,Oberuzwil,02,5600,47.430722,9.124194
+ch,obervaz,Obervaz,09,,46.7,9.533333
+ch,oberwald,Oberwald,14,,46.534573,8.34786
+ch,ober-wangen,Ober-Wangen,05,,46.916616,7.362127
+ch,oberwangen,Oberwangen,19,,47.428954,8.96791
+ch,oberweningen,Oberweningen,01,,47.503926,8.406799
+ch,ober-wetzikon,Ober-Wetzikon,25,,47.327555,8.799839
+ch,oberwilen,Oberwilen,14,,46.868735,8.20091
+ch,oberwil,Oberwil,01,,47.333824,8.381234
+ch,oberwil,Oberwil,04,9957,47.508519,7.555238
+ch,oberwil,Oberwil,05,,46.656878,7.435129
+ch,ober-wohlen,Ober-Wohlen,05,,46.976101,7.358404
+ch,oberzelg,Oberzelg,05,,46.783333,7.633333
+ch,obfelden,Obfelden,01,,47.262118,8.413449
+ch,obstalden,Obstalden,08,,47.117077,9.150367
+ch,ochlenberg,Ochlenberg,01,,47.149529,7.736034
+ch,ochsenboden,Ochsenboden,17,,47.061061,8.854858
+ch,ocourt,Ocourt,26,,47.352238,7.078267
+ch,oensingen,Oensingen,01,,47.286388,7.723051
+ch,oenz,Oenz,01,,47.179363,7.693971
+ch,oerlikon,Oerlikon,25,,47.410015,8.558169
+ch,oeschberg,Oeschberg,18,,47.129771,7.613452
+ch,oetwil am see,Oetwil am See,25,,47.271364,8.720866
+ch,oetwil an der limmat,Oetwil an der Limmat,01,,47.428207,8.39646
+ch,oey,Oey,05,,46.659197,7.576847
+ch,oftringen,Oftringen,01,10062,47.31382,7.925327
+ch,ohmstal,Ohmstal,01,,47.158326,7.952279
+ch,oleyres,Oleyres,04,,47.85,7.05
+ch,olivone,Olivone,20,,46.529211,8.94172
+ch,ollon,Ollon,23,6494,46.297564,6.99499
+ch,olten,Olten,01,16555,47.357058,7.909101
+ch,onex,Onex,07,16796,46.183909,6.101809
+ch,onnens,Onnens,06,,46.775251,7.039341
+ch,onnens,Onnens,23,,46.839857,6.68668
+ch,onsingen,Onsingen,01,,47.286388,7.723051
+ch,opfikon,Opfikon,25,13395,47.432553,8.580231
+ch,oppens,Oppens,23,,46.715064,6.692459
+ch,orasom cierfs,Orasom Cierfs,09,,46.633333,10.333333
+ch,orbe,Orbe,23,5466,46.724717,6.530103
+ch,orello,Orello,14,,46.553926,8.64429
+ch,ormalingen,Ormalingen,01,,47.466362,7.861001
+ch,oron-la-ville,Oron-la-ville,23,,46.571806,6.827302
+ch,orpond,Orpond,05,,47.139437,7.305925
+ch,orpund,Orpund,05,,47.139437,7.305925
+ch,orsera,Orsera,14,,46.635441,8.592644
+ch,orsieres,Orsieres,22,,46.029446,7.14466
+ch,orsonnens,Orsonnens,06,,46.717285,6.994768
+ch,orthalden,Orthalden,08,,46.893317,8.942608
+ch,orvin,Orvin,05,,47.160814,7.2151
+ch,osco,Osco,20,,46.493298,8.781996
+ch,osogna,Osogna,20,,46.310577,8.988218
+ch,ossingen,Ossingen,16,,47.611844,8.725682
+ch,osterfingen,Osterfingen,16,,47.662289,8.489301
+ch,ostermundigen,Ostermundigen,05,,46.956112,7.487187
+ch,otelfingen,Otelfingen,01,,47.462257,8.387928
+ch,othmarsingen,Othmarsingen,01,,47.401487,8.218521
+ch,ottenbach,Ottenbach,01,,47.280553,8.406925
+ch,ouchy,Ouchy,23,,46.511289,6.628412
+ch,ovronnaz,Ovronnaz,22,,46.199276,7.168495
+ch,pailly,Pailly,23,,46.701155,6.674551
+ch,palagnedra,Palagnedra,20,,46.153817,8.631961
+ch,palezieux,Palezieux,23,,46.545433,6.832504
+ch,pampigny,Pampigny,23,,46.580843,6.429566
+ch,panex,Panex,23,,46.311062,7.014542
+ch,panix,Panix,08,,46.816667,9.116667
+ch,pany,Pany,09,,46.928876,9.771525
+ch,papiermuhle,Papiermuhle,05,,46.976539,7.48138
+ch,pardatsch,Pardatsch,09,,46.623661,9.087533
+ch,parde,Parde,21,,46.651667,8.850524
+ch,parpan,Parpan,09,,46.759325,9.560536
+ch,partnun,Partnun,09,,46.995599,9.85752
+ch,paspels,Paspels,09,,46.748806,9.4447
+ch,paudex,Paudex,23,,46.506615,6.670303
+ch,payerne,Payerne,06,7758,46.82201,6.93608
+ch,peccia,Peccia,20,,46.407638,8.647688
+ch,pedrinate,Pedrinate,20,,45.826661,9.010227
+ch,peiden bad,Peiden Bad,09,,46.716667,9.2
+ch,peist,Peist,09,,46.83331,9.674142
+ch,peney-le-jorat,Peney-le-Jorat,23,,46.633797,6.726251
+ch,peney,Peney,23,,46.80247,6.561659
+ch,penthalaz,Penthalaz,23,,46.613986,6.528301
+ch,perlen,Perlen,11,,47.109448,8.361957
+ch,perrefitte,Perrefitte,26,,47.275794,7.342972
+ch,perroy,Perroy,07,,46.468209,6.366217
+ch,personico,Personico,20,,46.37024,8.918282
+ch,pertise,Pertise,20,,46.223641,9.153566
+ch,pery,Pery,05,,47.194268,7.249601
+ch,peseux,Peseux,12,5580,46.982998,6.881593
+ch,pfafers drof,Pfafers Drof,09,,46.988959,9.500163
+ch,pfaffenried,Pfaffenried,05,,46.645297,7.419022
+ch,pfaffensprung,Pfaffensprung,21,,46.714358,8.608241
+ch,pfaffhusen,Pfaffhusen,25,,47.36712,8.626394
+ch,pfaffikon,Pfaffikon,17,,47.202159,8.784181
+ch,pfaffikon,Pfaffikon,25,9987,47.364528,8.78395
+ch,pfaffnau,Pfaffnau,01,,47.227718,7.897186
+ch,pfeffikon,Pfeffikon,01,,47.251546,8.180686
+ch,pfeffingen,Pfeffingen,04,,47.459566,7.589947
+ch,pffaffhausen,Pffaffhausen,25,,47.36712,8.626394
+ch,pfungen,Pfungen,25,,47.514807,8.645586
+ch,pfyn,Pfyn,19,,47.597631,8.953199
+ch,piandera,Piandera,20,,46.082366,9.039564
+ch,pianezzo,Pianezzo,20,,46.168967,9.028181
+ch,piano,Piano,20,,46.283333,8.516667
+ch,pian san giacomo,Pian San Giacomo,20,,46.422129,9.227684
+ch,piatto,Piatto,20,,46.45,8.566667
+ch,piazzogna,Piazzogna,20,,46.135307,8.823869
+ch,pieterlen,Pieterlen,05,,47.17437,7.339657
+ch,pignia,Pignia,09,,46.613461,9.437878
+ch,pignieu,Pignieu,09,,46.613461,9.437878
+ch,piora,Piora,20,,46.53441,8.679888
+ch,piotta,Piotta,20,,46.513609,8.678302
+ch,pitasch,Pitasch,09,,46.731095,9.217015
+ch,plaffeien,Plaffeien,06,,46.741977,7.286664
+ch,planacc,Planacc,09,,46.362698,9.581182
+ch,plan-de-la-chaux,Plan-de-la-Chaux,22,,45.895429,7.136156
+ch,plan fey,Plan Fey,22,,46.186771,7.269941
+ch,plang,Plang,09,,46.503837,9.580294
+ch,plan-les-ouates,Plan-les-Ouates,07,8135,46.167615,6.119125
+ch,plan-les-ouattes,Plan-les-Ouattes,07,,46.167615,6.119125
+ch,plan pro,Plan Pro,22,,46.033333,7.283333
+ch,plasselb,Plasselb,06,,46.734875,7.251186
+ch,platta,Platta,21,,46.658276,8.855066
+ch,platz,Platz,09,,46.616466,9.180254
+ch,plaun dils matts,Plaun dils Matts,11,,47,8
+ch,plaz beischen,Plaz Beischen,09,,46.57485,9.634908
+ch,pleigne,Pleigne,26,,47.407578,7.290555
+ch,pont-de-nant,Pont-de-Nant,22,,46.260222,7.113269
+ch,ponte brolla,Ponte Brolla,20,,46.187148,8.752811
+ch,ponte campovasto,Ponte Campovasto,09,,46.578874,9.920149
+ch,ponte,Ponte,09,,46.578874,9.920149
+ch,ponte valentino,Ponte Valentino,20,,46.481786,8.934091
+ch,ponthaux,Ponthaux,06,,46.817203,7.04144
+ch,pontirone,Pontirone,20,,46.382117,9.020951
+ch,ponto valentino,Ponto Valentino,20,,46.481786,8.934091
+ch,pontresina,Pontresina,09,,46.491999,9.903529
+ch,porrentruy,Porrentruy,26,6453,47.415327,7.075221
+ch,porsel,Porsel,23,,46.600833,6.867139
+ch,portalban- dessous,Portalban- Dessous,12,,46.918536,6.955765
+ch,portalban,Portalban,12,,46.918536,6.955765
+ch,port-de-corsier,Port-de-Corsier,07,,46.262878,6.21243
+ch,porto ronco,Porto Ronco,20,,46.141008,8.725535
+ch,port-valais,Port-Valais,23,,46.371565,6.872632
+ch,poschiavo,Poschiavo,09,,46.324397,10.057211
+ch,pra combeira,Pra Combeira,22,,46.324073,7.435549
+ch,pra combera,Pra Combera,22,,46.324073,7.435549
+ch,prada,Prada,09,,46.309058,10.072899
+ch,pradella,Pradella,09,,46.801397,10.322678
+ch,praden bei chur,Praden bei Chur,09,,46.824318,9.581461
+ch,praden,Praden,09,,46.824318,9.581461
+ch,prafloric,Prafloric,22,,46.073173,7.533898
+ch,pragmartin,Pragmartin,09,,46.933333,9.716667
+ch,pralong,Pralong,22,,46.112579,7.3972
+ch,pralovin,Pralovin,22,,46.078745,7.50039
+ch,pramieisters,Pramieisters,09,,46.908073,9.52756
+ch,prangins,Prangins,07,,46.393958,6.249481
+ch,prarion,Prarion,22,,46.149977,7.275374
+ch,praroman,Praroman,06,,46.746528,7.177808
+ch,prato,Prato,20,,46.482397,8.757002
+ch,pratteln,Pratteln,03,14861,47.52118,7.688415
+ch,praz-de-fort,Praz-de-Fort,22,,45.989144,7.12514
+ch,prazfleuri,Prazfleuri,22,,46.073173,7.533898
+ch,praz,Praz,09,,46.74226,9.405314
+ch,praz,Praz,12,,46.95262,7.097892
+ch,preda,Preda,09,,46.590141,9.775384
+ch,pregassona,Pregassona,20,7491,46.02142,8.969476
+ch,pregny,Pregny,07,,46.234247,6.150089
+ch,preles,Preles,05,,47.2,7.25
+ch,presinge,Presinge,07,,46.218692,6.252191
+ch,prieure,Prieure,07,,46.2,6.166667
+ch,prilly,Prilly,23,10774,46.522445,6.622151
+ch,prolin,Prolin,22,,46.15,7.4
+ch,promontogno,Promontogno,20,,46.339387,9.557595
+ch,prosito,Prosito,20,,46.281414,8.984402
+ch,provence,Provence,23,,46.890995,6.726529
+ch,prugiasco,Prugiasco,20,,46.461093,8.931345
+ch,pruntrut,Pruntrut,26,,47.415327,7.075221
+ch,puidoux,Puidoux,23,,46.500932,6.782486
+ch,pully,Pully,23,16640,46.510544,6.656071
+ch,puplinge,Puplinge,07,,46.209921,6.231121
+ch,pura,Pura,20,,45.986473,8.868766
+ch,pusced di sopra,Pusced di Sopra,20,,46.416667,8.916667
+ch,puscen negro,Puscen Negro,20,,46.355993,8.747315
+ch,pusserein,Pusserein,09,,46.985605,9.707972
+ch,quarten,Quarten,08,,47.107363,9.239878
+ch,quartino,Quartino,20,,46.15044,8.889992
+ch,quinten,Quinten,08,,47.116667,9.216667
+ch,quinto,Quinto,20,,46.51027,8.711307
+ch,rabius,Rabius,21,,46.7,8.95
+ch,radelfingen,Radelfingen,05,,47.021462,7.271782
+ch,radons,Radons,09,,46.559982,9.555215
+ch,rafz,Rafz,16,,47.61259,8.539162
+ch,ragaz,Ragaz,09,,47.005367,9.501217
+ch,ramismuhle,Ramismuhle,25,,47.439213,8.821384
+ch,ramiswil,Ramiswil,01,,47.345124,7.660671
+ch,ramsen,Ramsen,16,,47.707179,8.811526
+ch,rances,Rances,23,,46.759826,6.529315
+ch,randa,Randa,22,,46.100572,7.78403
+ch,randogne,Randogne,22,,46.313046,7.510858
+ch,ranfluh,Ranfluh,05,,46.987648,7.740188
+ch,ranft,Ranft,14,,46.86747,8.267304
+ch,ranft,Ranft,22,,46.325384,7.870211
+ch,raperswilen,Raperswilen,19,,47.632715,9.042674
+ch,rapperswil,Rapperswil,05,,47.063057,7.407394
+ch,rapperswil,Rapperswil,17,7959,47.227986,8.825954
+ch,raron,Raron,22,,46.309442,7.79935
+ch,raterichsboden,Raterichsboden,14,,46.583333,8.333333
+ch,raterschen,Raterschen,25,,47.49749,8.799204
+ch,ratzenberg,Ratzenberg,05,,46.856467,7.437253
+ch,realp,Realp,14,,46.598619,8.502231
+ch,realta,Realta,09,,46.734446,9.426774
+ch,reams,Reams,09,,46.609771,9.581714
+ch,rebstein,Rebstein,15,,47.398119,9.585027
+ch,rechthalten,Rechthalten,06,,46.767658,7.240278
+ch,reckingen,Reckingen,14,,46.469893,8.24164
+ch,reconvilier,Reconvilier,05,,47.23493,7.229283
+ch,redoute,Redoute,07,,46.383333,6.233333
+ch,regensberg,Regensberg,01,,47.483161,8.438289
+ch,regensdorf,Regensdorf,25,15756,47.429855,8.465128
+ch,rehetobel,Rehetobel,15,,47.426275,9.483326
+ch,reichenau,Reichenau,09,,46.82704,9.4076
+ch,reichenbach,Reichenbach,05,,46.625415,7.693621
+ch,reichenburg,Reichenburg,17,,47.167471,8.98304
+ch,reiden,Reiden,01,,47.246447,7.973555
+ch,reigoldswil,Reigoldswil,01,,47.398241,7.687177
+ch,reinach,Reinach,01,7756,47.259435,8.188453
+ch,reischen,Reischen,09,,46.639484,9.452921
+ch,rekingen,Rekingen,01,,47.57009,8.318801
+ch,rempen,Rempen,17,,47.13848,8.897426
+ch,remus,Remus,09,,46.833333,10.383333
+ch,renan,Renan,12,,47.127087,6.928169
+ch,renens,Renens,23,17530,46.539894,6.588096
+ch,reuchenette,Reuchenette,05,,47.189035,7.250974
+ch,reusch,Reusch,22,,46.364585,7.241406
+ch,reutigen,Reutigen,05,,46.693633,7.621023
+ch,rhazuns,Rhazuns,09,,46.798612,9.398367
+ch,rheinau,Rheinau,16,,47.642302,8.600908
+ch,rheineck,Rheineck,15,,47.468192,9.584543
+ch,rheinfelden,Rheinfelden,01,10657,47.562979,7.780108
+ch,riaz,Riaz,06,,46.642242,7.061831
+ch,riburg,Riburg,01,,47.571795,7.837523
+ch,richental,Richental,01,,47.217574,7.944591
+ch,richenthal,Richenthal,01,,47.217574,7.944591
+ch,richigen,Richigen,05,,46.917315,7.584219
+ch,richisau,Richisau,08,,47.021355,8.903918
+ch,richterswil,Richterswil,17,11398,47.207416,8.705841
+ch,rickenbach,Rickenbach,02,,47.448259,9.050608
+ch,rickenbach,Rickenbach,19,,47.551605,8.796608
+ch,ricken,Ricken,17,,47.263252,9.043955
+ch,riddes,Riddes,22,,46.17235,7.223148
+ch,riedbach,Riedbach,05,,46.943519,7.33514
+ch,riedbargli,Riedbargli,05,,46.933333,7.733333
+ch,riedbergli,Riedbergli,05,,46.933333,7.733333
+ch,riedberg,Riedberg,05,,46.933333,7.733333
+ch,riederen,Riederen,05,,46.952193,7.368622
+ch,riedern,Riedern,05,,46.952193,7.368622
+ch,riedholz,Riedholz,18,,47.232233,7.568287
+ch,riedlig,Riedlig,21,,46.9,8.733333
+ch,riedli,Riedli,05,,46.613411,7.529387
+ch,ried,Ried,05,,46.957458,7.185585
+ch,ried,Ried,14,,46.431251,8.155924
+ch,ried,Ried,22,,46.031235,7.762805
+ch,riedstatt,Riedstatt,06,,46.78414,7.319403
+ch,riehen,Riehen,04,,52.883333,8.166667
+ch,riein,Riein,09,,46.744338,9.233489
+ch,riemenstalden,Riemenstalden,21,,46.947117,8.665252
+ch,riffenmatt,Riffenmatt,06,,46.766212,7.35285
+ch,riggisberg,Riggisberg,05,,46.80928,7.480744
+ch,rigi kaltbad,Rigi Kaltbad,11,,47.044152,8.465235
+ch,rigi-kulm,Rigi-Kulm,11,,47.055892,8.484092
+ch,rikon,Rikon,25,,47.444566,8.798016
+ch,ringgenberg,Ringgenberg,05,,46.702307,7.894618
+ch,ringgenberg,Ringgenberg,21,,46.741565,9.00692
+ch,ringoldingen,Ringoldingen,05,,46.659705,7.524829
+ch,rinkenberg,Rinkenberg,21,,46.741565,9.00692
+ch,riom,Riom,09,,46.609771,9.581714
+ch,risch,Risch,22,8645,46.409984,7.338869
+ch,riti,Riti,22,,46.25,7.866667
+ch,ritti,Ritti,22,,46.25,7.866667
+ch,ritzingen,Ritzingen,14,,46.457485,8.222769
+ch,riva,Riva,20,,46.141008,8.725535
+ch,riva san vitale,Riva San Vitale,20,,45.903409,8.971044
+ch,rive haute,Rive Haute,22,,46.006593,7.170081
+ch,riveo,Riveo,20,,46.295995,8.633038
+ch,rivera-bironico,Rivera-Bironico,20,,46.110383,8.93314
+ch,robasacco,Robasacco,20,,46.142739,8.946004
+ch,roche,Roche,23,,46.361773,6.930648
+ch,roches,Roches,26,,47.301272,7.384845
+ch,rodels,Rodels,09,,46.736619,9.44471
+ch,rodersdorf,Rodersdorf,04,,47.482205,7.457601
+ch,rodi,Rodi,20,,46.489335,8.738953
+ch,rofflaschlucht,Rofflaschlucht,09,,46.577654,9.419037
+ch,roffna,Roffna,09,,46.560979,9.625783
+ch,roflaschlucht,Roflaschlucht,09,,46.577654,9.419037
+ch,roggwil,Roggwil,01,,47.238835,7.817814
+ch,roggwil,Roggwil,15,,47.499846,9.395876
+ch,rohrbach,Rohrbach,01,,47.135353,7.817151
+ch,rohrdorf,Rohrdorf,01,,47.423517,8.306428
+ch,rohrmatten,Rohrmatten,14,,46.716667,8.2
+ch,rohr,Rohr,01,,47.410291,7.953334
+ch,rolle,Rolle,07,,46.459336,6.33856
+ch,romainmotier,Romainmotier,23,,46.693791,6.4609
+ch,romanel,Romanel,23,,46.555686,6.509054
+ch,romanel-sur-lausanne,Romanel-sur-Lausanne,23,,46.566666,6.604528
+ch,romanshorn,Romanshorn,15,9060,47.565858,9.378694
+ch,romerswil,Romerswil,06,,46.795533,7.191333
+ch,romerswil,Romerswil,11,,47.168127,8.24643
+ch,romont,Romont,06,,46.696483,6.918037
+ch,rona,Rona,09,,46.560979,9.625783
+ch,roncapiano,Roncapiano,20,,45.916667,9.033333
+ch,ronco,Ronco,14,,46.500184,8.498805
+ch,ronco,Ronco,20,,46.143665,8.726514
+ch,ronco sopra ascona,Ronco sopra Ascona,20,,46.143665,8.726514
+ch,rondchatel,Rondchatel,05,,47.176775,7.246515
+ch,rongellen,Rongellen,09,,46.67436,9.441811
+ch,root,Root,11,,47.114581,8.390207
+ch,ropraz,Ropraz,23,,46.616567,6.749205
+ch,rorbas,Rorbas,25,,47.530619,8.57749
+ch,roschach,Roschach,15,,47.474966,9.485434
+ch,roschenz,Roschenz,04,,47.423657,7.480237
+ch,rosegg,Rosegg,18,,47.21958,7.517696
+ch,rossa,Rossa,20,,46.373855,9.126611
+ch,rossens,Rossens,06,,46.720675,7.103691
+ch,rosshausern,Rosshausern,05,,46.932361,7.275746
+ch,rossiniere,Rossiniere,23,,46.466946,7.082052
+ch,rossura,Rossura,20,,46.475624,8.826054
+ch,rotenbrunnen,Rotenbrunnen,09,,46.769478,9.42608
+ch,rotenturm,Rotenturm,17,,47.104198,8.675851
+ch,rothbad,Rothbad,05,,46.622517,7.567177
+ch,rothenbach,Rothenbach,05,,46.854249,7.742508
+ch,rothenbrummen,Rothenbrummen,09,,46.769478,9.42608
+ch,rothenbrunnen,Rothenbrunnen,09,,46.769478,9.42608
+ch,rothenthurm,Rothenthurm,17,,47.104198,8.675851
+ch,rothernburg,Rothernburg,11,,47.096988,8.274367
+ch,rothrist-dorf,Rothrist-Dorf,01,,47.305162,7.890945
+ch,rothrist,Rothrist,01,7141,47.305162,7.890945
+ch,roticcio,Roticcio,09,,46.360747,9.637348
+ch,rotkreuz,Rotkreuz,24,,47.140591,8.429342
+ch,rotonda,Rotonda,20,,46.287116,8.613576
+ch,rotticcio,Rotticcio,09,,46.360747,9.637348
+ch,rotunda,Rotunda,20,,46.287116,8.613576
+ch,rougemont,Rougemont,23,,46.48597,7.209155
+ch,roverdo,Roverdo,20,,46.235122,9.126217
+ch,roveredo,Roveredo,20,,46.235122,9.126217
+ch,rovio,Rovio,20,,45.932931,8.989878
+ch,rovray,Rovray,23,,46.785473,6.764551
+ch,rubigen,Rubigen,05,,46.898515,7.544904
+ch,ruden,Ruden,20,,46.195651,8.140094
+ch,ruderswil,Ruderswil,05,,46.984151,7.720608
+ch,rudlingen,Rudlingen,16,,47.578291,8.566897
+ch,rudolfstetten,Rudolfstetten,01,,47.371014,8.38083
+ch,rueggisberg,Rueggisberg,05,,46.822163,7.438902
+ch,rueras,Rueras,21,,46.75,8.683333
+ch,rue,Rue,23,,46.619332,6.822489
+ch,rueschegg,Rueschegg,05,,46.779773,7.391673
+ch,rueun,Rueun,09,,46.778058,9.15043
+ch,rueyres,Rueyres,06,,46.648558,6.957767
+ch,rufi,Rufi,17,,47.180682,9.049694
+ch,ruis,Ruis,09,,46.766667,9.15
+ch,rumikon,Rumikon,01,,47.565744,8.375941
+ch,rumlang,Rumlang,25,6304,47.451787,8.526777
+ch,runenberg,Runenberg,01,,47.434766,7.882899
+ch,ruppen,Ruppen,15,,47.389762,9.507856
+ch,rupperswil,Rupperswil,01,,47.40131,8.128769
+ch,ruschegg-graben,Ruschegg-Graben,05,,46.795292,7.402455
+ch,ruschegg,Ruschegg,05,,46.779773,7.391673
+ch,ruschein,Ruschein,09,,46.785373,9.193432
+ch,ruschlikon,Ruschlikon,25,5246,47.307744,8.555743
+ch,russikon,Russikon,25,,47.395203,8.777097
+ch,russin,Russin,07,,46.188258,6.013514
+ch,rustenschwil,Rustenschwil,01,,47.22626,8.366046
+ch,ruswil,Ruswil,11,6441,47.084253,8.126446
+ch,ruthi,Ruthi,10,,47.294762,9.538201
+ch,ruti,Ruti,08,,46.93779,9.016949
+ch,ruti,Ruti,17,11361,47.261507,8.852445
+ch,ruti,Ruti,18,,47.151728,7.4047
+ch,rutli,Rutli,17,,46.969984,8.592111
+ch,rutti,Rutti,05,,46.983541,7.462276
+ch,ryborg,Ryborg,01,,47.571795,7.837523
+ch,ryburg,Ryburg,01,,47.571795,7.837523
+ch,saanenmoser,Saanenmoser,06,,46.516242,7.30232
+ch,saanen,Saanen,22,6644,46.489557,7.259609
+ch,saas-almagel,Saas-Almagel,22,,46.095042,7.957507
+ch,saas-balen,Saas-Balen,22,,46.154807,7.9275
+ch,saas-fee,Saas-Fee,22,,46.108411,7.927403
+ch,saas-grund,Saas-Grund,22,,46.121844,7.937992
+ch,saas,Saas,09,,46.910182,9.808646
+ch,sabbione,Sabbione,20,,46.366059,8.566357
+ch,sachseln,Sachseln,14,,46.867175,8.23344
+ch,saclens,Saclens,22,,46.166667,7.316667
+ch,saclentse,Saclentse,22,,46.166667,7.316667
+ch,saconnex,Saconnex,07,,46.226419,6.123303
+ch,safenwil,Safenwil,01,,47.321395,7.981224
+ch,safien platz,Safien Platz,09,,46.682594,9.315666
+ch,saflischmatten,Saflischmatten,01,,46.347464,8.165524
+ch,sagens,Sagens,09,,46.79024,9.252793
+ch,sage,Sage,05,,46.607353,7.558567
+ch,sage,Sage,09,,46.766667,9.833333
+ch,saglia,Saglia,09,,46.616667,9.75
+ch,sagliaz,Sagliaz,09,,46.616667,9.75
+ch,sagogn,Sagogn,09,,46.79024,9.252793
+ch,saicourt,Saicourt,05,,47.242807,7.207453
+ch,saignelegier,Saignelegier,12,,47.255435,6.994608
+ch,saillon,Saillon,22,,46.172082,7.184883
+ch,saint-aubin,Saint-Aubin,12,,46.889922,6.980858
+ch,saint-blaise,Saint-Blaise,12,,47.013233,6.984722
+ch,saint-brais,Saint-Brais,26,,47.306115,7.113681
+ch,saint-cergue,Saint-Cergue,07,,46.4459,6.157365
+ch,saint chalet a gobet,Saint Chalet a Gobet,23,,46.564826,6.692633
+ch,sainte-croix,Sainte-Croix,23,,46.822691,6.501554
+ch,saint gallen,Saint Gallen,15,,47.42539,9.377615
+ch,saint-gall,Saint-Gall,15,,47.42539,9.377615
+ch,saint-germain,Saint-Germain,22,,46.2496,7.352559
+ch,saint german,Saint German,22,,46.2496,7.352559
+ch,saint-gingolph,Saint-Gingolph,23,,46.392954,6.803223
+ch,saint-gothard,Saint-Gothard,14,,46.616667,8.616667
+ch,saint gotthard,Saint Gotthard,14,,46.616667,8.616667
+ch,saint-imier,Saint-Imier,12,4701,47.152195,6.995124
+ch,saint-jean,Saint-Jean,22,,46.196875,7.586624
+ch,saint-leonard,Saint-Leonard,22,,46.251519,7.417144
+ch,saint-livres,Saint-Livres,07,,46.50794,6.387531
+ch,saint-luc,Saint-Luc,22,,46.22063,7.596914
+ch,saint-martin-chezard,Saint-Martin-Chezard,12,,47.064361,6.921489
+ch,saint-martin,Saint-Martin,22,,46.177253,7.444178
+ch,saint-maurice,Saint-Maurice,22,,46.218257,7.003196
+ch,saint moritz,Saint Moritz,09,,46.4984,9.839086
+ch,saint peter,Saint Peter,09,,46.833044,9.650909
+ch,saint-pierre-de-clages,Saint-Pierre-de-Clages,22,,46.19212,7.236889
+ch,saint-prex,Saint-Prex,23,,46.480123,6.459284
+ch,saint-romain,Saint-Romain,22,,46.283081,7.411696
+ch,saint-sulpice,Saint-Sulpice,23,,46.510194,6.556996
+ch,saint-ursanne,Saint-Ursanne,26,,47.36474,7.154356
+ch,saland,Saland,25,,47.390814,8.853202
+ch,sala,Sala,20,,46.066667,8.916667
+ch,salategnas,Salategnas,09,,46.516777,9.65224
+ch,sales,Sales,06,,46.63763,6.973633
+ch,salez,Salez,10,,47.236453,9.497043
+ch,salgesch,Salgesch,22,,46.310555,7.569536
+ch,saline,Saline,03,,47.529578,7.676823
+ch,salmsach,Salmsach,15,,47.556956,9.368889
+ch,salouf,Salouf,09,,46.625058,9.574971
+ch,salux,Salux,09,,46.625058,9.574971
+ch,salvan,Salvan,22,,46.116345,7.016182
+ch,samaden,Samaden,09,,46.534171,9.871216
+ch,sambucco,Sambucco,20,,46.466667,8.65
+ch,sambuco di fuori,Sambuco di Fuori,20,,46.466667,8.65
+ch,sambuco,Sambuco,20,,46.466667,8.65
+ch,samedan,Samedan,09,,46.534171,9.871216
+ch,samnaun,Samnaun,09,,46.94279,10.359798
+ch,samstagern,Samstagern,17,,47.191122,8.685329
+ch,san bernardino,San Bernardino,20,,46.463065,9.191384
+ch,san carlo,San Carlo,09,,46.333333,10.033333
+ch,san carlo,San Carlo,20,,46.409512,8.525781
+ch,san gallo,San Gallo,15,,47.42539,9.377615
+ch,sangernboden,Sangernboden,06,,46.713299,7.351871
+ch,san giacomo,San Giacomo,20,,46.422129,9.227684
+ch,san gions,San Gions,21,,46.616667,8.833333
+ch,san giusep,San Giusep,09,,46.643029,9.081657
+ch,san gottardo,San Gottardo,14,,46.616667,8.616667
+ch,sankt antonien,Sankt Antonien,09,,46.969883,9.813153
+ch,sankt antoni,Sankt Antoni,06,,46.822067,7.260906
+ch,sankt fiden,Sankt Fiden,15,,47.433371,9.399078
+ch,sankt gallenkappel,Sankt Gallenkappel,17,,47.246681,8.973882
+ch,sankt gallen,Sankt Gallen,15,,47.42539,9.377615
+ch,sankt german,Sankt German,22,,46.312682,7.822081
+ch,sankt gotthard,Sankt Gotthard,14,,46.616667,8.616667
+ch,sankt jakob,Sankt Jakob,21,,46.9,8.516667
+ch,sankt johann,Sankt Johann,04,,47.616667,7.566667
+ch,sankt margrethen,Sankt Margrethen,15,4995,47.442304,9.629598
+ch,sankt martin,Sankt Martin,09,,46.675823,9.180564
+ch,sankt moritz-bad,Sankt Moritz-Bad,09,,46.466667,9.833333
+ch,sankt moritz-dorf,Sankt Moritz-Dorf,09,,46.4984,9.839086
+ch,sankt murezzan,Sankt Murezzan,09,,46.4984,9.839086
+ch,sankt niklaus,Sankt Niklaus,18,,47.219836,7.555613
+ch,sankt niklaus,Sankt Niklaus,22,,46.177055,7.803074
+ch,sankt peter,Sankt Peter,09,,46.833044,9.650909
+ch,sankt peterzell,Sankt Peterzell,02,,47.317817,9.174491
+ch,sankt stephan,Sankt Stephan,22,,46.511679,7.393865
+ch,sankt ursen,Sankt Ursen,06,,46.790904,7.220114
+ch,san nazzaro,San Nazzaro,20,,46.131145,8.801396
+ch,santa domenica,Santa Domenica,20,,46.351753,9.1231
+ch,santa maria in cama,Santa Maria in Cama,20,,46.263533,9.144838
+ch,santa maria,Santa Maria,09,,46.601706,10.424985
+ch,santa maria,Santa Maria,20,,46.263533,9.144838
+ch,sant'antonio,Sant'Antonio,20,,46.170223,9.08078
+ch,san vittore,San Vittore,20,,46.239222,9.106414
+ch,sapinhaut,Sapinhaut,22,,46.135781,7.171632
+ch,sardasca,Sardasca,09,,46.866667,10
+ch,sargans,Sargans,09,4991,47.048421,9.444797
+ch,sariswil,Sariswil,05,,46.991753,7.333992
+ch,sarmenstorf,Sarmenstorf,01,,47.310217,8.249488
+ch,sarnen,Sarnen,14,9405,46.898509,8.250681
+ch,sarn,Sarn,09,,46.719992,9.409885
+ch,satigny,Satigny,07,,46.215094,6.032179
+ch,sattel,Sattel,17,,47.082461,8.635646
+ch,sauges,Sauges,23,,46.888521,6.763521
+ch,saulcy,Saulcy,26,,47.302383,7.154036
+ch,saus oberberg,Saus Oberberg,05,,46.583333,7.85
+ch,savatan,Savatan,22,,46.216667,7.016667
+ch,saviese,Saviese,22,5653,46.251153,7.345578
+ch,savigny,Savigny,23,,46.539176,6.731219
+ch,savognin,Savognin,09,,46.596355,9.59825
+ch,savosa paese,Savosa Paese,20,,46.016667,8.916667
+ch,saxeten,Saxeten,05,,46.636584,7.830869
+ch,saxon,Saxon,22,,46.150047,7.18074
+ch,sax,Sax,10,,47.23149,9.457258
+ch,scala,Scala,09,,46.235441,10.131683
+ch,scanfs,Scanfs,09,,46.611792,9.983539
+ch,sceresio,Sceresio,20,,46.216667,8.783333
+ch,schachen,Schachen,11,,47.037651,8.139402
+ch,schaffhausen,Schaffhausen,16,34445,47.697316,8.634929
+ch,schafisheim,Schafisheim,01,,47.375287,8.140761
+ch,schaftelen,Schaftelen,14,,46.716667,8.333333
+ch,s-chanf,S-chanf,09,,46.611792,9.983539
+ch,schangnau,Schangnau,05,,46.82784,7.859875
+ch,schanis,Schanis,08,,47.157992,9.047361
+ch,scharans,Scharans,09,,46.718137,9.459027
+ch,scharligbad,Scharligbad,05,,46.883333,7.9
+ch,scharlig,Scharlig,05,,46.883333,7.9
+ch,s-charl,S-charl,09,,46.715713,10.334686
+ch,scharmadlager,Scharmadlager,14,,46.766667,8.35
+ch,schattdorf,Schattdorf,21,4779,46.865501,8.654655
+ch,schatzalp,Schatzalp,09,,46.816667,9.816667
+ch,scheid,Scheid,09,,46.777221,9.448509
+ch,schelten,Schelten,18,,47.333464,7.545748
+ch,schenkon,Schenkon,01,,47.168301,8.143841
+ch,scherliau,Scherliau,05,,46.85,7.416667
+ch,scherzingen,Scherzingen,15,,47.631418,9.224757
+ch,scherzligen,Scherzligen,05,,46.75,7.633333
+ch,schiers,Schiers,09,,46.969727,9.687197
+ch,schimbergbad,Schimbergbad,14,,46.933333,8.1
+ch,schindellegi,Schindellegi,17,,47.176896,8.709888
+ch,schinznach bad,Schinznach Bad,01,,47.449855,8.170209
+ch,schinznach dorf,Schinznach Dorf,01,,47.4465,8.140887
+ch,schinznach,Schinznach,01,,47.4465,8.140887
+ch,schlattingen,Schlattingen,16,,47.664954,8.769162
+ch,schlatt,Schlatt,10,,47.356835,9.397408
+ch,schlatt,Schlatt,16,,47.678621,8.688486
+ch,schlatt,Schlatt,25,,47.463769,8.847327
+ch,schleins,Schleins,09,,46.866667,10.433333
+ch,schleitheim,Schleitheim,16,,47.750261,8.481475
+ch,schleuis,Schleuis,09,,46.783333,9.216667
+ch,schlieren,Schlieren,25,13762,47.39646,8.448587
+ch,schlossrued,Schlossrued,01,,47.291188,8.088399
+ch,schlucht,Schlucht,09,,46.829406,9.552595
+ch,schluocht,Schluocht,09,,46.829406,9.552595
+ch,schmelzboden-monstein,Schmelzboden-Monstein,09,,46.7,9.75
+ch,schmelzboden,Schmelzboden,09,,46.7,9.75
+ch,schmerikon,Schmerikon,17,,47.225383,8.948362
+ch,schmitten,Schmitten,06,,46.857504,7.250308
+ch,schmitten,Schmitten,09,,46.686861,9.673166
+ch,schnottwil,Schnottwil,05,,47.111732,7.393685
+ch,schofhausen,Schofhausen,16,,47.697316,8.634929
+ch,schoftland,Schoftland,01,,47.305716,8.051377
+ch,schonbuhl,Schonbuhl,05,,47.019459,7.505266
+ch,schoneck,Schoneck,13,,46.959106,8.508847
+ch,schonegg,Schonegg,13,,46.959106,8.508847
+ch,schonenberg,Schonenberg,15,,47.52202,9.198883
+ch,schonenberg,Schonenberg,24,,47.193693,8.644452
+ch,schonenbuch,Schonenbuch,04,,47.536548,7.50114
+ch,schonengrund,Schonengrund,02,,47.327857,9.226902
+ch,schonenwerd,Schonenwerd,01,4470,47.3691,8.001674
+ch,schongau,Schongau,01,,47.267458,8.276915
+ch,schonholzerswilen,Schonholzerswilen,15,,47.516492,9.140389
+ch,schonried,Schonried,06,,46.503626,7.287558
+ch,schotz,Schotz,01,,47.168956,7.988702
+ch,schrattern alpe,Schrattern Alpe,14,,46.645293,8.21103
+ch,schrattern,Schrattern,14,,46.645293,8.21103
+ch,schrickmatten,Schrickmatten,05,,46.483333,7.6
+ch,schubelbach,Schubelbach,17,8292,47.173785,8.927867
+ch,schuders,Schuders,09,,46.991341,9.73788
+ch,schulh,Schulh,22,,46.466667,7.333333
+ch,schuls,Schuls,09,,46.798205,10.300486
+ch,schupbach,Schupbach,05,,46.926051,7.740043
+ch,schupfen,Schupfen,05,,47.036479,7.377153
+ch,schupfheim,Schupfheim,11,,46.951613,8.017235
+ch,schurlialp,Schurlialp,09,,46.731315,9.914306
+ch,schwaderloch,Schwaderloch,01,,47.585409,8.144551
+ch,schwanden,Schwanden,05,,46.736411,7.717765
+ch,schwanden,Schwanden,08,,46.995414,9.070095
+ch,schwandi,Schwandi,08,,46.933333,9.166667
+ch,schwarzenberg,Schwarzenberg,11,,47.017052,8.17261
+ch,schwarzenburg,Schwarzenburg,05,,46.818108,7.342084
+ch,schwarzenegg,Schwarzenegg,05,,46.795286,7.716846
+ch,schwarzenthal,Schwarzenthal,14,,46.756511,8.314363
+ch,schwarzseebad,Schwarzseebad,06,,46.671079,7.290183
+ch,schwefelbergbad,Schwefelbergbad,05,,46.715378,7.417191
+ch,schweizerhalle,Schweizerhalle,03,,47.529578,7.676823
+ch,schwellbrunn,Schwellbrunn,02,,47.352148,9.24941
+ch,schwendibad,Schwendibad,14,,46.9,8.116667
+ch,schwendikaltbad,Schwendikaltbad,14,,46.9,8.116667
+ch,schwendi,Schwendi,05,,46.716667,7.883333
+ch,schwyz,Schwyz,17,14425,47.027858,8.656112
+ch,scona,Scona,20,,46.52806,8.928295
+ch,scuol,Scuol,09,,46.796756,10.305946
+ch,secheron,Secheron,07,,46.2,6.166667
+ch,sedeilles,Sedeilles,06,,46.75002,6.93285
+ch,sedrun,Sedrun,21,,46.681556,8.778587
+ch,seebach,Seebach,25,,47.383333,8.55
+ch,seeberg,Seeberg,18,,47.155048,7.666646
+ch,seedorf,Seedorf,05,,47.034453,7.312488
+ch,seedorf,Seedorf,21,,46.881992,8.616111
+ch,seegraben,Seegraben,25,,47.342611,8.771166
+ch,seelisberg,Seelisberg,17,,46.973025,8.586886
+ch,seengen,Seengen,01,,47.328515,8.205091
+ch,seewes,Seewes,17,,47.016667,8.633333
+ch,seewis dorf,Seewis Dorf,09,,46.990232,9.637747
+ch,seewis im oberland,Seewis im Oberland,09,,46.765146,9.221267
+ch,seewis im pratigau,Seewis im Pratigau,09,,46.990232,9.637747
+ch,seewisi pratigau,Seewisi Pratigau,09,,46.990232,9.637747
+ch,seewis,Seewis,09,,46.765146,9.221267
+ch,seftigen,Seftigen,05,,46.787648,7.539365
+ch,segl-maria,Segl-Maria,09,,46.428859,9.763635
+ch,seires,Seires,20,,46.216667,8.783333
+ch,selfranga,Selfranga,09,,46.861426,9.884162
+ch,selma,Selma,20,,46.320202,9.120742
+ch,seltisberg,Seltisberg,03,,47.459468,7.717288
+ch,selzach,Selzach,18,,47.204698,7.455056
+ch,sembrancher,Sembrancher,22,,46.078571,7.153749
+ch,sementina,Sementina,20,,46.184664,8.990607
+ch,sempach,Sempach,11,,47.133584,8.192946
+ch,semsales,Semsales,23,,46.573745,6.930176
+ch,sengg,Sengg,05,,46.704407,7.950959
+ch,sennhof,Sennhof,25,,47.466459,8.75673
+ch,sennwald,Sennwald,10,,47.260526,9.502685
+ch,sent,Sent,09,,46.817708,10.338501
+ch,seon,Seon,01,4556,47.3449,8.156071
+ch,seraplana,Seraplana,09,,46.851839,10.416867
+ch,serneus dorf,Serneus Dorf,09,,46.889527,9.837754
+ch,serneus,Serneus,09,,46.889527,9.837754
+ch,serrieres,Serrieres,12,,46.983028,6.905148
+ch,sertig dofli,Sertig Dofli,09,,46.726347,9.848426
+ch,sessa,Sessa,20,,45.99984,8.81935
+ch,seth,Seth,09,,46.783333,9.15
+ch,seuberg,Seuberg,05,,47.060982,7.337259
+ch,seuzach,Seuzach,25,7061,47.536974,8.731668
+ch,sevelen,Sevelen,10,4450,47.122292,9.489926
+ch,sevgein,Sevgein,09,,46.765146,9.221267
+ch,sevgiein,Sevgiein,09,,46.765146,9.221267
+ch,sezegnin,Sezegnin,07,,46.144233,6.010267
+ch,siblingen,Siblingen,16,,47.714595,8.520353
+ch,siebnen,Siebnen,17,,47.175793,8.901968
+ch,siegershausen,Siegershausen,15,,47.610336,9.169295
+ch,siernes picats,Siernes Picats,23,,46.505292,7.170311
+ch,sierre,Sierre,22,14648,46.293235,7.536934
+ch,sigirino,Sigirino,20,,46.081647,8.914715
+ch,siglistorf,Siglistorf,01,,47.545331,8.380636
+ch,signau,Signau,05,,46.919443,7.724179
+ch,signina,Signina,09,,46.735158,9.250643
+ch,signora,Signora,20,,46.09282,9.039654
+ch,sigriswil,Sigriswil,05,,46.716387,7.710176
+ch,sihlbrucke,Sihlbrucke,24,,47.183333,8.583333
+ch,sihlbrugg dorf,Sihlbrugg Dorf,24,,47.183333,8.583333
+ch,sihlbrugg,Sihlbrugg,24,,47.183333,8.583333
+ch,silenen,Silenen,21,,46.789096,8.67325
+ch,sils im domleschg,Sils im Domleschg,09,,46.702187,9.449931
+ch,sils-maria,Sils-Maria,09,,46.428859,9.763635
+ch,sils,Sils,09,,46.428859,9.763635
+ch,silvapiana,Silvapiana,09,,46.458095,9.795135
+ch,silvaplana,Silvaplana,09,,46.458095,9.795135
+ch,silvaplauna,Silvaplauna,09,,46.458095,9.795135
+ch,silvrettaegg,Silvrettaegg,09,,46.866667,10.033333
+ch,silvrettahaus,Silvrettahaus,09,,46.866667,10.033333
+ch,silvretta hutte,Silvretta Hutte,09,,46.866667,10.033333
+ch,simpeln,Simpeln,22,,46.197071,8.055616
+ch,simplon dorf,Simplon Dorf,22,,46.197071,8.055616
+ch,sins,Sins,01,,47.192161,8.395779
+ch,sion,Sion,22,28246,46.229076,7.359417
+ch,sirnach,Sirnach,19,6658,47.463275,8.990668
+ch,siselen,Siselen,14,,47.03251,7.191186
+ch,sisikon,Sisikon,21,,46.949146,8.620026
+ch,sissach,Sissach,03,5680,47.467368,7.799596
+ch,sitten,Sitten,22,,46.229076,7.359417
+ch,siviriez,Siviriez,23,,46.658502,6.876402
+ch,soazza,Soazza,20,,46.365919,9.221554
+ch,sobrio,Sobrio,20,,46.399398,8.901446
+ch,soglio,Soglio,20,,46.341847,9.539391
+ch,soja,Soja,20,,46.5,8.983333
+ch,solduno,Solduno,20,,46.168945,8.77808
+ch,soleure,Soleure,18,,47.206649,7.516605
+ch,solgone,Solgone,20,,46.392056,9.005866
+ch,solothurn,Solothurn,18,15292,47.206649,7.516605
+ch,someo,Someo,20,,46.287505,8.66181
+ch,somlaproz,Somlaproz,22,,46.018501,7.131324
+ch,sommerau,Sommerau,01,,47.45,7.85
+ch,sommeri,Sommeri,15,,47.5675,9.289192
+ch,somprai,Somprai,09,,46.297582,10.044433
+ch,somvix,Somvix,21,,46.733333,8.95
+ch,sonceboz,Sonceboz,05,,47.197769,7.182067
+ch,sonogno,Sonogno,20,,46.349759,8.786143
+ch,sonvico,Sonvico,20,,46.057917,8.990061
+ch,sonvilier,Sonvilier,12,,47.138621,6.963506
+ch,sool,Sool,08,,47.00072,9.086045
+ch,soral,Soral,07,,46.143296,6.042291
+ch,sorenberg,Sorenberg,14,,46.822163,8.037376
+ch,sorengo,Sorengo,20,,45.99855,8.93713
+ch,sorens,Sorens,06,,46.668456,7.056934
+ch,soresina,Soresina,20,,46.120599,8.918056
+ch,sornetan,Sornetan,26,,47.274607,7.216855
+ch,sornico,Sornico,20,,46.39836,8.654115
+ch,sorte,Sorte,20,,46.293215,9.185185
+ch,sottens,Sottens,23,,46.655214,6.741967
+ch,soubey,Soubey,26,,47.309329,7.048862
+ch,soussillon,Soussillon,22,,46.260032,7.57609
+ch,soyhieres,Soyhieres,26,,47.388839,7.366196
+ch,speicher,Speicher,05,,46.763084,7.888787
+ch,speicher,Speicher,15,,47.41084,9.443814
+ch,spiez,Spiez,05,12310,46.684733,7.691108
+ch,spiggengrund,Spiggengrund,05,,46.566667,7.783333
+ch,spinas,Spinas,09,,46.55,9.833333
+ch,spiringen,Spiringen,21,,46.872593,8.730172
+ch,spitelruti,Spitelruti,21,,46.883333,8.883333
+ch,spitzenhaus,Spitzenhaus,01,,46.966667,7.883333
+ch,spluga,Spluga,09,,46.553103,9.323105
+ch,splugen,Splugen,09,,46.553103,9.323105
+ch,sporz,Sporz,09,,46.712641,9.540645
+ch,spreitenbach,Spreitenbach,01,10544,47.420159,8.363006
+ch,spruga,Spruga,20,,46.200496,8.567184
+ch,stabbio,Stabbio,20,,46.404241,9.248264
+ch,stabio,Stabio,20,,45.850992,8.939182
+ch,stachelberg bad,Stachelberg Bad,08,,46.928546,9.001415
+ch,stadel,Stadel,01,,47.528493,8.466601
+ch,stafa,Stafa,17,13040,47.239059,8.725646
+ch,stafel alp,Stafel Alp,09,,46.766667,9.783333
+ch,stafel,Stafel,09,,46.674273,9.489617
+ch,stafel,Stafel,22,,46.005874,7.69089
+ch,stafelten,Stafelten,09,,46.614929,9.154972
+ch,stafelti,Stafelti,09,,46.614929,9.154972
+ch,staffelalp,Staffelalp,22,,46.005874,7.69089
+ch,staffelbach,Staffelbach,01,,47.281779,8.047266
+ch,staldenried,Staldenried,22,,46.216667,7.883333
+ch,stalden,Stalden,05,,46.874237,7.619588
+ch,stalden,Stalden,14,,46.886559,8.212606
+ch,stalden,Stalden,22,,46.232577,7.870584
+ch,stalla,Stalla,09,,46.468553,9.650643
+ch,stallen,Stallen,04,,47.516667,7.55
+ch,stallikon,Stallikon,25,,47.326873,8.488705
+ch,stammheim,Stammheim,16,,47.65,8.783333
+ch,stampa,Stampa,09,,46.333333,9.566667
+ch,stansstad,Stansstad,13,,46.977807,8.338841
+ch,stans,Stans,13,7620,46.958449,8.365995
+ch,starlera,Starlera,09,,46.512,9.468331
+ch,starnebarg,Starnebarg,25,,47.387249,8.911334
+ch,staufen,Staufen,01,,47.383724,8.166062
+ch,staviala vedra,Staviala Vedra,09,,46.68283,9.106773
+ch,stechelberg,Stechelberg,05,,46.543567,7.901555
+ch,steckborn,Steckborn,19,,47.667301,8.98319
+ch,steffisburg,Steffisburg,05,15396,46.778074,7.63249
+ch,steg,Steg,25,,47.353325,8.933986
+ch,steinalp,Steinalp,14,,46.733333,8.416667
+ch,stein am rhein,Stein am Rhein,19,,47.65864,8.859716
+ch,steinenberg,Steinenberg,05,,46.546577,7.769414
+ch,steinen,Steinen,17,,47.049755,8.612139
+ch,steinerberg,Steinerberg,17,,47.052061,8.583989
+ch,steinhausen,Steinhausen,24,8640,47.195101,8.485809
+ch,steinhaus,Steinhaus,05,,46.833877,7.342194
+ch,steinhaus,Steinhaus,14,,46.421872,8.177806
+ch,steinibach,Steinibach,08,,46.908206,9.145468
+ch,stein,Stein,01,,47.546614,7.953096
+ch,stein,Stein,02,,47.372681,9.343568
+ch,stein,Stein,14,,46.733333,8.416667
+ch,sternenberg,Sternenberg,25,,47.387249,8.911334
+ch,stettfurt,Stettfurt,19,,47.524465,8.955088
+ch,stettlen,Stettlen,05,,46.959691,7.52191
+ch,stierva,Stierva,09,,46.663326,9.542379
+ch,stilli,Stilli,01,,47.518146,8.230764
+ch,stock,Stock,21,,46.934089,8.648388
+ch,stogl,Stogl,09,,46.633333,9.733333
+ch,stoos,Stoos,17,,46.982327,8.665905
+ch,stossen,Stossen,05,,46.783333,7.4
+ch,stoss,Stoss,10,,47.363794,9.493443
+ch,strassberg,Strassberg,09,,46.845052,9.750168
+ch,strengelbach,Strengelbach,01,,47.280071,7.924687
+ch,stuckishaus,Stuckishaus,05,,46.973058,7.436158
+ch,stugl,Stugl,09,,46.633333,9.733333
+ch,stuls,Stuls,09,,46.633333,9.733333
+ch,sturvis,Sturvis,09,,46.663326,9.542379
+ch,suberg,Suberg,05,,47.060982,7.337259
+ch,subingen,Subingen,18,,47.198516,7.619493
+ch,suchy,Suchy,23,,46.72327,6.600254
+ch,sudern,Sudern,05,,46.816667,7.75
+ch,sufers,Sufers,09,,46.570913,9.3668
+ch,sugiez,Sugiez,12,,46.961134,7.112184
+ch,suhr,Suhr,01,9522,47.371725,8.079669
+ch,sulgen,Sulgen,15,3081,47.5377,9.18497
+ch,sulgone,Sulgone,20,,46.392056,9.005866
+ch,sulsana,Sulsana,09,,46.636902,9.990098
+ch,sulsanna,Sulsanna,09,,46.636902,9.990098
+ch,sulsauna,Sulsauna,09,,46.636902,9.990098
+ch,sulz,Sulz,01,,47.536024,8.096281
+ch,sulzthal,Sulzthal,14,,46.9,8.5
+ch,sumiswald,Sumiswald,01,5072,47.027467,7.745257
+ch,sundlauenen,Sundlauenen,05,,46.68627,7.793121
+ch,suracqua,Suracqua,09,,46.38495,10.091683
+ch,surava,Surava,09,,46.665359,9.612874
+ch,surcuolm,Surcuolm,09,,46.758599,9.14448
+ch,suren,Suren,09,,46.766667,10.166667
+ch,surlej,Surlej,09,,46.457986,9.811381
+ch,surrhin,Surrhin,09,,46.665144,9.114995
+ch,sursee,Sursee,01,7962,47.170881,8.111132
+ch,susauna,Susauna,09,,46.636902,9.990098
+ch,sus,Sus,09,,46.75,10.083333
+ch,tafers,Tafers,06,,46.814829,7.218519
+ch,tagerwilen,Tagerwilen,19,,47.655942,9.131668
+ch,tagliada,Tagliada,20,,46.206619,9.060244
+ch,tamins,Tamins,09,,46.82964,9.406479
+ch,tanay,Tanay,23,,46.345592,6.832401
+ch,taney,Taney,23,,46.345592,6.832401
+ch,taniken,Taniken,19,,47.479252,8.907246
+ch,tanikon,Tanikon,19,,47.479252,8.907246
+ch,tannay,Tannay,23,,46.345592,6.832401
+ch,tannen alpe,Tannen Alpe,14,,46.766667,8.333333
+ch,tannen,Tannen,14,,46.766667,8.333333
+ch,tann,Tann,17,,47.264367,8.850653
+ch,tarasp,Tarasp,09,,46.783333,10.25
+ch,tartar,Tartar,09,,46.718469,9.4185
+ch,tarviersch,Tarviersch,09,,46.953048,9.532557
+ch,tasch,Tasch,22,,46.066932,7.778263
+ch,tauffelen,Tauffelen,14,,47.065239,7.19704
+ch,tavanasa,Tavanasa,09,,46.754096,9.064492
+ch,tavannes,Tavannes,05,,47.221602,7.201325
+ch,taverne,Taverne,20,,46.069102,8.935306
+ch,taveyannaz,Taveyannaz,22,,46.303722,7.122251
+ch,tecknau,Tecknau,01,,47.451325,7.88399
+ch,tegerfelden,Tegerfelden,01,,47.55809,8.28914
+ch,tegna,Tegna,20,,46.187901,8.749061
+ch,tenero,Tenero,20,,46.179553,8.848633
+ch,tenigerbad,Tenigerbad,21,,46.690321,8.957009
+ch,tenna,Tenna,09,,46.747661,9.339515
+ch,termen,Termen,22,,46.32832,8.022211
+ch,territet,Territet,23,,46.42452,6.925262
+ch,tesserete,Tesserete,20,,46.068083,8.965804
+ch,teufental,Teufental,01,,47.328634,8.120738
+ch,teufen,Teufen,01,,47.551923,8.565991
+ch,teufen,Teufen,15,5621,47.390723,9.389564
+ch,teufenthal,Teufenthal,01,,47.328634,8.120738
+ch,teuffenthal,Teuffenthal,05,,46.767663,7.711422
+ch,tgantieni,Tgantieni,09,,46.718573,9.529677
+ch,tga,Tga,09,,46.510833,9.590852
+ch,thalheim,Thalheim,01,,47.437538,8.104674
+ch,thalheim,Thalheim,25,,47.578175,8.754508
+ch,thalkirch,Thalkirch,09,,46.638003,9.280445
+ch,thal,Thal,09,,46.638003,9.280445
+ch,thalwil,Thalwil,25,16389,47.289515,8.567546
+ch,thayngen,Thayngen,16,,47.7481,8.710419
+ch,thermen,Thermen,22,,46.32832,8.022211
+ch,therwil,Therwil,04,8986,47.501166,7.552859
+ch,thielle,Thielle,12,,47.021783,7.029267
+ch,thierachern,Thierachern,05,,46.75319,7.574423
+ch,thierrens,Thierrens,23,,46.703289,6.756244
+ch,thonex,Thonex,07,13018,46.188186,6.196893
+ch,thorberg,Thorberg,05,,47.001293,7.565437
+ch,thorishaus,Thorishaus,05,,46.892592,7.352697
+ch,thundorf,Thundorf,19,,47.545939,8.963584
+ch,thunstetten,Thunstetten,18,,47.2,7.583333
+ch,thun,Thun,05,41539,46.751176,7.621663
+ch,thusis,Thusis,09,,46.697524,9.440202
+ch,tiefenbach,Tiefenbach,14,,46.593233,8.462079
+ch,tiefencastel,Tiefencastel,09,,46.660138,9.57883
+ch,tierachern,Tierachern,05,,46.75319,7.574423
+ch,tiermatti,Tiermatti,05,,46.586507,7.495653
+ch,tinizong,Tinizong,09,,46.582406,9.61732
+ch,tinizung,Tinizung,09,,46.582406,9.61732
+ch,tinzen,Tinzen,09,,46.582406,9.61732
+ch,titterten,Titterten,03,,47.402132,7.716172
+ch,tobel,Tobel,19,,47.514735,9.033224
+ch,toffen,Toffen,05,,46.860482,7.493658
+ch,tomils,Tomils,09,,46.761773,9.442388
+ch,torbel,Torbel,22,,46.23864,7.851764
+ch,torre,Torre,20,,46.486271,8.953347
+ch,tortin,Tortin,22,,46.113569,7.303861
+ch,tossegg,Tossegg,25,,47.436899,8.838094
+ch,tossriedern,Tossriedern,01,,47.565632,8.543746
+ch,toss,Toss,25,,47.492808,8.702811
+ch,tour de treme,Tour de Treme,06,,46.610614,7.064959
+ch,trachsellauenen,Trachsellauenen,05,,46.527177,7.90433
+ch,trachselwald,Trachselwald,05,,47.016992,7.736393
+ch,tramelan,Tramelan,05,,47.223928,7.099505
+ch,trans,Trans,09,,46.764593,9.46101
+ch,trasadingen,Trasadingen,01,,47.668267,8.430873
+ch,travers,Travers,23,,46.939062,6.673773
+ch,travesasch,Travesasch,09,,46.665139,9.205673
+ch,travisasch,Travisasch,09,,46.665139,9.205673
+ch,treib,Treib,17,,46.987244,8.586106
+ch,trelex,Trelex,07,,46.415355,6.204728
+ch,tretsch,Tretsch,09,,46.966667,9.55
+ch,treyfayes,Treyfayes,06,,46.654781,6.952001
+ch,trey,Trey,06,,46.769403,6.925721
+ch,treyvaux,Treyvaux,06,,46.72745,7.137716
+ch,tribschen,Tribschen,11,,47.038526,8.326133
+ch,triengen,Triengen,01,,47.233747,8.077287
+ch,trient,Trient,22,,46.051648,6.994009
+ch,trimbach,Trimbach,01,6127,47.365605,7.886797
+ch,trimmis dorf,Trimmis Dorf,09,,46.899073,9.562363
+ch,trimmis,Trimmis,09,,46.899073,9.562363
+ch,trimstein,Trimstein,05,,46.90481,7.583502
+ch,trins dorf,Trins Dorf,09,,46.828335,9.361637
+ch,trinsermuhle,Trinsermuhle,09,,46.833386,9.340226
+ch,trins,Trins,09,,46.828335,9.361637
+ch,trogen,Trogen,15,,47.408413,9.464493
+ch,troistorrents,Troistorrents,23,,46.226946,6.912684
+ch,trubbach,Trubbach,09,,47.073404,9.481294
+ch,trubschachen,Trubschachen,05,,46.922279,7.845199
+ch,trub,Trub,01,,46.941683,7.879958
+ch,trullikon,Trullikon,16,,47.63775,8.691966
+ch,truns,Truns,21,,46.742705,8.987163
+ch,trun,Trun,21,,46.742705,8.987163
+ch,tschamut,Tschamut,21,,46.654679,8.709145
+ch,tschappina,Tschappina,09,,46.687679,9.37526
+ch,tschenten,Tschenten,05,,46.503668,7.549094
+ch,tschiertschen,Tschiertschen,09,,46.817657,9.606376
+ch,tschingeren,Tschingeren,22,,46.330682,7.633012
+ch,tschuggen,Tschuggen,09,,46.786771,9.919839
+ch,tuggen,Tuggen,17,,47.202912,8.943664
+ch,tuors davant,Tuors Davant,09,,46.64337,9.801974
+ch,turahus,Turahus,09,,46.633333,9.283333
+ch,turbental,Turbental,25,,47.435701,8.847842
+ch,turbenthal,Turbenthal,25,,47.435701,8.847842
+ch,turgi,Turgi,01,,47.494731,8.253455
+ch,turtmann,Turtmann,22,,46.301478,7.701951
+ch,twann,Twann,14,,47.094496,7.156607
+ch,uberstorf,Uberstorf,05,,46.865866,7.30998
+ch,udligenswil,Udligenswil,11,,47.090047,8.403353
+ch,ueberlandquart,Ueberlandquart,09,,46.95,9.616667
+ch,ueberstorf,Ueberstorf,05,,46.865866,7.30998
+ch,uerikon,Uerikon,17,,47.235295,8.760777
+ch,uerkheim,Uerkheim,01,,47.302893,8.023706
+ch,uesslingen,Uesslingen,19,,47.580404,8.831395
+ch,uetendorf,Uetendorf,05,5538,46.773917,7.572506
+ch,uetikon am see,Uetikon am See,25,,47.265261,8.6606
+ch,uetikon,Uetikon,25,,47.265261,8.6606
+ch,uettligen,Uettligen,05,,46.987495,7.385258
+ch,uffikon,Uffikon,01,,47.210957,8.018076
+ch,ufhusen,Ufhusen,01,,47.116473,7.896235
+ch,uhwiesen,Uhwiesen,16,,47.67019,8.632641
+ch,uina dadora,Uina Dadora,09,,46.789521,10.388413
+ch,uitikon am albis,Uitikon am Albis,25,,47.373071,8.453426
+ch,uitikon,Uitikon,25,,47.373071,8.453426
+ch,ulrichen,Ulrichen,14,,46.506409,8.304754
+ch,undervelier,Undervelier,26,,47.303077,7.222739
+ch,unteraegeri,Unteraegeri,24,,47.136445,8.585305
+ch,unterageri,Unterageri,24,7248,47.136445,8.585305
+ch,unterbachen,Unterbachen,22,,46.450718,7.62084
+ch,unterbach,Unterbach,14,,46.738628,8.111354
+ch,unterbach,Unterbach,22,,46.266667,7.8
+ch,unter-basenheid,Unter-Basenheid,02,,47.417596,9.064091
+ch,unter-bazenheid,Unter-Bazenheid,02,,47.417596,9.064091
+ch,unter-bilten,Unter-Bilten,17,,47.151634,9.019626
+ch,unter-buch,Unter-Buch,25,,47.553415,8.620702
+ch,unter dem birg,Unter dem Birg,22,,46.459896,7.566448
+ch,unterehrendingen,Unterehrendingen,01,,47.502272,8.350141
+ch,unter eiger,Unter Eiger,05,,46.617636,8.011452
+ch,unter embrach,Unter Embrach,25,,47.507063,8.595681
+ch,unterengstringen,Unterengstringen,25,,47.414237,8.450177
+ch,untererlinsbach,Untererlinsbach,01,,47.4,8
+ch,unter-gomerkinden,Unter-Gomerkinden,05,,46.988219,7.648692
+ch,unteriberg,Unteriberg,17,,47.05,8.783333
+ch,unter illnau,Unter Illnau,25,,47.4,8.716667
+ch,unterkulm,Unterkulm,01,,47.30998,8.11371
+ch,unter-laret,Unter-Laret,09,,46.842213,9.869142
+ch,unter lauchbuhl,Unter Lauchbuhl,14,,46.633333,8.083333
+ch,unterlunkhofen,Unterlunkhofen,01,,47.32242,8.381599
+ch,unter-mutten,Unter-Mutten,09,,46.678124,9.499956
+ch,unterschachen,Unterschachen,21,,46.86281,8.769234
+ch,unter-schlatt,Unter-Schlatt,16,,47.660791,8.703473
+ch,unter schwendimatt,Unter Schwendimatt,05,,46.883333,7.7
+ch,unterseen,Unterseen,05,5283,46.6853,7.847225
+ch,unter-siggental,Unter-Siggental,01,,47.533333,8.316667
+ch,untersiggenthal,Untersiggenthal,01,6551,47.503174,8.254838
+ch,unter-sohl,Unter-Sohl,05,,46.770212,7.820617
+ch,unter staffel,Unter Staffel,21,,46.933333,8.833333
+ch,unter-stammheim,Unter-Stammheim,16,,47.638644,8.790246
+ch,unterterzen,Unterterzen,08,,47.114281,9.255464
+ch,untervaz,Untervaz,09,,46.927495,9.534221
+ch,unterwasser,Unterwasser,10,,47.196896,9.306657
+ch,unter-wetzikon,Unter-Wetzikon,25,,47.320865,8.795052
+ch,unter-wohlen,Unter-Wohlen,05,,46.970356,7.359565
+ch,uors,Uors,09,,46.702023,9.183429
+ch,urdorf,Urdorf,25,9247,47.382958,8.428597
+ch,urmein,Urmein,09,,46.691994,9.402237
+ch,urnasch,Urnasch,02,,47.316694,9.282504
+ch,urnerstafel,Urnerstafel,14,,46.883333,8.45
+ch,ursenbach,Ursenbach,01,,47.136959,7.771929
+ch,urtenen,Urtenen,05,5255,47.026668,7.500814
+ch,useigne,Useigne,22,,46.172014,7.421875
+ch,uster,Uster,25,29583,47.351997,8.713687
+ch,utendorf,Utendorf,05,,46.773917,7.572506
+ch,uttigen,Uttigen,05,,46.79435,7.577889
+ch,uttwil,Uttwil,15,,47.583599,9.342396
+ch,utzenstorf,Utzenstorf,18,,47.129813,7.558384
+ch,uznach,Uznach,17,5648,47.224209,8.982634
+ch,uzwil,Uzwil,02,12185,47.438134,9.139218
+ch,vacallo,Vacallo,20,,45.849267,9.038588
+ch,vairano,Vairano,20,,46.132329,8.812403
+ch,valangin,Valangin,12,,46.016667,6.9
+ch,valatschalp,Valatschalp,09,,46.616667,9.2
+ch,valatscha,Valatscha,09,,46.776035,10.242981
+ch,valbella,Valbella,20,,46.400635,9.130603
+ch,valcava,Valcava,09,,46.60073,10.407519
+ch,val-d'iliez,Val-d'Iliez,23,,46.204683,6.890962
+ch,val d'illiez,Val d'Illiez,23,,46.204683,6.890962
+ch,valendas,Valendas,09,,46.787803,9.282565
+ch,valens,Valens,09,,46.966581,9.477047
+ch,vallorbe,Vallorbe,23,,46.712527,6.378185
+ch,vals platz,Vals Platz,09,,46.616466,9.180254
+ch,valtnovalp,Valtnovalp,09,,46.966667,9.316667
+ch,valzeina,Valzeina,09,,46.9502,9.602684
+ch,vandoeuvres,Vandoeuvres,07,,46.221792,6.202851
+ch,vanescha,Vanescha,09,,46.616955,9.065606
+ch,varen,Varen,22,,46.318276,7.608065
+ch,vason,Vason,09,,46.952829,9.477323
+ch,vattis,Vattis,09,,46.908143,9.440483
+ch,vauderens,Vauderens,23,,46.62296,6.850977
+ch,vaud,Vaud,07,,46.477913,6.234632
+ch,vauffelin,Vauffelin,05,,47.18806,7.298702
+ch,vaulion,Vaulion,23,,46.689231,6.389805
+ch,vaulruz,Vaulruz,06,,46.621176,6.987267
+ch,vechigen,Vechigen,05,,46.947138,7.562078
+ch,veltheim,Veltheim,01,,47.433333,8.233333
+ch,veltheim,Veltheim,25,,47.514096,8.719604
+ch,vendlincourt,Vendlincourt,26,,47.451933,7.146918
+ch,vennes-sur-lausanne,Vennes-sur-Lausanne,23,,46.539852,6.653755
+ch,vennes,Vennes,23,,46.539852,6.653755
+ch,verbier,Verbier,22,,46.098716,7.216209
+ch,verbois,Verbois,07,,46.19407,6.019067
+ch,vercorin,Vercorin,22,,46.25,7.516667
+ch,verdabbio,Verdabbio,20,,46.268316,9.158058
+ch,verdasio,Verdasio,20,,46.164777,8.638963
+ch,vergeletto,Vergeletto,20,,46.216667,8.616667
+ch,vermala,Vermala,22,,46.317236,7.488439
+ch,vermes,Vermes,26,,47.329547,7.475232
+ch,vernamiege,Vernamiege,22,,46.211083,7.43069
+ch,vernayaz,Vernayaz,22,,46.135514,7.038085
+ch,vernec,Vernec,22,,46.116667,7.45
+ch,vernier,Vernier,07,29767,46.217693,6.08511
+ch,versam,Versam,09,,46.792533,9.336152
+ch,verscio,Verscio,20,,46.190758,8.727723
+ch,versoix,Versoix,07,11660,46.284017,6.161659
+ch,vesenaz,Vesenaz,07,,46.239196,6.198129
+ch,vetroz,Vetroz,22,,46.224141,7.289029
+ch,vevey,Vevey,23,16014,46.465264,6.841168
+ch,vex,Vex,22,,46.2,7.4
+ch,veyrier,Veyrier,07,9375,46.166485,6.185442
+ch,veysonnaz,Veysonnaz,22,,46.19628,7.336897
+ch,veytaux-chillon,Veytaux-Chillon,23,,46.418537,6.932028
+ch,veytaux,Veytaux,23,,46.418537,6.932028
+ch,vezenaz,Vezenaz,07,,46.239196,6.198129
+ch,viano,Viano,09,,46.253394,10.139819
+ch,vicosoprano,Vicosoprano,09,,46.350908,9.62148
+ch,vicques,Vicques,26,,47.351015,7.402662
+ch,viege,Viege,22,,46.294524,7.884736
+ch,viganello,Viganello,20,6330,46.015037,8.967779
+ch,vigens,Vigens,09,,46.69937,9.156321
+ch,vignogn,Vignogn,09,,46.69937,9.156321
+ch,villarsel-le-gibloux,Villarsel-le-Gibloux,06,,46.714982,7.016795
+ch,villarsel,Villarsel,06,,46.714982,7.016795
+ch,villarsiviriaux,Villarsiviriaux,06,,46.699378,7.010016
+ch,villars-le-grand,Villars-le-Grand,12,,46.904638,6.989466
+ch,villars-sur-glane,Villars-sur-Glane,06,9379,46.791892,7.117215
+ch,villars-sur-marly,Villars-sur-Marly,06,,46.775503,7.186492
+ch,villars-sur-ollon,Villars-sur-Ollon,23,,46.295398,7.056995
+ch,villars,Villars,23,,46.295398,7.056995
+ch,villarvolard,Villarvolard,06,,46.645275,7.107356
+ch,villa,Villa,09,,46.718235,9.173041
+ch,villa,Villa,14,,46.510206,8.524638
+ch,villaz-saint-pierre,Villaz-Saint-Pierre,06,,46.720869,6.959754
+ch,ville d'issert,Ville d'Issert,22,,46.003049,7.1258
+ch,villeneuve,Villeneuve,23,,46.395788,6.924118
+ch,villeret,Villeret,12,,47.157519,7.017045
+ch,villetta,Villetta,22,,46.138246,7.467852
+ch,villettaz,Villettaz,22,,46.138246,7.467852
+ch,villigen,Villigen,01,,47.527789,8.215018
+ch,villmergen,Villmergen,01,5244,47.349173,8.245828
+ch,villnachern,Villnachern,01,,47.472636,8.158981
+ch,vilters,Vilters,09,,47.024853,9.451454
+ch,vinzel,Vinzel,07,,46.448374,6.278611
+ch,vionnaz,Vionnaz,23,,46.310522,6.901105
+ch,vira gambarogno,Vira Gambarogno,20,,46.133333,8.833333
+ch,vira,Vira,20,,46.133333,8.833333
+ch,visletto,Visletto,20,,46.307765,8.611926
+ch,visperterminen,Visperterminen,22,,46.259773,7.901588
+ch,visp,Visp,22,6560,46.294524,7.884736
+ch,visse,Visse,22,,46.3,7.333333
+ch,vissoie,Vissoie,22,,46.216326,7.585437
+ch,vissoye,Vissoye,22,,46.216326,7.585437
+ch,vitg dadens,Vitg Dadens,09,,46.79024,9.252793
+ch,vitg dado,Vitg Dado,09,,46.79024,9.252793
+ch,vitznau,Vitznau,13,,47.010138,8.484204
+ch,volketswil,Volketswil,25,14592,47.389983,8.691548
+ch,vordemwald,Vordemwald,01,,47.272066,7.896707
+ch,vorder boden,Vorder Boden,21,,46.833333,8.75
+ch,vorder feld,Vorder Feld,25,,47.266667,8.616667
+ch,vorderfultigen,Vorderfultigen,05,,46.838275,7.424651
+ch,vorder stafel,Vorder Stafel,14,,46.76023,8.206228
+ch,vordertal,Vordertal,17,,47.120924,8.901849
+ch,vorderthal,Vorderthal,17,,47.120924,8.901849
+ch,vorder waggithal,Vorder Waggithal,17,,47.120924,8.901849
+ch,vorfrutt,Vorfrutt,21,,46.872593,8.86859
+ch,vor siez,Vor Siez,09,,46.966667,9.3
+ch,vouvry,Vouvry,23,,46.336252,6.890528
+ch,vrin,Vrin,09,,46.655847,9.099459
+ch,vuadens,Vuadens,06,,46.617312,7.020524
+ch,vuisternens,Vuisternens,06,,46.708148,7.053982
+ch,vuiteboeuf,Vuiteboeuf,23,,46.807074,6.546471
+ch,vullierens,Vullierens,23,,46.572965,6.481669
+ch,vulpera,Vulpera,09,,46.787303,10.290896
+ch,wabern,Wabern,05,,46.927208,7.452143
+ch,wachseldorn,Wachseldorn,05,,46.822054,7.725069
+ch,wadenswil,Wadenswil,17,19473,47.228726,8.670585
+ch,wagenhausen,Wagenhausen,19,,47.659688,8.847896
+ch,wahlen,Wahlen,04,,47.402264,7.515112
+ch,wahlen,Wahlen,05,,46.750873,7.565045
+ch,wahlern,Wahlern,05,6292,46.828062,7.353178
+ch,walchwil,Walchwil,24,,47.101691,8.516932
+ch,waldenburg,Waldenburg,01,,47.382068,7.74636
+ch,waldhaus,Waldhaus,09,,46.828977,9.289291
+ch,waldheim,Waldheim,13,,46.933333,8.316667
+ch,waldi,Waldi,19,,47.634238,9.094833
+ch,waldkirch,Waldkirch,15,,47.46859,9.286054
+ch,waldstatt,Waldstatt,02,,47.356704,9.284844
+ch,wald,Wald,05,,46.816667,7.85
+ch,wald,Wald,17,9016,47.276331,8.914128
+ch,walern,Walern,05,,46.828062,7.353178
+ch,walkringen,Walkringen,05,,46.948556,7.620404
+ch,wallenbuch,Wallenbuch,05,,46.929482,7.225385
+ch,wallendstadt,Wallendstadt,08,,47.124178,9.31507
+ch,wallenried,Wallenried,06,,46.873317,7.114202
+ch,wallenstadt,Wallenstadt,08,,47.124178,9.31507
+ch,wallisellen,Wallisellen,25,12820,47.418328,8.589816
+ch,waltensburg dorf,Waltensburg Dorf,09,,46.773675,9.108501
+ch,waltensburg,Waltensburg,09,,46.773675,9.108501
+ch,waltenschwil,Waltenschwil,01,,47.334929,8.303436
+ch,walterswil,Walterswil,01,,47.11566,7.77887
+ch,waltikon,Waltikon,25,,47.335739,8.620202
+ch,walzenhausen,Walzenhausen,15,,47.450071,9.604952
+ch,wangen an der aare,Wangen an der Aare,18,,47.231995,7.654479
+ch,wangen,Wangen,01,,47.343145,7.873837
+ch,wangen,Wangen,17,,47.190577,8.895287
+ch,wangi,Wangi,19,,47.497606,8.953555
+ch,wangs,Wangs,09,,47.032607,9.434059
+ch,wasen,Wasen,01,,47.042733,7.797234
+ch,wassen,Wassen,14,,46.706507,8.59881
+ch,wasserauen,Wasserauen,10,,47.284448,9.428654
+ch,wasterkingen,Wasterkingen,01,,47.589815,8.471655
+ch,wattenwil,Wattenwil,05,,46.769727,7.508348
+ch,wattwil,Wattwil,02,8129,47.302253,9.08757
+ch,wauwil,Wauwil,01,,47.184568,8.021002
+ch,weesen,Weesen,08,,47.13534,9.098541
+ch,wegenstetten,Wegenstetten,01,,47.497939,7.931594
+ch,weggis,Weggis,11,,47.03208,8.432192
+ch,weiermannshaus,Weiermannshaus,05,,46.933333,7.533333
+ch,weiermoos,Weiermoos,05,,46.75,7.5
+ch,weinfelden,Weinfelden,19,9529,47.566194,9.107546
+ch,weiningen,Weiningen,25,,47.418925,8.435344
+ch,weissbad,Weissbad,10,,47.308322,9.435278
+ch,weissenbach,Weissenbach,06,,46.606132,7.374998
+ch,weissenburg,Weissenburg,05,,46.658217,7.476036
+ch,weisslingen,Weisslingen,25,,47.430686,8.764946
+ch,weisstannen,Weisstannen,09,,46.989247,9.3436
+ch,welschenrohr,Welschenrohr,18,,47.280288,7.526341
+ch,wengen,Wengen,05,,46.605416,7.921713
+ch,wengi,Wengi,05,,47.083864,7.399255
+ch,werdenberg,Werdenberg,10,,47.168554,9.463003
+ch,werdholzli,Werdholzli,25,,47.4,8.5
+ch,wergenstein,Wergenstein,09,,46.626549,9.406912
+ch,werkholzli,Werkholzli,25,,47.4,8.5
+ch,wernetshausen,Wernetshausen,17,,47.298911,8.867048
+ch,werthenstein,Werthenstein,11,,47.055072,8.106614
+ch,wettingen,Wettingen,01,18509,47.470495,8.31636
+ch,wetzikon,Wetzikon,19,,47.53765,9.001342
+ch,wetzikon,Wetzikon,25,19377,47.325771,8.795716
+ch,weyermannshaus,Weyermannshaus,05,,46.933333,7.533333
+ch,wichtrach,Wichtrach,05,,46.850829,7.577435
+ch,wiedikon,Wiedikon,25,,47.366667,8.516667
+ch,wiedlisbach,Wiedlisbach,18,,47.251938,7.646104
+ch,wiesendangen,Wiesendangen,25,,47.521528,8.788375
+ch,wieseneralp,Wieseneralp,09,,46.713362,9.701131
+ch,wiesen,Wiesen,09,,46.703882,9.713907
+ch,wiesner alp,Wiesner Alp,09,,46.713362,9.701131
+ch,wiggen,Wiggen,01,,46.896282,7.908763
+ch,wiggen,Wiggen,14,,46.666667,8.516667
+ch,wigoltingen,Wigoltingen,19,,47.596951,9.031403
+ch,wikon,Wikon,01,,47.260953,7.965811
+ch,wila,Wila,25,,47.418673,8.846773
+ch,wilchingen,Wilchingen,16,,47.667455,8.467741
+ch,wildberg,Wildberg,25,,47.425993,8.817251
+ch,wildegg,Wildegg,01,,47.383333,8.166667
+ch,wilderswil,Wilderswil,05,,46.663057,7.865
+ch,wildhaus,Wildhaus,10,,47.201481,9.354876
+ch,wilerbad,Wilerbad,14,,46.877485,8.219101
+ch,wileroltigen,Wileroltigen,05,,46.970266,7.239444
+ch,wiler,Wiler,05,,46.713166,7.730728
+ch,wiler,Wiler,18,,47.15059,7.556574
+ch,wiler,Wiler,21,,46.733333,8.65
+ch,wiler,Wiler,22,,46.404096,7.783993
+ch,willigen,Willigen,14,,46.733333,8.183333
+ch,willisau stadt,Willisau Stadt,01,,47.119362,7.991459
+ch,willisau,Willisau,01,,47.119362,7.991459
+ch,wil,Wil,01,,47.560105,8.154085
+ch,wil,Wil,19,17234,47.462147,9.04289
+ch,wimmis,Wimmis,05,,46.675874,7.639716
+ch,windisch,Windisch,01,6815,47.476756,8.220846
+ch,windlach,Windlach,01,,47.540222,8.47446
+ch,winikon,Winikon,01,,47.238601,8.050634
+ch,winkeln bei sankt gallen,Winkeln bei Sankt Gallen,02,,47.402397,9.301135
+ch,winkeln,Winkeln,02,,47.402397,9.301135
+ch,winkel,Winkel,11,,47.013237,8.311684
+ch,winklen,Winklen,05,,46.601279,7.651959
+ch,winterthur toss,Winterthur Toss,25,,47.492808,8.702811
+ch,winterthur,Winterthur,25,91368,47.500035,8.7251
+ch,witikon,Witikon,25,,47.357007,8.599668
+ch,wittenbach,Wittenbach,15,8283,47.463075,9.37761
+ch,wittnau,Wittnau,01,,47.481387,7.975767
+ch,wity,Wity,09,,46.749135,9.834464
+ch,witzwil,Witzwil,12,,46.987759,7.075543
+ch,wohlen,Wohlen,01,14163,47.352359,8.278768
+ch,wohlen,Wohlen,05,9310,46.972336,7.358493
+ch,wolfenschiessen,Wolfenschiessen,13,,46.903217,8.394228
+ch,wolfgang,Wolfgang,09,,46.833443,9.853705
+ch,wolflinswil,Wolflinswil,01,,47.458113,7.999654
+ch,wolfwil,Wolfwil,01,,47.268186,7.789674
+ch,wolhusen,Wolhusen,11,,47.059834,8.073892
+ch,wollerau,Wollerau,17,6891,47.19478,8.719029
+ch,worben,Worben,05,,47.098911,7.288649
+ch,worblaufen,Worblaufen,05,,46.979949,7.46339
+ch,worb,Worb,05,11586,46.930286,7.562099
+ch,wuadingen,Wuadingen,06,,46.617312,7.020524
+ch,wunnewil,Wunnewil,05,,46.874005,7.277337
+ch,wuppenau,Wuppenau,02,,47.495912,9.108195
+ch,wurenlingen,Wurenlingen,01,,47.533558,8.256657
+ch,wurenling,Wurenling,01,,47.533558,8.256657
+ch,wurenlos,Wurenlos,01,,47.442078,8.364394
+ch,wyhlen,Wyhlen,03,,47.54729,7.693314
+ch,wynau,Wynau,01,,47.260604,7.806254
+ch,wynigen,Wynigen,18,,47.105859,7.666811
+ch,wyssachen,Wyssachen,01,,47.078511,7.829224
+ch,wyte,Wyte,09,,46.749135,9.834464
+ch,wyti,Wyti,09,,46.749135,9.834464
+ch,yens,Yens,23,,46.518718,6.418176
+ch,yverden,Yverden,23,,46.777908,6.635502
+ch,yverdon-les-bains,Yverdon-les-Bains,23,,46.777908,6.635502
+ch,yverdon,Yverdon,23,23756,46.777908,6.635502
+ch,yvonand,Yvonand,23,,46.798833,6.752092
+ch,yvorne,Yvorne,23,,46.331182,6.960531
+ch,zaloner hutten,Zaloner Hutten,09,,46.696309,9.302852
+ch,zaziwil,Zaziwil,05,,46.900716,7.661968
+ch,zeglingen,Zeglingen,01,,47.416309,7.904773
+ch,zeihen,Zeihen,01,,47.475356,8.083131
+ch,zelg,Zelg,22,,46.416667,7.466667
+ch,zell,Zell,01,,47.136727,7.924948
+ch,zell,Zell,25,,47.447432,8.823153
+ch,zeneggen,Zeneggen,22,,46.273609,7.866044
+ch,zermatt,Zermatt,22,5607,46.021256,7.74912
+ch,zermeiggern,Zermeiggern,22,,46.084056,7.95741
+ch,zernes,Zernes,09,,46.700866,10.094611
+ch,zernez,Zernez,09,,46.700866,10.094611
+ch,zervreila-oberboden,Zervreila-Oberboden,20,,46.566667,9.1
+ch,zervreila-unterboden,Zervreila-Unterboden,09,,46.583333,9.116667
+ch,zervreila,Zervreila,20,,46.566667,9.1
+ch,ziegelbrucke,Ziegelbrucke,08,,47.116667,9.05
+ch,zignau,Zignau,21,,46.741565,9.00692
+ch,zihlschlacht,Zihlschlacht,15,,47.520474,9.257385
+ch,zillis,Zillis,09,,46.635002,9.445915
+ch,zimmerwald,Zimmerwald,05,,46.880908,7.477125
+ch,zinal,Zinal,22,,46.13598,7.626361
+ch,zizers,Zizers,09,,46.935753,9.564911
+ch,zofingen,Zofingen,01,12327,47.289945,7.947274
+ch,zollbruck,Zollbruck,05,,46.974461,7.743761
+ch,zollikofen,Zollikofen,05,9144,46.995678,7.459013
+ch,zollikon,Zollikon,25,12534,47.338967,8.577801
+ch,zuchwil,Zuchwil,18,8815,47.207778,7.561126
+ch,zuckenriet,Zuckenriet,02,,47.484291,9.162003
+ch,zugersee,Zugersee,24,,47.116667,8.483333
+ch,zug,Zug,24,24197,47.172421,8.517445
+ch,zullwil,Zullwil,04,,47.392632,7.600499
+ch,zumdorf,Zumdorf,14,,46.610349,8.53853
+ch,zumholz,Zumholz,06,,46.754622,7.291455
+ch,zumikon,Zumikon,25,5082,47.327409,8.620752
+ch,zum loch,Zum Loch,14,,46.504137,8.317898
+ch,zunzgen,Zunzgen,03,,47.456708,7.807078
+ch,zuoz,Zuoz,09,,46.602089,9.958848
+ch,zurchersmuhle,Zurchersmuhle,02,,47.329154,9.293622
+ch,zurichhorn,Zurichhorn,25,,47.354502,8.55604
+ch,zurich,Zurich,25,346185,47.366667,8.55
+ch,zurzach,Zurzach,01,,47.589169,8.289621
+ch,zuzgen,Zuzgen,01,,47.526413,7.898659
+ch,zuzwil,Zuzwil,02,,47.473894,9.109925
+ch,zweilutschinen,Zweilutschinen,05,,46.631412,7.901532
+ch,zweisimmen,Zweisimmen,06,,46.554518,7.373847
+ch,zwingen,Zwingen,04,,47.43641,7.530098
+ch,zwischbergen,Zwischbergen,20,,46.163663,8.115746

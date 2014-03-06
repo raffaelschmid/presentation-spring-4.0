@@ -19,7 +19,9 @@ apply plugin: 'spring-boot'
 apply plugin: 'eclipse'
 
 dependencies {
-    compile("org.springframework.boot:spring-boot-starter-batch") 
+    compile("org.springframework.boot:spring-boot-starter-batch")
+	compile("org.springframework:spring-jdbc")
+	runtime("org.hsqldb:hsqldb")
 }
 
 task wrapper(type: Wrapper){
