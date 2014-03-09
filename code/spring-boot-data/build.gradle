@@ -31,5 +31,10 @@ dependencies {
 	compile("org.springframework.boot:spring-boot-starter-actuator")
     compile("org.springframework.boot:spring-boot-starter-web") 
 	compile("org.springframework.boot:spring-boot-starter-data-jpa")
+	
+	//adds basic authentication by default
+	//compile("org.springframework.boot:spring-boot-starter-security")
 	runtime("org.hsqldb:hsqldb")
+	testCompile("org.springframework:spring-test")
+	testCompile("junit:junit")
 }
