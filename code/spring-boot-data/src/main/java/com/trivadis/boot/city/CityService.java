@@ -6,4 +6,6 @@ public interface CityService {
 
 	List<City> getCity(String name);
 
+	void saveCity(City city);
+
 }

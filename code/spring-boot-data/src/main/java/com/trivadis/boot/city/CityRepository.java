@@ -1,1 +1,1 @@
-package com.trivadis.boot.city;import java.util.List;import org.springframework.data.repository.Repository;public interface CityRepository extends Repository<City, Long> {	List<City> findAllByCountryIgnoreCase(String name);}
+package com.trivadis.boot.city;import java.util.List;import org.springframework.data.repository.CrudRepository;public interface CityRepository extends CrudRepository<City, Long> {	List<City> findAllByCountryIgnoreCase(String name);}
