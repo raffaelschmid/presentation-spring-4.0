@@ -1,3 +1,0 @@
-curl --header "Content-Type:application/json" --data '{"name":"Gebenstorf","state":"","country":"Switzerland","map":"46.992979, 6.931933"}' http://localhost:8080/city/switzerland
-curl --header "Content-Type:application/json" --data '{"name":"Birmenstorf","state":"","country":"Switzerland","map":"46.992979, 6.931933"}' http://localhost:8080/city/switzerland
-curl --header "Content-Type:application/json" --data '{"name":"Zurich","state":"","country":"Switzerland","map":"46.992979, 6.931933"}' http://localhost:8080/city/switzerland
