@@ -29,15 +29,14 @@ repositories {
 }
 
 dependencies {
+	compile("org.springframework.boot:spring-boot-starter-data-jpa:${springBootVersion}")
 	compile("org.springframework.boot:spring-boot-starter-actuator:${springBootVersion}")
 	compile("org.springframework.boot:spring-boot-starter-web:${springBootVersion}")
-	compile("org.springframework.boot:spring-boot-starter-data-jpa:${springBootVersion}")
-	compile("org.springframework.boot:spring-boot-starter-security:${springBootVersion}")
 
 	runtime("org.hsqldb:hsqldb:${hsqldbVersion}")
 
 	testCompile("org.springframework:spring-test:${springVersion}")
 	testCompile("junit:junit:4.11")
 
-	compile("com.trivadis.techevent:spring-boot-data-sec:0.1.0-SNAPSHOT")
+	compile("com.trivadis.techevent:web-security:0.1.0-SNAPSHOT")
 }

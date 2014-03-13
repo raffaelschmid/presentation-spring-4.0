@@ -19,8 +19,10 @@ repositories {
 }
 
 dependencies {
+	compile("org.springframework.boot:spring-boot-starter-security:${springBootVersion}")
 	compile("org.springframework.boot:spring-boot-starter:${springBootVersion}")
 	compile("org.springframework.security:spring-security-config:${springSecurityVersion}")
+	compile("org.springframework.boot:spring-boot-starter-data-jpa:${springBootVersion}")
 	compile("javax.servlet:servlet-api:${servletApiVersion}")
 	testCompile("org.springframework.boot:spring-boot-starter-test:${springBootVersion}")
 }

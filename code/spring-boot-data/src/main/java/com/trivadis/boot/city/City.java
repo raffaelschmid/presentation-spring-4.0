@@ -32,9 +32,16 @@ public class City implements Serializable {
 	}
 
 	public City(String name, String country) {
-		super();
 		this.name = name;
 		this.country = country;
+	}
+
+	public Long getId() {
+		return id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
 	}
 
 	public String getName() {

@@ -2,8 +2,9 @@ package com.trivadis.boot.city;
 
 import java.util.List;
 
+import javax.annotation.security.RolesAllowed;
+
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -21,14 +22,16 @@ public class CityController {
 		this.cityService = cityService;
 	}
 
-	@RequestMapping("/city/{country}")
 	@ResponseBody
+	@RolesAllowed("ROLE_USER")
+	@RequestMapping("/city/{country}")
 	public List<City> getCity(@PathVariable("country") String name) {
 		return this.cityService.getCity(name);
 	}
 
-	@RequestMapping(value = "city/{country}", method = { RequestMethod.POST, RequestMethod.PUT })
 	@ResponseBody
+	@RolesAllowed("ROLE_USER")
+	@RequestMapping(value = "city/{country}", method = { RequestMethod.POST, RequestMethod.PUT })
 	public String save(@RequestBody City city) {
 		cityService.saveCity(city);
 		return "success";
