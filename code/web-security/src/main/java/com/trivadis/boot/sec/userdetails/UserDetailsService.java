@@ -5,6 +5,7 @@ import java.util.Collection;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -12,10 +13,11 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-
 @Service
-@Transactional(readOnly=true)
-public class UserDetailsService implements org.springframework.security.core.userdetails.UserDetailsService {
+@Transactional(readOnly = true)
+@ConditionalOnMissingBean(org.springframework.security.core.userdetails.UserDetailsService.class)
+public class UserDetailsService implements
+		org.springframework.security.core.userdetails.UserDetailsService {
 
 	private static final String PREFIX = "ROLE_";
 	private final UserRepository userRepository;
@@ -25,6 +27,7 @@ public class UserDetailsService implements org.springframework.security.core.use
 	public UserDetailsService(UserRepository userRepository, RoleRepository roleRepository) {
 		this.userRepository = userRepository;
 		this.roleRepository = roleRepository;
+		System.out.println(this.getClass().getClassLoader());
 	}
 
 	@Override
@@ -40,7 +43,7 @@ public class UserDetailsService implements org.springframework.security.core.use
 
 	private Collection<? extends GrantedAuthority> mapRole(List<Role> roles) {
 		List<GrantedAuthority> authorities = new ArrayList<>();
-		for(Role role : roles){
+		for (Role role : roles) {
 			authorities.add(new SimpleGrantedAuthority(PREFIX + role.getName()));
 		}
 		return authorities;
