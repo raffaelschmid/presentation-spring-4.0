@@ -5,6 +5,7 @@ import java.util.List;
 import javax.annotation.security.RolesAllowed;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -18,8 +19,10 @@ public class CityController {
 	private CityService cityService;
 
 	@Autowired
-	public CityController(CityService cityService) {
+	public CityController(CityService cityService, UserDetailsService test) {
 		this.cityService = cityService;
+		System.out.println(test.getClass());
+		System.out.println(test.getClass().getClassLoader());
 	}
 
 	@ResponseBody
