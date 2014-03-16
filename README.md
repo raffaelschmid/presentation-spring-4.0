@@ -11,3 +11,8 @@ Agenda
 | Fazit | 5' | Dominique |
 | * Total* |  44' | |
 
+| Header | Header | Right  |
+| ------ | ------ | -----: |
+|  Cell  |  Cell  |   $10  |
+|  Cell  |  Cell  |   $20  |
+
