@@ -10,10 +10,3 @@ Agenda
 | Spring XD | 12' | Dominique |
 | Spring Boot | 12' | Raffi |
 | Fazit | 5' | Dominique |
-| * Total* |  44' | |
-
-| Header | Header | Right  |
-| ------ | ------ | -----: |
-|  Cell  |  Cell  |   $10  |
-|  Cell  |  Cell  |   $20  |
-
