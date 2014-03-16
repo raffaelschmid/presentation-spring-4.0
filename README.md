@@ -1,5 +1,5 @@
-spring-4.0
-==========
+Spring 4.0 - Evolution or Revolution?
+=====================================
 
 Agenda
 ------
