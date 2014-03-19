@@ -12,15 +12,12 @@ public class City implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 
-	@Id
+	@Id @Column()
 	@GeneratedValue
 	private Long id;
 
 	@Column(nullable = false)
 	private String name;
-
-	@Column(nullable = false)
-	private String state;
 
 	@Column(nullable = false)
 	private String country;
@@ -48,10 +45,6 @@ public class City implements Serializable {
 		return this.name;
 	}
 
-	public String getState() {
-		return this.state;
-	}
-
 	public String getCountry() {
 		return this.country;
 	}
@@ -62,6 +55,6 @@ public class City implements Serializable {
 
 	@Override
 	public String toString() {
-		return getName() + "," + getState() + "," + getCountry();
+		return getName() + ", " + getCountry();
 	}
 }
