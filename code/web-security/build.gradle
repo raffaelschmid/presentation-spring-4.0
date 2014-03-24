@@ -5,10 +5,8 @@ apply plugin: 'eclipse'
 apply plugin: 'java'
 apply plugin: 'maven'
 
-def springVersion = '4.0.2.RELEASE'
 def springBootVersion = '1.0.0.RC4'
 def springSecurityVersion = '3.2.1.RELEASE'
-def servletApiVersion = '2.5'
 
 group = 'com.trivadis.techevent'
 version =  '0.1.0-SNAPSHOT'
@@ -20,10 +18,8 @@ repositories {
 
 dependencies {
 	compile("org.springframework.boot:spring-boot-starter-security:${springBootVersion}")
-	compile("org.springframework.boot:spring-boot-starter:${springBootVersion}")
+	compile("org.springframework.boot:spring-boot-starter-web:${springBootVersion}")
 	compile("org.springframework.security:spring-security-config:${springSecurityVersion}")
-	compile("org.springframework.boot:spring-boot-starter-data-jpa:${springBootVersion}")
-	compile("javax.servlet:servlet-api:${servletApiVersion}")
 	testCompile("org.springframework.boot:spring-boot-starter-test:${springBootVersion}")
 }
 
