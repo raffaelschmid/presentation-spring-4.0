@@ -1,0 +1,3 @@
+twitter.properties nach /usr/local/Cellar/springxd/1.0.0.M5/libexec/xd/config
+
+verschieben
