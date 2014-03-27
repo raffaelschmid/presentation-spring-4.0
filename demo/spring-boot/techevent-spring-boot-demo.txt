@@ -1,0 +1,54 @@
+------------------------------------------------------------------------
+-  SPRING BOOT DEMO (~6 min)                                          -
+------------------------------------------------------------------------
+
+
+A) Projekt Setup
+------------------------------------------------------------------------
+
+1. build.gradle und Dependencies
+
+2. Automatischer start von folgenden Komponenten:
+   - HSQL Datenbank
+   - REST Schnittstelle mit Spring Data JPA Repository
+   - Authentisierung und Authorisierung via Einbinden der Library security-base
+   
+   -> Im Browser die Schnittstelle zeigen
+
+B) Zeigen wie die Autokonfiguration im Detail läuft
+------------------------------------------------------------------------
+
+1. spring-boot-autoconfigure-x.x.x.x.jar als Startpunkt
+   - META-INF/spring.factories
+
+2. autoconfigure.security.AuthenticationManagerConfiguration.class
+   - @ConditionalOnMissingBean zeigen
+   - weiter nach OnBeanCondition#getMatchOutcome(...)
+
+3. @ConditionalOnMissingClass
+
+-> whole logic uses ASM (Framework zur Analyse und Manipulation von Java Bytecode)
+
+------------------------------------------------------------------------
+-  SPRING BOOT FLASHING FEATURES (~4min)                               -
+------------------------------------------------------------------------
+
+C) Einbinden ACTUATOR und CRSH
+------------------------------------------------------------------------
+1. build.gradle zeigen mit actuator und starter-shell-remote
+
+2. REST API zeigen
+   /health
+   /info
+
+3. Login via Remote Shell
+   -> ssh -p 2000 user@localhost
+   
+   - dashboard
+   - log set -l debug org.apache.tomcat.util.threads.ThreadPoolExecutor
+   - jdbc connect jdbc:hsqldb:mem:testdb
+   
+
+
+
+
