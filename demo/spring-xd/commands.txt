@@ -1,0 +1,14 @@
+xd-singlenode
+ruby -run -e httpd ./www -p 9889
+
+xd-shell
+stream create tweets --definition "twitterstream | log" --deploy false
+stream create tweetlang  --definition "tap:stream:tweets > field-value-counter --fieldName=lang"
+stream create tweetcount --definition "tap:stream:tweets > aggregatecounter"
+stream deploy tweets
+stream create tagcount --definition "tap:stream:tweets > field-value-counter --fieldName=entities.hashtags.text --counterName=hashtags"
+
+stream all undeploy
+
+
+
