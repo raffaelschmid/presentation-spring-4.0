@@ -10,11 +10,12 @@ A) Projekt Setup
 
 2. Automatischer start von folgenden Komponenten:
    - HSQL Datenbank
-   - REST Schnittstelle mit Spring Data JPA Repository
+   - REST Schnittstelle mit Spring Data JPA Repository zeigen
    - Authentisierung und Authorisierung via Einbinden der Library security-base
    
    -> Im Browser die Schnittstelle zeigen
 
+------------------------------------------------------------------------
 B) Zeigen wie die Autokonfiguration im Detail läuft
 ------------------------------------------------------------------------
 
@@ -33,6 +34,7 @@ B) Zeigen wie die Autokonfiguration im Detail läuft
 -  SPRING BOOT FLASHING FEATURES (~4min)                               -
 ------------------------------------------------------------------------
 
+------------------------------------------------------------------------
 C) Einbinden ACTUATOR und CRSH
 ------------------------------------------------------------------------
 1. build.gradle zeigen mit actuator und starter-shell-remote
@@ -41,6 +43,9 @@ C) Einbinden ACTUATOR und CRSH
    /health
    /info
 
+------------------------------------------------------------------------
+C) Einbinden CRSH
+------------------------------------------------------------------------
 3. Login via Remote Shell
    -> ssh -p 2000 user@localhost
    
